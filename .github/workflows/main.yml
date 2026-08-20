@@ -31,6 +31,7 @@ jobs:
           gh issue create \
             --title "${{ steps.poll.outputs.count }} nouvelle(s) offre(s) â€” $(date +%d/%m)" \
             --body-file new_jobs.md
+            --assignee romain-lamauve
 
       - name: Sauvegarder l'etat
         run: |
