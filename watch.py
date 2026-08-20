@@ -54,6 +54,12 @@ EXCLUDE = [
     r"\bdesign\b", r"\bux\b", r"communicat", r"\baudit\b",
 ]
 
+# Si non vide : le lieu doit matcher un de ces motifs. Vide = pas de filtre.
+LOCATIONS = [
+    r"london", r"paris", r"france", r"united kingdom", r"amsterdam",
+    r"geneva", r"zurich", r"dublin", r"remote",
+]
+
 SEEN_FILE = Path(__file__).parent / "seen.json"
 UA = {"User-Agent": "quant-watch/1.0 (personal job alert script)"}
 
