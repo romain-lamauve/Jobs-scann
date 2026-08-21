@@ -14,10 +14,10 @@
   <sub>London</sub>
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
+  <sub>London</sub>
 - **DV Trading** — [2026 Graduate Trader (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4656091005)
   <sub>London</sub>
 - **DV Trading** — [Junior Quantitative Trader ](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005)
@@ -166,18 +166,18 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom</sub>
+- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-  <sub>London, England, United Kingdom</sub>
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
+  <sub>London, England, United Kingdom</sub>
 - **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
