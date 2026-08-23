@@ -160,8 +160,12 @@
   <sub>London; Amsterdam</sub>
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
   <sub>London</sub>
+- **Man Group** — [Junior Quant - Portfolio Analytics](https://job-boards.eu.greenhouse.io/mangroup/jobs/4882444101)
+  <sub>London</sub>
 - **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
   <sub>London</sub>
+- **Momentum Financial Services Group** — [QA Test Engineering Intern](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5397912008)
+  <sub>Hyderabad (Remote)</sub>
 - **Optiver** — [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002/?gh_jid=8713898002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
@@ -174,10 +178,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
   <sub>London, England, United Kingdom</sub>
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
@@ -199,6 +203,8 @@
 - **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
 - **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
+  <sub>London</sub>
+- **Rothesay** — [Quantitative Risk Junior Trader ](https://job-boards.greenhouse.io/rothesaylife/jobs/8729460002)
   <sub>London</sub>
 - **Rothschild & Co** — [Stage Data Analyst - Banque Privée - Janvier 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190)
   <sub>Paris</sub>
