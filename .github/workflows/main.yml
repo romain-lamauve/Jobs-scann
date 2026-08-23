@@ -27,11 +27,7 @@ jobs:
         if: steps.poll.outputs.has_new == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          gh issue create \
-            --title "${{ steps.poll.outputs.count }} nouvelle(s) offre(s) â€” $(date +%d/%m)" \
-            --body-file new_jobs.md
-            --assignee romain-lamauve
+        run: gh issue create --title "${{ steps.poll.outputs.count }} nouvelles offres - $(date +%d/%m)" --body-file new_jobs.md --assignee romain-lamauve
 
       - name: Sauvegarder l'etat
         run: |
