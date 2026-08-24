@@ -152,15 +152,13 @@
   <sub>London; Amsterdam</sub>
 - **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
-  <sub>London</sub>
 - **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
   <sub>Amsterdam</sub>
+- **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
+  <sub>London</sub>
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
-  <sub>London</sub>
-- **Man Group** — [Junior Quant - Portfolio Analytics](https://job-boards.eu.greenhouse.io/mangroup/jobs/4882444101)
   <sub>London</sub>
 - **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
   <sub>London</sub>
