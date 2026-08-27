@@ -14,10 +14,10 @@
   <sub>London</sub>
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
+  <sub>London</sub>
 - **DV Trading** — [2026 Graduate Trader (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4656091005)
   <sub>London</sub>
 - **DV Trading** — [Junior Quantitative Trader ](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005)
@@ -174,10 +174,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-  <sub>London, England, United Kingdom</sub>
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
+  <sub>London, England, United Kingdom</sub>
 - **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
@@ -194,8 +194,6 @@
   <sub>Zurich</sub>
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002)
   <sub>Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest</sub>
-- **Qube Research & Technologies** — [2026 Internship - Software Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002)
-  <sub>London</sub>
 - **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
 - **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
@@ -260,8 +258,6 @@
   <sub>London, Montreal, Hong Kong, New York, Singapore</sub>
 - **Stripe** — [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- **Swiss Life** — [Stage Quantitative Risk Analyst H/F](https://swisslife.wd3.myworkdayjobs.com/Swiss_Life_Asset_Managers_Career_Site/job/Paris/Stage-Quantitative-Risk-Analyst-H-F_R12446)
-  <sub>Paris</sub>
 - **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
   <sub>London</sub>
 - **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
@@ -274,5 +270,5 @@
   <sub>Dublin, Ireland</sub>
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009)
   <sub>London, England, New York, New York</sub>
-- **Xantium** — [Quantitative Researcher Internship ](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
+- **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
   <sub>London, England, New York, New York</sub>
