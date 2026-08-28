@@ -30,6 +30,10 @@
   <sub>London</sub>
 - **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
   <sub>London</sub>
+- **Engelhart** — [Commodity Trading Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164581)
+  <sub>London, United Kingdom</sub>
+- **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164496)
+  <sub>Berlin, Germany; Grenoble, France</sub>
 - **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
   <sub>Paris</sub>
 - **Five Rings LLC - Careers** — [Campus Full Time 2027 - Quantitative Trader - Amsterdam](https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008)
@@ -166,18 +170,18 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom</sub>
+- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
   <sub>London, England, United Kingdom</sub>
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
 - **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
@@ -186,9 +190,9 @@
   <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
-  <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
+  <sub>London, United Kingdom</sub>
+- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
   <sub>London, United Kingdom</sub>
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
@@ -204,6 +208,12 @@
   <sub>Paris</sub>
 - **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
+  <sub>Mexico, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
+  <sub>Chile, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980015003)
+  <sub>Brazil, Remote</sub>
 - **Sezzle** — [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694238003)
   <sub>Colombia, Remote</sub>
 - **Sezzle** — [Junior Software Engineer with Accounting Experience ](https://job-boards.greenhouse.io/sezzle/jobs/6668069003)
