@@ -282,6 +282,8 @@
   <sub>Dublin</sub>
 - **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
+- **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
+  <sub>Paris</sub>
 - **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
   <sub>London</sub>
 - **Tower Research Capital** — [Quantitative Trader/Researcher Graduate Programme 2027 ](https://www.tower-research.com/open-positions/?gh_jid=8037824)
