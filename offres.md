@@ -274,10 +274,10 @@
   <sub>London</sub>
 - **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
-  <sub>Dublin</sub>
 - **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
+- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
+  <sub>Dublin</sub>
 - **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
   <sub>London</sub>
 - **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
