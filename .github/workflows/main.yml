@@ -2,7 +2,7 @@ name: Veille offres quant
 
 on:
   schedule:
-    - cron: "0 7 * * 1-5"   # 7h UTC, du lundi au vendredi
+     - cron: "0 5,7,9,11,13,15,17,19 * * 1-5"  # 7h UTC, du lundi au vendredi
   workflow_dispatch:         # bouton "Run workflow" pour tester a la main
 
 permissions:
