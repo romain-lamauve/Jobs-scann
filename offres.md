@@ -10,16 +10,14 @@
   <sub>APAC - Remote</sub>
 - **Bybit** — [Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4863104101)
   <sub>Abu Dhabi, UAE; APAC - Remote</sub>
-- **Citi** — [Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134)
-  <sub>London  United Kingdom</sub>
 - **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756)
   <sub>London</sub>
 - **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
 - **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
+- **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
+  <sub>London</sub>
 - **DV Trading** — [Junior Quantitative Trader ](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005)
   <sub>Remote</sub>
 - **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
@@ -152,10 +150,10 @@
   <sub>London; Amsterdam</sub>
 - **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
-  <sub>London</sub>
 - **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
   <sub>Amsterdam</sub>
+- **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
+  <sub>London</sub>
 - **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
@@ -182,10 +180,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
-- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-  <sub>London, England, United Kingdom</sub>
 - **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
+  <sub>London, England, United Kingdom</sub>
 - **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804)
   <sub>London, GBR</sub>
 - **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800)
@@ -198,9 +196,9 @@
   <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
-  <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
+  <sub>London, United Kingdom</sub>
+- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
   <sub>London, United Kingdom</sub>
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
@@ -214,14 +212,26 @@
   <sub>Paris</sub>
 - **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
-- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
-  <sub>Chile, Remote</sub>
-- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
-  <sub>Mexico, Remote</sub>
 - **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980015003)
   <sub>Brazil, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
+  <sub>Mexico, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
+  <sub>Chile, Remote</sub>
 - **Sezzle** — [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694238003)
   <sub>Colombia, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Argentina)](https://job-boards.greenhouse.io/sezzle/jobs/6110231003)
+  <sub>Argentina, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Brazil)](https://job-boards.greenhouse.io/sezzle/jobs/7541127003)
+  <sub>Brazil, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Chile)](https://job-boards.greenhouse.io/sezzle/jobs/6110233003)
+  <sub>Chile, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Colombia)](https://job-boards.greenhouse.io/sezzle/jobs/6110238003)
+  <sub>Colombia, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Mexico)](https://job-boards.greenhouse.io/sezzle/jobs/7598109003)
+  <sub>Mexico, Remote</sub>
+- **Sezzle** — [Junior Software Engineer (Turkey)](https://job-boards.greenhouse.io/sezzle/jobs/6275706003)
+  <sub>Türkiye, Remote</sub>
 - **Sezzle** — [Junior Software Engineer with Accounting Experience ](https://job-boards.greenhouse.io/sezzle/jobs/6668069003)
   <sub>Türkiye, Remote</sub>
 - **Sezzle** — [Junior Software Engineer with Accounting Experience (Argentina)](https://job-boards.greenhouse.io/sezzle/jobs/6668066003)
@@ -276,10 +286,10 @@
   <sub>London</sub>
 - **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
-  <sub>Dublin</sub>
 - **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
+- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
+  <sub>Dublin</sub>
 - **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 - **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
