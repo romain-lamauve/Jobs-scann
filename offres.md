@@ -22,8 +22,6 @@
   <sub>Amsterdam</sub>
 - **DV Trading** — [Junior Quantitative Trader ](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005)
   <sub>Remote</sub>
-- **DV Trading** — [Junior Trader (DV Equities) - Mandarin & English Fluency Required](https://job-boards.greenhouse.io/dvtrading/jobs/4663553005)
-  <sub>London</sub>
 - **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -176,10 +174,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom</sub>
+- **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
