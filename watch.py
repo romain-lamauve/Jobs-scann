@@ -61,6 +61,16 @@ LOCATIONS = [
 ]
 
 SEEN_FILE = Path(__file__).parent / "seen.json"
+STATUS_FILE = Path(__file__).parent / "statuts.csv"
+
+# Statuts reconnus dans statuts.csv, dans l'ordre d'affichage du rapport.
+STATUTS = [
+    ("entretien", "\U0001F7E2 Entretien / reponse positive"),
+    ("postule", "\U0001F535 Postule - en attente"),
+    ("", "\u26AA A traiter"),
+    ("mort", "\U0001F534 Mort (refus, offre fermee)"),
+    ("ignore", "\u26AB Ignore"),
+]
 UA = {"User-Agent": "quant-watch/1.0 (personal job alert script)"}
 
 # --- Fetchers ----------------------------------------------------------------
@@ -125,6 +135,24 @@ def fetch_workday(company, instance, tenant, site):
 # --- Filtrage ----------------------------------------------------------------
 
 
+def short_id(job_id):
+    """gh:jumptrading:8010307 -> 8010307, l'identifiant a taper dans statuts.csv."""
+    return job_id.rsplit(":", 1)[-1].strip("/").replace("/", "-")
+
+
+def load_statuts():
+    """statuts.csv : id,statut  (postule / entretien / mort / ignore)"""
+    import csv
+    out = {}
+    if not STATUS_FILE.exists():
+        return out
+    with open(STATUS_FILE, newline="") as f:
+        for r in csv.reader(f):
+            if len(r) >= 2 and r[0].strip() and r[0].strip().lower() != "id":
+                out[r[0].strip()] = r[1].strip().lower()
+    return out
+
+
 def matches(job):
     title = job["title"].lower()
     if any(re.search(p, title) for p in EXCLUDE):
@@ -164,11 +192,31 @@ def main():
 
     relevant = [j for j in jobs if matches(j)]
 
-    # Liste lisible de TOUTES les offres pertinentes, regeneree a chaque run.
-    report = ["# Offres pertinentes", ""]
+    # Rapport groupe par statut, regenere a chaque run.
+    statuts = load_statuts()
+    groupes = {cle: [] for cle, _ in STATUTS}
     for j in sorted(relevant, key=lambda x: (x["company"], x["title"])):
-        report.append(f"- **{j['company']}** — [{j['title']}]({j['url']})")
-        report.append(f"  <sub>{j['location'] or 'lieu non precise'}</sub>")
+        sid = short_id(j["id"])
+        st = statuts.get(sid, "")
+        groupes[st if st in groupes else ""].append((sid, j))
+
+    report = ["# Offres pertinentes", ""]
+    report.append(" | ".join(
+        f"{lib.split(' ')[0]} {len(groupes[cle])}" for cle, lib in STATUTS
+    ))
+    report.append("")
+
+    for cle, libelle in STATUTS:
+        lot = groupes[cle]
+        if not lot:
+            continue
+        report.append(f"## {libelle} ({len(lot)})")
+        report.append("")
+        for sid, j in lot:
+            report.append(f"- `{sid}` **{j['company']}** — [{j['title']}]({j['url']})")
+            report.append(f"  <sub>{j['location'] or 'lieu non precise'}</sub>")
+        report.append("")
+
     Path(__file__).parent.joinpath("offres.md").write_text("\n".join(report))
 
     seen = set()
