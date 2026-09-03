@@ -200,9 +200,9 @@
   <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
 - **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
+  <sub>London, United Kingdom</sub>
+- **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
   <sub>London, United Kingdom</sub>
 - **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
@@ -216,12 +216,12 @@
   <sub>Paris</sub>
 - **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
-- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
-  <sub>Chile, Remote</sub>
-- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
-  <sub>Mexico, Remote</sub>
 - **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980015003)
   <sub>Brazil, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
+  <sub>Mexico, Remote</sub>
+- **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
+  <sub>Chile, Remote</sub>
 - **Sezzle** — [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694238003)
   <sub>Colombia, Remote</sub>
 - **Sezzle** — [Junior Software Engineer (Argentina)](https://job-boards.greenhouse.io/sezzle/jobs/6110231003)
