@@ -57,7 +57,7 @@ EXCLUDE = [
 # Si non vide : le lieu doit matcher un de ces motifs. Vide = pas de filtre.
 LOCATIONS = [
     r"london", r"paris", r"france", r"united kingdom", r"amsterdam",
-    r"geneva", r"zurich", r"dublin", r"remote",
+    r"geneva", r"zurich", r"dublin",
 ]
 
 SEEN_FILE = Path(__file__).parent / "seen.json"
@@ -108,6 +108,7 @@ def fetch_workday(company, instance, tenant, site):
         f"/wday/cxs/{tenant}/{site}/jobs"
     )
     out = []
+    vus = set()
     offset = 0
     while offset < 200:
         payload = _get_json(
@@ -116,6 +117,10 @@ def fetch_workday(company, instance, tenant, site):
         posts = payload.get("jobPostings", [])
         if not posts:
             break
+        paths = {j.get("externalPath", "") for j in posts}
+        if paths & vus:
+            break
+        vus |= paths
         for j in posts:
             path = j.get("externalPath", "")
             out.append(
@@ -189,6 +194,11 @@ def main():
             jobs.extend(fetch_workday(company, instance, tenant, site))
         except Exception as e:
             errors.append(f"{company}: {e}")
+
+    uniques = {}
+    for j in jobs:
+        uniques.setdefault(j["id"], j)
+    jobs = list(uniques.values())
 
     relevant = [j for j in jobs if matches(j)]
 
