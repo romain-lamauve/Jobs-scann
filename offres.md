@@ -1,13 +1,13 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 3 | ⚪ 157 | 🔴 2 | ⚫ 0
+🟢 1 | 🔵 4 | ⚪ 108 | 🔴 2 | ⚫ 0
 
 ## 🟢 Entretien / reponse positive (1)
 
 - `8164581` **Engelhart** — [Commodity Trading Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164581)
   <sub>London, United Kingdom</sub>
 
-## 🔵 Postule - en attente (3)
+## 🔵 Postule - en attente (4)
 
 - `7957756` **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756)
   <sub>London</sub>
@@ -15,23 +15,17 @@
   <sub>London; Amsterdam</sub>
 - `8059384` **Jump Trading** — [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384)
   <sub>London; Paris</sub>
+- `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
+  <sub>Paris</sub>
 
-## ⚪ A traiter (157)
+## ⚪ A traiter (108)
 
 - `8489186002` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
   <sub>Chicago; London</sub>
-- `4868977101` **Bybit** — [NLP Algorithm Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4868977101)
-  <sub>APAC - Remote</sub>
-- `4884345101` **Bybit** — [Risk Control Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4884345101)
-  <sub>APAC - Remote</sub>
-- `4863104101` **Bybit** — [Test Development Engineer Intern](https://job-boards.eu.greenhouse.io/bybit/jobs/4863104101)
-  <sub>Abu Dhabi, UAE; APAC - Remote</sub>
 - `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
   <sub>London</sub>
 - `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
-- `4725689005` **DV Trading** — [Junior Quantitative Trader ](https://job-boards.greenhouse.io/dvtrading/jobs/4725689005)
-  <sub>Remote</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -54,43 +48,7 @@
   <sub>Amsterdam</sub>
 - `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
   <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
 - `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
   <sub>London, UK</sub>
 - `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
   <sub>London, UK</sub>
@@ -176,8 +134,6 @@
   <sub>London</sub>
 - `7806987` **Maven** — [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987)
   <sub>London</sub>
-- `5397912008` **Momentum Financial Services Group** — [QA Test Engineering Intern](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5397912008)
-  <sub>Hyderabad (Remote)</sub>
 - `8713898002` **Optiver** — [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002/?gh_jid=8713898002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
@@ -222,58 +178,8 @@
   <sub>Paris</sub>
 - `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
   <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
 - `4890973008` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
-- `7980015003` **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980015003)
-  <sub>Brazil, Remote</sub>
-- `7980003003` **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7980003003)
-  <sub>Mexico, Remote</sub>
-- `7979992003` **Sezzle** — [A.I. Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7979992003)
-  <sub>Chile, Remote</sub>
-- `7694238003` **Sezzle** — [Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694238003)
-  <sub>Colombia, Remote</sub>
-- `6110231003` **Sezzle** — [Junior Software Engineer (Argentina)](https://job-boards.greenhouse.io/sezzle/jobs/6110231003)
-  <sub>Argentina, Remote</sub>
-- `7541127003` **Sezzle** — [Junior Software Engineer (Brazil)](https://job-boards.greenhouse.io/sezzle/jobs/7541127003)
-  <sub>Brazil, Remote</sub>
-- `6110233003` **Sezzle** — [Junior Software Engineer (Chile)](https://job-boards.greenhouse.io/sezzle/jobs/6110233003)
-  <sub>Chile, Remote</sub>
-- `6110238003` **Sezzle** — [Junior Software Engineer (Colombia)](https://job-boards.greenhouse.io/sezzle/jobs/6110238003)
-  <sub>Colombia, Remote</sub>
-- `7598109003` **Sezzle** — [Junior Software Engineer (Mexico)](https://job-boards.greenhouse.io/sezzle/jobs/7598109003)
-  <sub>Mexico, Remote</sub>
-- `6275706003` **Sezzle** — [Junior Software Engineer (Turkey)](https://job-boards.greenhouse.io/sezzle/jobs/6275706003)
-  <sub>Türkiye, Remote</sub>
-- `6668069003` **Sezzle** — [Junior Software Engineer with Accounting Experience ](https://job-boards.greenhouse.io/sezzle/jobs/6668069003)
-  <sub>Türkiye, Remote</sub>
-- `6668066003` **Sezzle** — [Junior Software Engineer with Accounting Experience (Argentina)](https://job-boards.greenhouse.io/sezzle/jobs/6668066003)
-  <sub>Argentina, Remote</sub>
-- `7541130003` **Sezzle** — [Junior Software Engineer with Accounting Experience (Brazil)](https://job-boards.greenhouse.io/sezzle/jobs/7541130003)
-  <sub>Brazil, Remote</sub>
-- `6668067003` **Sezzle** — [Junior Software Engineer with Accounting Experience (Chile)](https://job-boards.greenhouse.io/sezzle/jobs/6668067003)
-  <sub>Chile, Remote</sub>
-- `6668068003` **Sezzle** — [Junior Software Engineer with Accounting Experience (LATAM)](https://job-boards.greenhouse.io/sezzle/jobs/6668068003)
-  <sub>Colombia, Remote</sub>
-- `7598107003` **Sezzle** — [Junior Software Engineer with Accounting Experience (Mexico)](https://job-boards.greenhouse.io/sezzle/jobs/7598107003)
-  <sub>Mexico, Remote</sub>
-- `6685976003` **Sezzle** — [Product Data Intern ](https://job-boards.greenhouse.io/sezzle/jobs/6685976003)
-  <sub>Colombia, Remote</sub>
-- `7693478003` **Sezzle** — [SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7693478003)
-  <sub>Colombia, Remote</sub>
-- `7694916003` **Sezzle** — [Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694916003)
-  <sub>Colombia, Remote</sub>
-- `6233081003` **Sezzle** — [Software Engineer Intern ](https://job-boards.greenhouse.io/sezzle/jobs/6233081003)
-  <sub>Colombia, Remote</sub>
 - `7918610` **Squarepoint Capital** — [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610)
   <sub>London, Montreal, Singapore</sub>
 - `6040910` **Squarepoint Capital** — [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910)
@@ -312,8 +218,6 @@
   <sub>Dublin</sub>
 - `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
-- `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
-  <sub>Paris</sub>
 - `8113986` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
   <sub>London</sub>
 - `8037824` **Tower Research Capital** — [Quantitative Trader/Researcher Graduate Programme 2027 ](https://www.tower-research.com/open-positions/?gh_jid=8037824)
