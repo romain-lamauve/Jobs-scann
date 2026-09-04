@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 5 | ⚪ 107 | 🔴 2 | ⚫ 0
+🟢 1 | 🔵 5 | ⚪ 112 | 🔴 2 | ⚫ 0
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -20,8 +20,12 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (107)
+## ⚪ A traiter (112)
 
+- `job-XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440` **Barclays** — [2027 Technology Developer Expert Graduate Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)
+  <sub>lieu non precise</sub>
+- `job-XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244` **Barclays** — [2027 Technology Developer Graduate Program Whippany](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)
+  <sub>lieu non precise</sub>
 - `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
   <sub>London</sub>
 - `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
@@ -35,6 +39,10 @@
 - `8164496` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164496)
   <sub>Berlin, Germany; Grenoble, France</sub>
 - `job-Paris-AI-Engineering-Intern_R28219` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
+  <sub>Paris</sub>
+- `job-Paris-Quant-Intern_R28576` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576)
+  <sub>Paris</sub>
+- `job-Paris-Quant-Intern_R28574` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28574)
   <sub>Paris</sub>
 - `5344213008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Quantitative Trader - Amsterdam](https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008)
   <sub>Amsterdam</sub>
@@ -124,6 +132,8 @@
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
   <sub>London</sub>
+- `4969142101` **Man Group** — [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101)
+  <sub>London</sub>
 - `8048591` **Maven** — [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
   <sub>Amsterdam</sub>
 - `8098645` **Maven** — [Graduate Trader Programme Amsterdam 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8098645)
@@ -136,10 +146,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom</sub>
+- `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8488699002` **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8488701002` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
