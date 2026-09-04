@@ -22,10 +22,10 @@
 
 ## ⚪ A traiter (106)
 
-- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
-  <sub>Amsterdam</sub>
 - `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
   <sub>London</sub>
+- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
+  <sub>Amsterdam</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -160,9 +160,9 @@
   <sub>London, United Kingdom</sub>
 - `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
 - `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
+  <sub>London, United Kingdom</sub>
+- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
   <sub>London, United Kingdom</sub>
 - `8169041002` **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
