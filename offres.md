@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 5 | ⚪ 107 | 🔴 2 | ⚫ 0
+🟢 1 | 🔵 5 | ⚪ 106 | 🔴 2 | ⚫ 0
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -20,7 +20,7 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (107)
+## ⚪ A traiter (106)
 
 - `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
@@ -116,15 +116,13 @@
   <sub>London; Amsterdam</sub>
 - `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
-  <sub>London</sub>
 - `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
   <sub>Amsterdam</sub>
+- `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
+  <sub>London</sub>
 - `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
-  <sub>London</sub>
-- `4965180101` **Man Group** — [Junior Quant - Systematic Multi-Strat](https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101)
   <sub>London</sub>
 - `8048591` **Maven** — [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
   <sub>Amsterdam</sub>
