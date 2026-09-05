@@ -1,11 +1,11 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 5 | ⚪ 112 | 🔴 2 | ⚫ 0
+🟢 1 | 🔵 5 | ⚪ 111 | 🔴 3 | ⚫ 0
 
 ## 🟢 Entretien / reponse positive (1)
 
-- `8164581` **Engelhart** — [Commodity Trading Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164581)
-  <sub>London, United Kingdom</sub>
+- `8164496` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164496)
+  <sub>Berlin, Germany; Grenoble, France</sub>
 
 ## 🔵 Postule - en attente (5)
 
@@ -20,7 +20,7 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (112)
+## ⚪ A traiter (111)
 
 - `job-XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440` **Barclays** — [2027 Technology Developer Expert Graduate Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)
   <sub>lieu non precise</sub>
@@ -36,8 +36,6 @@
   <sub>London</sub>
 - `4719135005` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
   <sub>London</sub>
-- `8164496` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164496)
-  <sub>Berlin, Germany; Grenoble, France</sub>
 - `job-Paris-AI-Engineering-Intern_R28219` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
   <sub>Paris</sub>
 - `job-Paris-Quant-Intern_R28576` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576)
@@ -222,10 +220,10 @@
   <sub>London</sub>
 - `8097801` **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
-  <sub>Dublin</sub>
 - `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
+- `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
+  <sub>Dublin</sub>
 - `8113986` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
   <sub>London</sub>
 - `8037824` **Tower Research Capital** — [Quantitative Trader/Researcher Graduate Programme 2027 ](https://www.tower-research.com/open-positions/?gh_jid=8037824)
@@ -247,9 +245,11 @@
 - `4371217009` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
   <sub>London, England, New York, New York</sub>
 
-## 🔴 Mort (refus, offre fermee) (2)
+## 🔴 Mort (refus, offre fermee) (3)
 
 - `8634612002` **3Red Partners** — [Graduate Trader (2027 Incoming Graduate, Full-Time)](https://job-boards.greenhouse.io/3redpartners/jobs/8634612002)
   <sub>Chicago/Summa - Amsterdam</sub>
 - `7957243` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
+- `8164581` **Engelhart** — [Commodity Trading Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164581)
+  <sub>London, United Kingdom</sub>
