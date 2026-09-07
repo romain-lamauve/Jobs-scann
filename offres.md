@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 5 | ⚪ 111 | 🔴 3 | ⚫ 0
+🟢 1 | 🔵 5 | ⚪ 114 | 🔴 3 | ⚫ 0
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -20,16 +20,18 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (111)
+## ⚪ A traiter (114)
 
 - `job-XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440` **Barclays** — [2027 Technology Developer Expert Graduate Program Wilmington](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)
   <sub>lieu non precise</sub>
 - `job-XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244` **Barclays** — [2027 Technology Developer Graduate Program Whippany](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)
   <sub>lieu non precise</sub>
-- `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
+- `job-Paris-52-avenue-Hoche-Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726` **Barclays** — [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726)
+  <sub>Paris, 52 avenue Hoche</sub>
 - `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
+- `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
+  <sub>London</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -122,10 +124,10 @@
   <sub>London; Amsterdam</sub>
 - `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
-  <sub>Amsterdam</sub>
 - `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
   <sub>London</sub>
+- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
+  <sub>Amsterdam</sub>
 - `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
@@ -134,8 +136,12 @@
   <sub>London</sub>
 - `8048591` **Maven** — [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
   <sub>Amsterdam</sub>
+- `8048825` **Maven** — [Graduate Quant Researcher 2027  London](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825)
+  <sub>London</sub>
 - `8098645` **Maven** — [Graduate Trader Programme Amsterdam 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8098645)
   <sub>Amsterdam</sub>
+- `7806970` **Maven** — [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970)
+  <sub>London</sub>
 - `8043552` **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
   <sub>London</sub>
 - `7806987` **Maven** — [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987)
@@ -168,9 +174,9 @@
   <sub>London, United Kingdom</sub>
 - `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
 - `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
+  <sub>London, United Kingdom</sub>
+- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
   <sub>London, United Kingdom</sub>
 - `8169041002` **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
