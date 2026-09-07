@@ -70,6 +70,7 @@ STATUTS = [
     ("", "\u26AA A traiter"),
     ("mort", "\U0001F534 Mort (refus, offre fermee)"),
     ("ignore", "\u26AB Ignore"),
+    ("cdi-2027", "\U0001F7E3 CDI 2027 - a rouvrir en fevrier"),
 ]
 UA = {"User-Agent": "quant-watch/1.0 (personal job alert script)"}
 
