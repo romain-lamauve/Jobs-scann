@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 8 | ⚪ 21 | 🔴 71 | ⚫ 0 | 🟣 22
+🟢 1 | 🔵 8 | ⚪ 26 | 🔴 70 | ⚫ 0 | 🟣 22
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -26,7 +26,7 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (21)
+## ⚪ A traiter (26)
 
 - `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
   <sub>London, UK</sub>
@@ -58,6 +58,16 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `7297657002` **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
+- `8785833002` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
+  <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich</sub>
+- `8773084002` **Qube Research & Technologies** — [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002)
+  <sub>London, Paris, Wrocław, Zurich</sub>
+- `8777760002` **Qube Research & Technologies** — [2027 Internship - Security Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002)
+  <sub>London, Paris</sub>
+- `8777855002` **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002)
+  <sub>London</sub>
+- `8773447002` **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure Engineering ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002)
+  <sub>London, Paris</sub>
 - `243853` **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853)
   <sub>London, Paris, New York, Singapore, Hong Kong</sub>
 - `8113986` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
@@ -71,7 +81,7 @@
 - `4371217009` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
   <sub>London, England, New York, New York</sub>
 
-## 🔴 Mort (refus, offre fermee) (71)
+## 🔴 Mort (refus, offre fermee) (70)
 
 - `8634612002` **3Red Partners** — [Graduate Trader (2027 Incoming Graduate, Full-Time)](https://job-boards.greenhouse.io/3redpartners/jobs/8634612002)
   <sub>Chicago/Summa - Amsterdam</sub>
@@ -83,10 +93,10 @@
   <sub>London</sub>
 - `7957243` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
 - `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
   <sub>Amsterdam</sub>
+- `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
+  <sub>London</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -139,10 +149,10 @@
   <sub>London</sub>
 - `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
-  <sub>Amsterdam</sub>
 - `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
   <sub>London</sub>
+- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
+  <sub>Amsterdam</sub>
 - `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
@@ -163,14 +173,12 @@
   <sub>London, United Kingdom</sub>
 - `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
 - `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
+  <sub>London, United Kingdom</sub>
+- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
   <sub>London, United Kingdom</sub>
 - `8169041002` **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
   <sub>Zurich</sub>
-- `8052341002` **Qube Research & Technologies** — [2026 - Internship, Quantitative Research/Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002)
-  <sub>Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest</sub>
 - `8154555002` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
 - `4812537002` **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
@@ -203,10 +211,10 @@
   <sub>London</sub>
 - `8097801` **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
-  <sub>Dublin</sub>
 - `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
   <sub>London</sub>
+- `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
+  <sub>Dublin</sub>
 - `8037860` **Tower Research Capital** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860)
   <sub>London</sub>
 - `8638124002` **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
