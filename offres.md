@@ -1,22 +1,18 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 8 | ⚪ 28 | 🔴 68 | ⚫ 0 | 🟣 22
+🟢 1 | 🔵 6 | ⚪ 28 | 🔴 68 | ⚫ 0 | 🟣 22
 
 ## 🟢 Entretien / reponse positive (1)
 
 - `8164496` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164496)
   <sub>Berlin, Germany; Grenoble, France</sub>
 
-## 🔵 Postule - en attente (8)
+## 🔵 Postule - en attente (6)
 
 - `8489186002` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
   <sub>Chicago; London</sub>
-- `job-Paris-52-avenue-Hoche-Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726` **Barclays** — [Quantitative Analytics Associate Off Cycle Internship Programme 2027 Paris](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726)
-  <sub>Paris, 52 avenue Hoche</sub>
 - `job-Paris-Quant-Intern_R28574` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28574)
   <sub>Paris</sub>
-- `8570661002` **GSA Capital** — [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002)
-  <sub>London, New York</sub>
 - `7964062` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062)
   <sub>London, United Kingdom; New York, NY, United States; Singapore</sub>
 - `8010307` **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307)
@@ -93,10 +89,10 @@
   <sub>London</sub>
 - `7957243` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
-  <sub>Amsterdam</sub>
 - `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
   <sub>London</sub>
+- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
+  <sub>Amsterdam</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -111,6 +107,8 @@
   <sub>Paris</sub>
 - `5349905008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Software Developer - London](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008)
   <sub>London</sub>
+- `8570661002` **GSA Capital** — [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002)
+  <sub>London, New York</sub>
 - `8570668002` **GSA Capital** — [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002)
   <sub>London</sub>
 - `job-Edina--7701-France-Avenue-South-Catastrophe-Research---Development-Intern_R0019097` **Howden** — [Catastrophe Research & Development Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Edina--7701-France-Avenue-South/Catastrophe-Research---Development-Intern_R0019097)
@@ -177,8 +175,6 @@
   <sub>London, United Kingdom</sub>
 - `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
   <sub>London, United Kingdom</sub>
-- `8169041002` **Qube Research & Technologies** — [2026 - Internship, Quantitative Developer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8169041002)
-  <sub>Zurich</sub>
 - `8154555002` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
 - `4812537002` **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
