@@ -171,9 +171,9 @@
   <sub>London, United Kingdom</sub>
 - `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
 - `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
+  <sub>London, United Kingdom</sub>
+- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
   <sub>London, United Kingdom</sub>
 - `8154555002` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
@@ -250,10 +250,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
-  <sub>London, England, United Kingdom</sub>
 - `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
+  <sub>London, England, United Kingdom</sub>
 - `4890973008` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
 - `7918610` **Squarepoint Capital** — [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610)
