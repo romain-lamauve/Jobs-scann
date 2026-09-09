@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 1 | 🔵 8 | ⚪ 26 | 🔴 70 | ⚫ 0 | 🟣 22
+🟢 1 | 🔵 8 | ⚪ 28 | 🔴 70 | ⚫ 0 | 🟣 22
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -26,7 +26,7 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (26)
+## ⚪ A traiter (28)
 
 - `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
   <sub>London, UK</sub>
@@ -58,16 +58,20 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `7297657002` **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
-- `8785833002` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
+- `8623972002` **Qube Research & Technologies** — [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002)
+  <sub>Paris, London</sub>
+- `8785833002` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich</sub>
 - `8773084002` **Qube Research & Technologies** — [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002)
-  <sub>London, Paris, Wrocław, Zurich</sub>
+  <sub>London, Paris, Wrocław, Zurich, Dubai</sub>
 - `8777760002` **Qube Research & Technologies** — [2027 Internship - Security Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002)
   <sub>London, Paris</sub>
 - `8777855002` **Qube Research & Technologies** — [2027 Internship/Graduate - FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002)
   <sub>London</sub>
 - `8773447002` **Qube Research & Technologies** — [2027 Internship/Graduate - Infrastructure Engineering ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002)
   <sub>London, Paris</sub>
+- `8187178` **Schonfeld** — [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178)
+  <sub>London, England, United Kingdom</sub>
 - `243853` **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853)
   <sub>London, Paris, New York, Singapore, Hong Kong</sub>
 - `8113986` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
