@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 0 | 🔵 6 | ⚪ 32 | 🔴 68 | ⚫ 0 | 🟣 22
+🟢 0 | 🔵 6 | ⚪ 32 | 🔴 68 | ⚫ 0 | 🟣 23
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,6 +19,8 @@
 
 ## ⚪ A traiter (32)
 
+- `4974869101` **ClearScore Technology Limited** — [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4974869101)
+  <sub>London, England, United Kingdom</sub>
 - `4732700005` **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
   <sub>London</sub>
 - `8195178` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8195178)
@@ -31,8 +33,6 @@
   <sub>London, UK</sub>
 - `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
   <sub>London, UK</sub>
-- `5235738007` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
-  <sub>Dublin Ireland Office</sub>
 - `4912874101` **IMC** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
   <sub>Amsterdam, Netherlands</sub>
 - `4936262101` **IMC** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
@@ -152,20 +152,20 @@
   <sub>London</sub>
 - `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
-  <sub>London</sub>
 - `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
   <sub>Amsterdam</sub>
+- `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
+  <sub>London</sub>
 - `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
   <sub>London</sub>
 - `7806987` **Maven** — [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987)
   <sub>London</sub>
-- `8713435002` **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-  <sub>London, England, United Kingdom</sub>
 - `8713409002` **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- `8713435002` **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
+  <sub>London, England, United Kingdom</sub>
 - `job-London-GBR-XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804` **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804)
   <sub>London, GBR</sub>
 - `job-London-GBR-XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800` **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800)
@@ -210,10 +210,10 @@
   <sub>London</sub>
 - `8097801` **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   <sub>Dublin</sub>
-- `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
-  <sub>London</sub>
 - `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
   <sub>Dublin</sub>
+- `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
+  <sub>London</sub>
 - `8037860` **Tower Research Capital** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860)
   <sub>London</sub>
 - `8638124002` **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
@@ -223,7 +223,7 @@
 - `4360768009` **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009)
   <sub>London, England, New York, New York</sub>
 
-## 🟣 CDI 2027 - a rouvrir en fevrier (22)
+## 🟣 CDI 2027 - a rouvrir en fevrier (23)
 
 - `5344213008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Quantitative Trader - Amsterdam](https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008)
   <sub>Amsterdam</sub>
@@ -233,6 +233,8 @@
   <sub>Amsterdam</sub>
 - `6492219` **Flow Traders** — [Junior Quantitative Researcher ](https://job-boards.greenhouse.io/flowtraders/jobs/6492219)
   <sub>Amsterdam</sub>
+- `5235738007` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
+  <sub>Dublin Ireland Office</sub>
 - `4914883101` **IMC** — [ Graduate Machine Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101)
   <sub>London, United Kingdom</sub>
 - `4667814101` **IMC** — [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101)
@@ -253,10 +255,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom</sub>
+- `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
+  <sub>Amsterdam, North Holland, Netherlands</sub>
 - `4890973008` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
 - `7918610` **Squarepoint Capital** — [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610)
