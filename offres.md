@@ -1,6 +1,6 @@
 # Offres pertinentes
 
-🟢 0 | 🔵 6 | ⚪ 31 | 🔴 67 | ⚫ 0 | 🟣 22
+🟢 0 | 🔵 6 | ⚪ 32 | 🔴 68 | ⚫ 0 | 🟣 22
 
 ## 🔵 Postule - en attente (6)
 
@@ -17,7 +17,7 @@
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
 
-## ⚪ A traiter (31)
+## ⚪ A traiter (32)
 
 - `4732700005` **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
   <sub>London</sub>
@@ -31,6 +31,8 @@
   <sub>London, UK</sub>
 - `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
   <sub>London, UK</sub>
+- `5235738007` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
+  <sub>Dublin Ireland Office</sub>
 - `4912874101` **IMC** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
   <sub>Amsterdam, Netherlands</sub>
 - `4936262101` **IMC** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
@@ -82,18 +84,20 @@
 - `4371217009` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
   <sub>London, England, New York, New York</sub>
 
-## 🔴 Mort (refus, offre fermee) (67)
+## 🔴 Mort (refus, offre fermee) (68)
 
 - `8634612002` **3Red Partners** — [Graduate Trader (2027 Incoming Graduate, Full-Time)](https://job-boards.greenhouse.io/3redpartners/jobs/8634612002)
   <sub>Chicago/Summa - Amsterdam</sub>
+- `job-XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244` **Barclays** — [2027 Technology Developer Graduate Program Whippany](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)
+  <sub>lieu non precise</sub>
 - `7957756` **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756)
   <sub>London</sub>
 - `7957243` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
   <sub>London</sub>
-- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
-  <sub>Amsterdam</sub>
 - `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
   <sub>London</sub>
+- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
+  <sub>Amsterdam</sub>
 - `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
   <sub>London</sub>
 - `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -148,10 +152,10 @@
   <sub>London</sub>
 - `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
   <sub>London</sub>
-- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
-  <sub>Amsterdam</sub>
 - `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
   <sub>London</sub>
+- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
+  <sub>Amsterdam</sub>
 - `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
   <sub>London; Amsterdam</sub>
 - `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
@@ -172,9 +176,9 @@
   <sub>London, United Kingdom</sub>
 - `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
   <sub>London, United Kingdom</sub>
-- `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
-  <sub>London, United Kingdom</sub>
 - `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
+  <sub>London, United Kingdom</sub>
+- `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
   <sub>London, United Kingdom</sub>
 - `8154555002` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
   <sub>London, Paris, Zurich</sub>
@@ -249,10 +253,10 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
   <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
-  <sub>London, England, United Kingdom</sub>
 - `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
+  <sub>London, England, United Kingdom</sub>
 - `4890973008` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
   <sub>London, Singapore</sub>
 - `7918610` **Squarepoint Capital** — [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610)
