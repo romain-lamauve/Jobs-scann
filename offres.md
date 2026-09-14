@@ -1,277 +1,134 @@
 # Offres pertinentes
 
-🟢 0 | 🔵 7 | ⚪ 34 | 🔴 67 | ⚫ 0 | 🟣 23
+_Mis a jour le 2026-09-14_
 
-## 🔵 Postule - en attente (7)
+🟢 0 | 🔵 0 | ⚪ 240 | 🔴 0 | ⚫ 0
 
-- `8489186002` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
-  <sub>Chicago; London</sub>
-- `job-Paris-Quant-Intern_R28574` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28574)
-  <sub>Paris</sub>
-- `7964062` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062)
-  <sub>London, United Kingdom; New York, NY, United States; Singapore</sub>
-- `8010307` **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307)
-  <sub>London; Amsterdam</sub>
-- `8059384` **Jump Trading** — [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384)
-  <sub>London; Paris</sub>
-- `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
-  <sub>Paris</sub>
-- `4393652006` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris</sub>
+## ⚪ A traiter (60) — 180 autres sous le seuil de score 5
 
-## ⚪ A traiter (34)
+- `JUM-025cd239` **Jump Trading** — [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384)
+  <sub>London; Paris · score 25 · vue le 2026-09-14</sub>
+- `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
+  <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
+- `HUD-a4fb59f0` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062)
+  <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
+- `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
+  <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
+- `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
+  <sub>Paris · score 23 · vue le 2026-09-14</sub>
+- `POI-f72c7330` **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
+  <sub>London, Paris, Hong Kong, Tokyo · score 22 · vue le 2026-09-14</sub>
+- `SQU-3e49c19b` **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853)
+  <sub>London, Paris, New York, Singapore, Hong Kong · score 22 · vue le 2026-09-14</sub>
+- `SQU-c8748e6d` **Squarepoint Capital** — [Junior Quant Researcher - ML Alpha Research](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464)
+  <sub>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore · score 22 · vue le 2026-09-14</sub>
+- `AQU-757afeac` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
+  <sub>Chicago; London · score 20 · vue le 2026-09-14</sub>
+- `ENG-8a72be13` **Engelhart** — [Weather Quantitative Research Internship Programme](https://job-boards.greenhouse.io/engelhart/jobs/8191899)
+  <sub>Grenoble, France · score 20 · vue le 2026-09-14</sub>
+- `OPT-c86f973b` **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
+  <sub>Amsterdam, North Holland, Netherlands · score 20 · vue le 2026-09-14</sub>
+- `PIM-87686f0e` **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804)
+  <sub>London, GBR · score 20 · vue le 2026-09-14</sub>
+- `QUB-d4884004` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
+  <sub>London, Paris, Zurich · score 20 · vue le 2026-09-14</sub>
+- `SCH-37a288e0` **Schonfeld** — [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178)
+  <sub>London, England, United Kingdom · score 20 · vue le 2026-09-14</sub>
+- `SQU-b786b251` **Squarepoint Capital** — [Junior Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376)
+  <sub>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore · score 20 · vue le 2026-09-14</sub>
+- `TOW-4a9c9425` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
+  <sub>London · score 20 · vue le 2026-09-14</sub>
+- `VIR-368fd80f` **Virtu Financial** — [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002)
+  <sub>Dublin, Ireland · score 20 · vue le 2026-09-14</sub>
+- `DRW-060ce07d` **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756)
+  <sub>London · score 17 · vue le 2026-09-14</sub>
+- `GRE-41d843b8` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
+  <sub>London, UK · score 17 · vue le 2026-09-14</sub>
+- `GSA-682a4dd5` **GSA Capital** — [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002)
+  <sub>London, New York · score 17 · vue le 2026-09-14</sub>
+- `JUM-0a9dc47b` **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307)
+  <sub>London; Amsterdam · score 17 · vue le 2026-09-14</sub>
+- `MAN-e6c42b92` **Man Group** — [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101)
+  <sub>London · score 17 · vue le 2026-09-14</sub>
+- `XAN-35c35ed0` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
+  <sub>London, England, New York, New York · score 17 · vue le 2026-09-14</sub>
+- `QUB-b85bcd6e` **Qube Research & Technologies** — [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002)
+  <sub>London, Paris, Wrocław, Zurich, Dubai · score 16 · vue le 2026-09-14</sub>
+- `FLO-aaa828c7` **Flow Traders** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/flowtraders/jobs/6492219)
+  <sub>Amsterdam · score 15 · vue le 2026-09-14</sub>
+- `MAV-011dff4a` **Maven** — [Graduate Quant Researcher 2027  London](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825)
+  <sub>London · score 15 · vue le 2026-09-14</sub>
+- `OPT-2e54a7e6` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
+  <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom · score 15 · vue le 2026-09-14</sub>
+- `SEL-76cc2bf6` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
+  <sub>London, Singapore · score 15 · vue le 2026-09-14</sub>
+- `HEL-19e8d9ad` **Helsing** — [AI Research Intern (PhD) – 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101)
+  <sub>Barcelona; Berlin; London; Munich; Paris · score 14 · vue le 2026-09-14</sub>
+- `MAV-a7676dfc` **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
+  <sub>London · score 14 · vue le 2026-09-14</sub>
+- `TOW-311d15f5` **Tower Research Capital** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860)
+  <sub>London · score 14 · vue le 2026-09-14</sub>
+- `POI-0d46a4f0` **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
+  <sub>New York, London, or Paris · score 13 · vue le 2026-09-14</sub>
+- `QUB-ee5f15d8` **Qube Research & Technologies** — [2027 – Graduate or Internship, Infrastructure Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002)
+  <sub>London, Paris · score 13 · vue le 2026-09-14</sub>
+- `FRE-d137213b` **Freshfields Bruckhaus Deringer** — [Stage - Restructuring & Insolvency F/H](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Paris/Stage---Restructuring---Insolvency-F-H_R-01959)
+  <sub>Paris · score 12 · vue le 2026-09-14</sub>
+- `IMC-005499a7` **IMC** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
+  <sub>Amsterdam, Netherlands · score 12 · vue le 2026-09-14</sub>
+- `JUM-1a03e185` **Jump Trading** — [Campus Quantitative Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050796)
+  <sub>London; Amsterdam · score 12 · vue le 2026-09-14</sub>
+- `PIM-5984f595` **PIMCO** — [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+  <sub>London, GBR · score 12 · vue le 2026-09-14</sub>
+- `QUB-d0d85c8f` **Qube Research & Technologies** — [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002)
+  <sub>Paris, London · score 12 · vue le 2026-09-14</sub>
+- `EUR-538ecf48` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `OPT-f30ccbb5` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
+  <sub>Amsterdam, North Holland, Netherlands · score 11 · vue le 2026-09-14</sub>
+- `ROT-6bf2c87f` **Rothschild & Co** — [Stage Analyste Banquier Conseil - Corporate Banking - Janvier 2027](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Corporate-Banking---Janvier-2027_JR016412)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `ROT-02933c4e` **Rothschild & Co** — [Stage Analyste Multi Gestion - Janvier 2027](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Multi-Gestion---Janvier-2027_JR016414)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `ROT-95858c02` **Rothschild & Co** — [Stage Investment Analyst - Janvier 2027](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Investment-Analyst---Janvier-2027_JR016396)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `ROT-f7bb40fd` **Rothschild & Co** — [Stage Analyst Financier Buy Side  - Janvier 2027](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Analyst-Financier-Buy-Side----Janvier-2027_JR016378)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `ROT-b399c686` **Rothschild & Co** — [Stage – Analyste Développement Durable – Five Arrows – Mars 2027](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
+  <sub>Paris · score 11 · vue le 2026-09-14</sub>
+- `VIR-fb22d771` **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
+  <sub>Dublin, Ireland · score 11 · vue le 2026-09-14</sub>
+- `CRI-80222dfa` **Criteo** — [Product Data Science & AI Agents Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Science---AI-Agents-Intern_r21132)
+  <sub>Paris · score 10 · vue le 2026-09-14</sub>
+- `HOW-fc069435` **Howden** — [Catastrophe Research & Development Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Edina--7701-France-Avenue-South/Catastrophe-Research---Development-Intern_R0019097)
+  <sub>Edina – 7701 France Avenue South · score 10 · vue le 2026-09-14</sub>
+- `IMC-0b34f6bb` **IMC** — [Graduate Quant Researcher - Digital Assets](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101)
+  <sub>Zug, Switzerland · score 10 · vue le 2026-09-14</sub>
+- `ART-31fde923` **Artefact** — [Stage Data Scientist - Paris (H/F/X)](https://job-boards.greenhouse.io/artefact/jobs/8785269002)
+  <sub>9th arrondissement of Paris, 75009, Paris, France · score 9 · vue le 2026-09-14</sub>
+- `CEL-f5a1fae8` **Celonis** — [Intern AI & Management Consulting (Value Engineering)](https://job-boards.greenhouse.io/celonis/jobs/7767090003?gh_jid=7767090003)
+  <sub>Paris, France · score 9 · vue le 2026-09-14</sub>
+- `DVT-da249e22` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
+  <sub>London · score 9 · vue le 2026-09-14</sub>
+- `DVT-c9ee52f3` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
+  <sub>London · score 9 · vue le 2026-09-14</sub>
+- `ENG-180712a4` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8195178)
+  <sub>Berlin, Germany; Grenoble, France · score 9 · vue le 2026-09-14</sub>
+- `EUR-82707ff0` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
+  <sub>Paris · score 9 · vue le 2026-09-14</sub>
+- `FRE-d37e3ab1` **Freshfields Bruckhaus Deringer** — [Advocaat-stage - Restructuring & Insolvency](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Advocaat-stage---Restructuring---Insolvency_R-08034)
+  <sub>Amsterdam · score 9 · vue le 2026-09-14</sub>
+- `FRE-ac98155d` **Freshfields Bruckhaus Deringer** — [Student-stage - Restructuring & Insolvency](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Student-stage---Restructuring---Insolvency_R-06996)
+  <sub>Amsterdam · score 9 · vue le 2026-09-14</sub>
+- `GRE-5d3906d6` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
+  <sub>London, UK · score 9 · vue le 2026-09-14</sub>
+- `JUM-a3b4979e` **Jump Trading** — [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7976964)
+  <sub>London · score 9 · vue le 2026-09-14</sub>
 
-- `4974869101` **ClearScore Technology Limited** — [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4974869101)
-  <sub>London, England, United Kingdom</sub>
-- `4732700005` **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
-  <sub>London</sub>
-- `8195178` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8195178)
-  <sub>Berlin, Germany; Grenoble, France</sub>
-- `8191899` **Engelhart** — [Weather Quantitative Research Internship Programme](https://job-boards.greenhouse.io/engelhart/jobs/8191899)
-  <sub>Grenoble, France</sub>
-- `job-London-UK-Data-Science-Internship_R3679` **G-Research** — [Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-  <sub>London, UK</sub>
-- `job-London-UK-Machine-Learning-Research-Internship_R3682` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-  <sub>London, UK</sub>
-- `job-London-UK-Quant-Research-Internship_R3691` **G-Research** — [Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-  <sub>London, UK</sub>
-- `4975740101` **IMC** — [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4912874101` **IMC** — [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4936262101` **IMC** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
-  <sub>Amsterdam, Netherlands</sub>
-- `7362318` **Jump Trading** — [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318)
-  <sub>London</sub>
-- `7977145` **Jump Trading** — [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145)
-  <sub>London</sub>
-- `8050772` **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772)
-  <sub>London; Amsterdam</sub>
-- `4969142101` **Man Group** — [Quant Researcher Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101)
-  <sub>London</sub>
-- `8048591` **Maven** — [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
-  <sub>Amsterdam</sub>
-- `8105020` **Maven** — [Graduate Infrastructure Engineer Programme](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020)
-  <sub>London</sub>
-- `7806970` **Maven** — [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970)
-  <sub>London</sub>
-- `8043552` **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
-  <sub>London</sub>
-- `8488699002` **Optiver** — [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
-- `8488701002` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
-- `job-London-GBR-XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805` **PIMCO** — [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
-  <sub>London, GBR</sub>
-- `7297657002` **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
-  <sub>London, Paris, Hong Kong, Tokyo</sub>
-- `8623972002` **Qube Research & Technologies** — [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002)
-  <sub>Paris, London</sub>
-- `8785833002` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
-  <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich</sub>
-- `8773084002` **Qube Research & Technologies** — [2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002)
-  <sub>London, Paris, Wrocław, Zurich, Dubai</sub>
-- `8777760002` **Qube Research & Technologies** — [2027 Internship – Security Engineer ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002)
-  <sub>London, Paris</sub>
-- `8773447002` **Qube Research & Technologies** — [2027 – Graduate or Internship, Infrastructure Engineer ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002)
-  <sub>London, Paris</sub>
-- `8777855002` **Qube Research & Technologies** — [2027 – Internship or Graduate, FPGA Engineering ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002)
-  <sub>London</sub>
-- `8187178` **Schonfeld** — [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178)
-  <sub>London, England, United Kingdom</sub>
-- `243853` **Squarepoint Capital** — [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853)
-  <sub>London, Paris, New York, Singapore, Hong Kong</sub>
-- `8113986` **Tower Research Capital** — [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
-  <sub>London</sub>
-- `8631180002` **Virtu Financial** — [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002)
-  <sub>Dublin, Ireland</sub>
-- `8547254002` **Virtu Financial** — [2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
-  <sub>Dublin, Ireland</sub>
-- `4371217009` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
-  <sub>London, England, New York, New York</sub>
+---
 
-## 🔴 Mort (refus, offre fermee) (67)
-
-- `8634612002` **3Red Partners** — [Graduate Trader (2027 Incoming Graduate, Full-Time)](https://job-boards.greenhouse.io/3redpartners/jobs/8634612002)
-  <sub>Chicago/Summa - Amsterdam</sub>
-- `job-XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244` **Barclays** — [2027 Technology Developer Graduate Program Whippany](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)
-  <sub>lieu non precise</sub>
-- `7957756` **DRW** — [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756)
-  <sub>London</sub>
-- `7957243` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
-  <sub>London</sub>
-- `8020364` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364)
-  <sub>Amsterdam</sub>
-- `7942281` **DRW** — [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281)
-  <sub>London</sub>
-- `4721555005` **DV Trading** — [Junior Trading Operations Analyst ](https://job-boards.greenhouse.io/dvtrading/jobs/4721555005)
-  <sub>London</sub>
-- `4719125005` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
-  <sub>London</sub>
-- `4719135005` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
-  <sub>London</sub>
-- `job-Paris-AI-Engineering-Intern_R28219` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
-  <sub>Paris</sub>
-- `job-Paris-Quant-Intern_R28576` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576)
-  <sub>Paris</sub>
-- `5349905008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Software Developer - London](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008)
-  <sub>London</sub>
-- `8570661002` **GSA Capital** — [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002)
-  <sub>London, New York</sub>
-- `8570668002` **GSA Capital** — [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002)
-  <sub>London</sub>
-- `job-Edina--7701-France-Avenue-South-Catastrophe-Research---Development-Intern_R0019097` **Howden** — [Catastrophe Research & Development Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Edina--7701-France-Avenue-South/Catastrophe-Research---Development-Intern_R0019097)
-  <sub>Edina – 7701 France Avenue South</sub>
-- `8059837` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
-  <sub>London, United Kingdom; New York, NY, United States; Singapore</sub>
-- `7900186` **Hudson River Trading** — [Junior Electronic Trading Support Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7900186)
-  <sub>Austin, TX, United States; Chicago, Illinois, United States; Dublin, Ireland; London, United Kingdom; New York, NY, United States</sub>
-- `8046074` **Hudson River Trading** — [Junior Trading Systems Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074)
-  <sub>Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States</sub>
-- `8052083` **Hudson River Trading** — [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083)
-  <sub>Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore</sub>
-- `4564480101` **IMC** — [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4927149101` **IMC** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4667854101` **IMC** — [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4753890101` **IMC** — [Trader Assistant (Working Student)](https://job-boards.eu.greenhouse.io/imc/jobs/4753890101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4939846101` **IMC** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101)
-  <sub>Amsterdam, Netherlands</sub>
-- `7374012` **Jump Crypto** — [Campus Full-Time Crypto Researcher 2026 LDN](https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012)
-  <sub>London</sub>
-- `7374010` **Jump Crypto** — [Campus Intern Crypto Researcher 2026 LDN](https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010)
-  <sub>London</sub>
-- `7976923` **Jump Trading** — [Campus AI Researcher, PhD/Postdoc (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7976923)
-  <sub>London</sub>
-- `7976964` **Jump Trading** — [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7976964)
-  <sub>London</sub>
-- `7217856` **Jump Trading** — [Campus Crypto Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7217856)
-  <sub>London</sub>
-- `7975008` **Jump Trading** — [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008)
-  <sub>London</sub>
-- `7974391` **Jump Trading** — [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974391)
-  <sub>London</sub>
-- `7975026` **Jump Trading** — [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026)
-  <sub>London</sub>
-- `7215943` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7215943)
-  <sub>London</sub>
-- `8008306` **Jump Trading** — [Campus Systems Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8008306)
-  <sub>Amsterdam</sub>
-- `8000323` **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323)
-  <sub>London; Amsterdam</sub>
-- `7974943` **Jump Trading** — [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943)
-  <sub>London</sub>
-- `7806987` **Maven** — [Software Developer Summer Internship London 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987)
-  <sub>London</sub>
-- `8713409002` **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
-- `8713435002` **Optiver** — [Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-  <sub>London, England, United Kingdom</sub>
-- `job-London-GBR-XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804` **PIMCO** — [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804)
-  <sub>London, GBR</sub>
-- `job-London-GBR-XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800` **PIMCO** — [2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800)
-  <sub>London, GBR</sub>
-- `7297666002` **Point72** — [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002)
-  <sub>New York, London, or Paris</sub>
-- `6516866003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516866003)
-  <sub>London, United Kingdom</sub>
-- `6530015003` **Private Equity Insights** — [Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003)
-  <sub>London, United Kingdom</sub>
-- `6516865003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003)
-  <sub>London, United Kingdom</sub>
-- `6530018003` **Private Equity Insights** — [Student Research Analyst at Private Equity Insights London, United Kingdom](https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003)
-  <sub>London, United Kingdom</sub>
-- `8154555002` **Qube Research & Technologies** — [Quantitative Researcher – PhD & Postdoc Opportunities](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8154555002)
-  <sub>London, Paris, Zurich</sub>
-- `4812537002` **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
-  <sub>London</sub>
-- `job-Paris-Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190` **Rothschild & Co** — [Stage Data Analyst - Banque Privée - Janvier 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190)
-  <sub>Paris</sub>
-- `job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379` **Rothschild & Co** — [Stage Data Manager Reporting - Octobre 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Data-Manager-Reporting---Janvier-2027_JR016379)
-  <sub>Paris</sub>
-- `6040910` **Squarepoint Capital** — [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910)
-  <sub>London, Montreal, Singapore</sub>
-- `6100081` **Squarepoint Capital** — [Graduate Trading Applications Specialist ](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081)
-  <sub>London, Montreal, New York, Houston, Hong Kong</sub>
-- `7231006` **Squarepoint Capital** — [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006)
-  <sub>London</sub>
-- `3851879` **Squarepoint Capital** — [Junior Discretionary Trader](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879)
-  <sub>London</sub>
-- `6040731` **Squarepoint Capital** — [Junior Software Developer (C++)](https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731)
-  <sub>London, Montreal, Singapore</sub>
-- `6040773` **Squarepoint Capital** — [Junior Software Developer (KDB+/Q)](https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773)
-  <sub>London, Montreal, Singapore</sub>
-- `6033550` **Squarepoint Capital** — [Junior Software Developer (Python)](https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550)
-  <sub>London, Montreal, Singapore</sub>
-- `6034447` **Squarepoint Capital** — [Junior Software Developer - Front-end](https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447)
-  <sub>London, Montreal</sub>
-- `7757021` **Squarepoint Capital** — [Trading Infrastructure Specialist – Graduate Programme](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021)
-  <sub>London, Montreal, Hong Kong, New York, Singapore</sub>
-- `8130867` **Stripe** — [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
-  <sub>London</sub>
-- `8097801` **Stripe** — [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  <sub>Dublin</sub>
-- `8130881` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881)
-  <sub>Dublin</sub>
-- `8130930` **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930)
-  <sub>London</sub>
-- `8037860` **Tower Research Capital** — [Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)](https://www.tower-research.com/open-positions/?gh_jid=8037860)
-  <sub>London</sub>
-- `8638124002` **Virtu Financial** — [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002)
-  <sub>Dublin, Ireland</sub>
-- `8551566002` **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002)
-  <sub>Dublin, Ireland</sub>
-- `4360768009` **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009)
-  <sub>London, England, New York, New York</sub>
-
-## 🟣 CDI 2027 - a rouvrir en fevrier (23)
-
-- `5344213008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Quantitative Trader - Amsterdam](https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008)
-  <sub>Amsterdam</sub>
-- `5255367008` **Five Rings LLC - Careers** — [Campus Full Time 2027 - Quantitative Trader - London](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008)
-  <sub>London</sub>
-- `7507482` **Flow Traders** — [Graduate Trader](https://job-boards.greenhouse.io/flowtraders/jobs/7507482)
-  <sub>Amsterdam</sub>
-- `6492219` **Flow Traders** — [Junior Quantitative Researcher ](https://job-boards.greenhouse.io/flowtraders/jobs/6492219)
-  <sub>Amsterdam</sub>
-- `5235738007` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
-  <sub>Dublin Ireland Office</sub>
-- `4914883101` **IMC** — [ Graduate Machine Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101)
-  <sub>London, United Kingdom</sub>
-- `4667814101` **IMC** — [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101)
-  <sub>Amsterdam, Netherlands</sub>
-- `4667815101` **IMC** — [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4667815101)
-  <sub>Amsterdam, Netherlands</sub>
-- `7977132` **Jump Trading** — [Campus ML Research Engineer (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7977132)
-  <sub>London</sub>
-- `8050796` **Jump Trading** — [Campus Quantitative Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050796)
-  <sub>London; Amsterdam</sub>
-- `8050801` **Jump Trading** — [Campus Quantitative Trader (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050801)
-  <sub>London; Amsterdam</sub>
-- `8048825` **Maven** — [Graduate Quant Researcher 2027  London](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825)
-  <sub>London</sub>
-- `8098645` **Maven** — [Graduate Trader Programme Amsterdam 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8098645)
-  <sub>Amsterdam</sub>
-- `8713898002` **Optiver** — [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002/?gh_jid=8713898002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
-- `8585609002` **Optiver** — [Graduate Quantitative Researcher (2027 Start)](https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002)
-  <sub>Amsterdam, North Holland, Netherlands; London, England, United Kingdom</sub>
-- `8561858002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561858002/?gh_jid=8561858002)
-  <sub>Amsterdam, North Holland, Netherlands</sub>
-- `8561859002` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
-  <sub>London, England, United Kingdom</sub>
-- `4890973008` **Selini Capital** — [Junior Quantitative Researcher](https://job-boards.greenhouse.io/selinicapital/jobs/4890973008)
-  <sub>London, Singapore</sub>
-- `7918610` **Squarepoint Capital** — [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610)
-  <sub>London, Montreal, Singapore</sub>
-- `6034466` **Squarepoint Capital** — [Junior Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466)
-  <sub>London, Montreal, Singapore</sub>
-- `239376` **Squarepoint Capital** — [Junior Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376)
-  <sub>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore</sub>
-- `6069464` **Squarepoint Capital** — [Junior Quant Researcher - ML Alpha Research](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464)
-  <sub>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore</sub>
-- `8037824` **Tower Research Capital** — [Quantitative Trader/Researcher Graduate Programme 2027 ](https://www.tower-research.com/open-positions/?gh_jid=8037824)
-  <sub>London</sub>
+**Marquer une candidature** : ajoute une ligne dans `statuts.csv`
+au format `code,statut,AAAA-MM-JJ`.
+Statuts : `postule`, `entretien`, `mort`, `ignore`.
