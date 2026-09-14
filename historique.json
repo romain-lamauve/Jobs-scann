@@ -1111,7 +1111,7 @@
   "company": "Private Equity Insights",
   "title": "Student Private Equity Media Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530017003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516867003",
   "last_seen": "2026-09-14",
   "absente": 0
  },
@@ -1120,7 +1120,7 @@
   "company": "Private Equity Insights",
   "title": "Student Research Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516865003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530018003",
   "last_seen": "2026-09-14",
   "absente": 0
  },
@@ -1410,7 +1410,7 @@
   "location": "London",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
   "last_seen": "2026-09-14",
-  "absente": 0
+  "absente": 1
  },
  "squarepointcapital|juniorquantdeveloper|londonmontrealsingapore": {
   "first_seen": "2026-09-14",
@@ -1752,7 +1752,7 @@
   "location": "",
   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
   "last_seen": "2026-09-14",
-  "absente": 0
+  "absente": 1
  },
  "airliquide|alternancesigesocialcorporateriskmanagerjuniorhf|franceparis": {
   "first_seen": "2026-09-14",
@@ -2156,6 +2156,15 @@
   "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
   "location": "Paris",
   "url": "https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
+  "last_seen": "2026-09-14",
+  "absente": 0
+ },
+ "squarepointcapital|juniordiscretionarytrader|londonhoustonnewyorksingapore": {
+  "first_seen": "2026-09-14",
+  "company": "Squarepoint Capital",
+  "title": "Junior Discretionary Trader",
+  "location": "London, Houston, New York, Singapore",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
   "last_seen": "2026-09-14",
   "absente": 0
  }
