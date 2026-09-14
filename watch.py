@@ -43,6 +43,8 @@ ROLE = [
     r"developer", r"engineer", r"software", r"\bdata\b", r"machine learning",
     r"\bml\b", r"python", r"c\+\+", r"modell?ing", r"algorithm",
     r"analytics", r"analyst", r"forecast", r"optimi[sz]ation",
+    r"structur", r"pricing", r"derivativ", r"risk",
+    r"portfolio", r"execution", r"market mak",
 ]
 
 EXCLUDE = [
@@ -74,13 +76,23 @@ SCORING = [
     ("t", r"\bresearch\b|\bresearcher\b|\bR&D\b",             3),
 
     # Competences que tu veux sur le CV
-    ("t", r"\bc\+\+\b",                                       4),
+    ("t", r"\bc\+\+\b",                                       5),
     ("t", r"optimi[sz]ation|operations research|\bOR\b",      3),
     ("t", r"modell?ing|simulation|numerical",                 3),
     ("t", r"machine learning|deep learning|\bml\b|\bai\b",    2),
     ("t", r"algorithm|statistic|probabil|stochastic",         3),
     ("t", r"signal|forecast|prediction|time series",          3),
     ("t", r"\bpython\b|\bdata scien",                         1),
+  
+    ("t", r"structur|derivativ|pricing|exotic",               4),
+    ("t", r"\bxva\b|\bcva\b|\bfrtb\b|market risk|counterparty", 4),
+    ("t", r"model validation|model risk",                     3),
+    ("t", r"\bstrat\b|\bstrats\b|front office",               3),
+
+    ("t", r"volatilit|fixed income|\bfx\b|commodit|credit",   2),
+    ("t", r"backtest|calibrat|monte carlo|\bpde\b",           3),
+    ("t", r"low.latency|high.frequency|\bhft\b",              3),
+    ("t", r"\brust\b|\bkdb\b|\bq\b kdb|numerical comput",     2),
 
     # Calendrier et format
     ("t", r"2027",                                            3),
