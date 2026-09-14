@@ -63,22 +63,45 @@ LOCATIONS = [
 # Score de pertinence : (ou chercher, motif, points).
 # "t" = titre, "l" = lieu. Ajuste librement, c'est transparent.
 SCORING = [
-    ("l", r"paris|france|grenoble",                    5),
-    ("l", r"london|amsterdam|geneva|zurich|dublin",    2),
-    ("t", r"quantitative research|quant research",     5),
-    ("t", r"quant",                                    3),
-    ("t", r"\bresearch\b|\bresearcher\b",              2),
-    ("t", r"microstructure|signal|alpha|forecast",     3),
-    ("t", r"machine learning|\bml\b|statistic",        2),
-    ("t", r"\bc\+\+\b|python",                         1),
-    ("t", r"2027",                                     3),
-    ("t", r"m1/m2|stage|six.month|6.month",            3),
-    ("t", r"\bintern\b|internship",                    2),
-    ("t", r"\bgraduate\b|full.time|new grad",         -3),
-    ("t", r"fpga|hardware|systems engineer|\bui\b",   -4),
-    ("t", r"support|infrastructure|operations",       -3),
-    ("t", r"front.end|web|mobile",                    -3),
+    # Lieu
+    ("l", r"paris|france|grenoble|toulouse|saclay",           5),
+    ("l", r"london|amsterdam|geneva|zurich|dublin|berlin",    2),
+
+    # Coeur de cible : recherche quantitative
+    ("t", r"quantitative research|quant research",            6),
+    ("t", r"\bquant\b|quantitative",                          4),
+    ("t", r"research scientist|applied scientist",            4),
+    ("t", r"\bresearch\b|\bresearcher\b|\bR&D\b",             3),
+
+    # Competences que tu veux sur le CV
+    ("t", r"\bc\+\+\b",                                       4),
+    ("t", r"optimi[sz]ation|operations research|\bOR\b",      3),
+    ("t", r"modell?ing|simulation|numerical",                 3),
+    ("t", r"machine learning|deep learning|\bml\b|\bai\b",    2),
+    ("t", r"algorithm|statistic|probabil|stochastic",         3),
+    ("t", r"signal|forecast|prediction|time series",          3),
+    ("t", r"\bpython\b|\bdata scien",                         1),
+
+    # Calendrier et format
+    ("t", r"2027",                                            3),
+    ("t", r"m1/m2|stage|six.month|6.month|final.year",        3),
+    ("t", r"\bintern\b|internship|\bstagiaire\b",             2),
+    ("t", r"\bgraduate\b|full.time|new grad",                -3),
+
+    # Ce que tu ne veux pas
+    ("t", r"fpga|hardware|embedded|firmware",                 -4),
+    ("t", r"systems engineer|site reliability|\bdevops\b",    -4),
+    ("t", r"front.end|frontend|\bweb\b|mobile|\bios\b|android", -5),
+    ("t", r"support|helpdesk|operations analyst",             -4),
+    ("t", r"\bsecurity\b|penetration|compliance",            -3),
+    ("t", r"\bui\b|\bux\b|product manager",                   -4),
 ]
+
+# Seuils : avec 1600 boards, on ne lit et on n'alerte que le haut du panier.
+SEUIL_ALERTE = 9        # score minimum pour declencher un mail
+SEUIL_AFFICHAGE = 5     # score minimum pour apparaitre dans la section "A traiter"
+MAX_A_TRAITER = 60      # nombre max de lignes affichees dans "A traiter"
+
 
 # Statuts reconnus, dans l'ordre d'affichage du rapport.
 STATUTS = [
@@ -91,7 +114,7 @@ STATUTS = [
 
 RELANCE_JOURS = 10      # relancer au-dela de N jours sans reponse
 RUNS_AVANT_MORT = 2     # offre absente N runs d'affilee -> fermee
-WORKERS = 8             # requetes en parallele
+WORKERS = 16            # requetes en parallele
 
 UA = {"User-Agent": "quant-watch/2.0 (personal job alert)"}
 
@@ -314,7 +337,15 @@ def construire_rapport(entrees, statuts):
         lot = groupes[c]
         if not lot:
             continue
-        out += [f"## {lib} ({len(lot)})", ""]
+        masques = 0
+        if c == "":
+            total = len(lot)
+            lot = [e for e in lot if e["score"] >= SEUIL_AFFICHAGE][:MAX_A_TRAITER]
+            masques = total - len(lot)
+        titre = f"## {lib} ({len(lot)})"
+        if masques:
+            titre += f" — {masques} autres sous le seuil de score {SEUIL_AFFICHAGE}"
+        out += [titre, ""]
         out += [ligne(e, statuts.get(e["code"], {})) for e in lot]
         out.append("")
 
@@ -390,7 +421,17 @@ def main():
         (dict(hist[k], code=code_court(k), score=score(hist[k])) for k in nouvelles),
         key=lambda x: -x["score"],
     )
-    corps = [f"{len(lot)} nouvelle(s) offre(s), triees par pertinence.", ""]
+    sous_seuil = len([e for e in lot if e["score"] < SEUIL_ALERTE])
+    lot = [e for e in lot if e["score"] >= SEUIL_ALERTE]
+    if not lot:
+        print(f"{sous_seuil} nouveautes, toutes sous le seuil d'alerte : pas de mail")
+        return
+    corps = [f"{len(lot)} nouvelle(s) offre(s) au-dessus du seuil, "
+             f"triees par pertinence.", ""]
+    if sous_seuil:
+        corps.append(f"_({sous_seuil} autres nouveautes sous le seuil, "
+                     f"visibles dans offres.md)_")
+        corps.append("")
     corps += [ligne(e, {}) for e in lot]
     (ICI / "new_jobs.md").write_text("\n".join(corps))
 
