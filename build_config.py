@@ -3,7 +3,7 @@
 Regenere boards_config.csv depuis les donnees du projet jobseek.
 
 Usage :
-    python build_config.py            # finance + energie + services pro
+    python build_config.py            # les 7 secteurs par defaut
     python build_config.py 2 12 21    # plusieurs codes secteur
     python build_config.py all        # tout (5000+ boites, deconseille)
 
@@ -18,7 +18,8 @@ from io import StringIO
 from pathlib import Path
 
 BASE = "https://raw.githubusercontent.com/colophon-group/jobseek/main/apps/crawler/data"
-SECTEURS = {"2", "8", "12"}   # finance, energie, services pro
+SECTEURS = {"1", "2", "4", "8", "12", "15", "20"}
+# 1 tech  2 finance  4 industrie  8 energie  12 services pro  15 aero  20 robotique
 
 
 def get_csv(name):
