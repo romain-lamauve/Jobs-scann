@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-🟢 0 | 🔵 6 | ⚪ 32 | 🔴 68 | ⚫ 0 | 🟣 23
+🟢 0 | 🔵 7 | ⚪ 33 | 🔴 67 | ⚫ 0 | 🟣 23
 
-## 🔵 Postule - en attente (6)
+## 🔵 Postule - en attente (7)
 
 - `8489186002` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
   <sub>Chicago; London</sub>
@@ -16,8 +16,10 @@
   <sub>London; Paris</sub>
 - `7011493` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris</sub>
+- `4393652006` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
+  <sub>Paris</sub>
 
-## ⚪ A traiter (32)
+## ⚪ A traiter (33)
 
 - `4974869101` **ClearScore Technology Limited** — [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4974869101)
   <sub>London, England, United Kingdom</sub>
@@ -47,6 +49,8 @@
   <sub>London</sub>
 - `8048591` **Maven** — [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591)
   <sub>Amsterdam</sub>
+- `8105020` **Maven** — [Graduate Infrastructure Engineer Programme](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020)
+  <sub>London</sub>
 - `7806970` **Maven** — [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970)
   <sub>London</sub>
 - `8043552` **Maven** — [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552)
@@ -55,6 +59,8 @@
   <sub>Amsterdam, North Holland, Netherlands</sub>
 - `8488701002` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands</sub>
+- `job-London-GBR-XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805` **PIMCO** — [2027 Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
+  <sub>London, GBR</sub>
 - `7297657002` **Point72** — [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002)
   <sub>London, Paris, Hong Kong, Tokyo</sub>
 - `8623972002` **Qube Research & Technologies** — [2027 - Internship, Data Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002)
@@ -79,12 +85,10 @@
   <sub>Dublin, Ireland</sub>
 - `8547254002` **Virtu Financial** — [2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
   <sub>Dublin, Ireland</sub>
-- `4393652006` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris</sub>
 - `4371217009` **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009)
   <sub>London, England, New York, New York</sub>
 
-## 🔴 Mort (refus, offre fermee) (68)
+## 🔴 Mort (refus, offre fermee) (67)
 
 - `8634612002` **3Red Partners** — [Graduate Trader (2027 Incoming Graduate, Full-Time)](https://job-boards.greenhouse.io/3redpartners/jobs/8634612002)
   <sub>Chicago/Summa - Amsterdam</sub>
@@ -104,8 +108,6 @@
   <sub>London</sub>
 - `4719135005` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
   <sub>London</sub>
-- `8164581` **Engelhart** — [Commodity Trading Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8164581)
-  <sub>London, United Kingdom</sub>
 - `job-Paris-AI-Engineering-Intern_R28219` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
   <sub>Paris</sub>
 - `job-Paris-Quant-Intern_R28576` **Euronext** — [Quant Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Intern_R28576)
