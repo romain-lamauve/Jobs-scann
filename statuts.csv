@@ -1,0 +1,61 @@
+id,statut,date
+# ================= EN COURS =================
+ENG-180712a4,entretien,2026-09-08        # Engelhart - Power Trading & Renewables
+JUM-025cd239,postule,2026-09-08          # Jump Trading - Campus QR (M1/M2 Intern)
+JUM-0a9dc47b,postule,2026-09-08          # Jump Trading - Campus QR (Intern)
+TOW-6c25a5bc,postule,2026-09-08          # Tower Research - Quant Developer Intern Paris
+AQU-757afeac,postule,2026-09-08          # Aquatic Capital - Quant Researcher Intern
+HUD-a4fb59f0,postule,2026-09-08          # Hudson River Trading - Algo Dev Internship
+EUR-538ecf48,postule,2026-09-08          # Euronext - Quant Intern Paris
+
+# ================= REFUS / OFFRES FERMEES =================
+DRW-060ce07d,mort,                       # DRW - Quantitative Research Intern
+GSA-682a4dd5,mort,                       # GSA Capital - Quant Researcher Intern
+QUB-d4884004,mort,                       # QRT - PhD & Postdoc
+HUD-93ff605a,mort,                       # HRT - PhD Internship
+POI-0d46a4f0,mort,                       # Point72 - Quant Software Developer
+DVT-da249e22,mort,                       # DV Trading - Software Engineer Intern
+DVT-c9ee52f3,mort,                       # DV Trading - Trading Intern
+HOW-fc069435,mort,                       # Howden - Catastrophe R&D (US)
+EUR-82707ff0,mort,                       # Euronext - AI Engineering Intern
+
+# ================= CDI / SORTIE 2027, PAS UN STAGE =================
+JUM-1a03e185,cdi-2027,                   # Jump - Campus QR (Full-Time)
+OPT-2e54a7e6,cdi-2027,                   # Optiver - Graduate Quantitative Researcher
+FLO-aaa828c7,cdi-2027,                   # Flow Traders - Junior Quant Researcher
+MAV-011dff4a,cdi-2027,                   # Maven - Graduate Quant Researcher 2027
+SEL-76cc2bf6,cdi-2027,                   # Selini Capital - Junior Quant Researcher
+SQU-b786b251,cdi-2027,                   # Squarepoint - Junior Quant Researcher
+SQU-c8748e6d,cdi-2027,                   # Squarepoint - Junior QR, ML Alpha Research
+IMC-0b34f6bb,cdi-2027,                   # IMC - Graduate QR, Digital Assets
+
+# ================= HORS CIBLE =================
+TOW-311d15f5,ignore,                     # Tower - reserve aux diplomes 2028
+IMC-005499a7,ignore,                     # IMC - Summer 2027, trop court
+HEL-19e8d9ad,ignore,                     # Helsing - PhD requis
+JUM-a3b4979e,ignore,                     # Jump - AI Researcher PhD/Postdoc
+QUB-ee5f15d8,ignore,                     # QRT - Infrastructure Engineer
+QUB-d0d85c8f,ignore,                     # QRT - Data Engineering
+PIM-5984f595,ignore,                     # PIMCO - Credit Research, pas quant
+CEL-f5a1fae8,ignore,                     # Celonis - conseil
+FRE-d137213b,ignore,                     # Freshfields - juridique
+FRE-d37e3ab1,ignore,                     # Freshfields - juridique
+FRE-ac98155d,ignore,                     # Freshfields - juridique
+ROT-6bf2c87f,ignore,                     # Rothschild - M&A
+ROT-02933c4e,ignore,                     # Rothschild - multi-gestion
+ROT-95858c02,ignore,                     # Rothschild - investment analyst
+ROT-f7bb40fd,ignore,                     # Rothschild - buy side fondamental
+ROT-b399c686,ignore,                     # Rothschild - developpement durable
+
+# ============ ANCIENS IDS NON CONVERTIS (reconnus via l'URL) ============
+job-Paris-52-avenue-Hoche-Quantitative-Analytics-Associate-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124726,postule,2026-09-08
+4393652006,postule,2026-09-08
+job-XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440,mort,
+job-XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244,mort,
+job-London-GBR-XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804,mort,
+job-London-GBR-XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800,mort,
+job-Paris-Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190,mort,
+job-Paris-Stage-Data-Manager-Reporting---Janvier-2027_JR016379,mort,
+job-Paris-Quant-Intern_R28576,mort,
+8048825,cdi-2027,
+5235738007,cdi-2027,
