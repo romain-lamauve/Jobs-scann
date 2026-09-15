@@ -105,7 +105,7 @@
   "location": "Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland",
   "url": "https://job-boards.greenhouse.io/awin/jobs/7985465003",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "capgemini|graduateaiandsecuretechnologiesengineer2026start|unitedkingdom": {
   "first_seen": "2026-09-14",
@@ -1041,7 +1041,8 @@
   "location": "Berlin, Germany",
   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7992927",
   "last_seen": "2026-09-14",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "point72|quantitativeresearcherintern|londonparishongkongtokyo": {
   "first_seen": "2026-09-14",
@@ -1410,7 +1411,7 @@
   "location": "London",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
   "last_seen": "2026-09-14",
-  "absente": 3,
+  "absente": 4,
   "ferme": "2026-09-14"
  },
  "squarepointcapital|juniorquantdeveloper|londonmontrealsingapore": {
@@ -1717,7 +1718,7 @@
   "location": "Amsterdam",
   "url": "https://www.akqa.com/jobs/8007317/?gh_jid=8007317",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "wpp|stageconsultantdatatechfh|parisfrance": {
   "first_seen": "2026-09-14",
@@ -1753,7 +1754,7 @@
   "location": "",
   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "airliquide|alternancesigesocialcorporateriskmanagerjuniorhf|franceparis": {
   "first_seen": "2026-09-14",
@@ -1978,7 +1979,7 @@
   "location": "LUX, Luxembourg Office",
   "url": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "pimco|2027summerinterncreditresearchanalystemea|londongbr": {
   "first_seen": "2026-09-14",
@@ -2023,7 +2024,7 @@
   "location": "London, GBR",
   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "pimco|2027summerinterntradesupportanalystemea|dublinirl": {
   "first_seen": "2026-09-14",
@@ -2176,7 +2177,7 @@
   "location": "London  United Kingdom",
   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448",
   "last_seen": "2026-09-15",
-  "absente": 0
+  "absente": 1
  },
  "blackrock|2027quantitativemastersinternshipprogrammeinvestmentsquantitativeinvestinglondon|londongreaterlondon": {
   "first_seen": "2026-09-15",
@@ -2247,6 +2248,33 @@
   "title": "Risk and Compliance Graduate Programme 2027",
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263",
+  "last_seen": "2026-09-15",
+  "absente": 0
+ },
+ "helsing|juniorsoftwareengineer|berlinlondonmunich": {
+  "first_seen": "2026-09-15",
+  "company": "Helsing",
+  "title": "Junior Software Engineer",
+  "location": "Berlin; London; Munich",
+  "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
+  "last_seen": "2026-09-15",
+  "absente": 0
+ },
+ "accenture|juniorainativeengineer|": {
+  "first_seen": "2026-09-15",
+  "company": "Accenture",
+  "title": "Junior AI Native Engineer",
+  "location": "",
+  "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Saint-Herblain-Liberty-A/Junior-AI-Native-Engineer_R00346080",
+  "last_seen": "2026-09-15",
+  "absente": 0
+ },
+ "airbus|stage2027chefdeprojetdatainnovationhf|parisarea": {
+  "first_seen": "2026-09-15",
+  "company": "Airbus",
+  "title": "STAGE 2027 - Chef de Projet Data & Innovation (h/f)",
+  "location": "Paris Area",
+  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Chef-de-Projet-Data---Innovation--h-f-_JR10435374",
   "last_seen": "2026-09-15",
   "absente": 0
  }

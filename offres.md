@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-15_
 
-🟢 1 | 🔵 6 | ⚪ 217 | 🔴 10 | ⚫ 16
+🟢 1 | 🔵 6 | ⚪ 219 | 🔴 11 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -24,7 +24,7 @@ _Mis a jour le 2026-09-15_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 157 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 159 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -70,6 +70,8 @@ _Mis a jour le 2026-09-15_
   <sub>London · score 14 · vue le 2026-09-14</sub>
 - `JUM-1a03e185` **Jump Trading** — [Campus Quantitative Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050796)
   <sub>London; Amsterdam · score 12 · vue le 2026-09-14</sub>
+- `AIR-387fc6f7` **Airbus** — [STAGE 2027 - Chef de Projet Data & Innovation (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Chef-de-Projet-Data---Innovation--h-f-_JR10435374)
+  <sub>Paris Area · score 11 · vue le 2026-09-15</sub>
 - `BLA-7f7634bb` **BlackRock** — [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
   <sub>London, Greater London · score 11 · vue le 2026-09-15</sub>
 - `OPT-f30ccbb5` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
@@ -144,10 +146,8 @@ _Mis a jour le 2026-09-15_
   <sub>IRL - Dublin, Ireland · score 7 · vue le 2026-09-14</sub>
 - `CEL-82da90cc` **Celonis** — [Intern Technology & Management Consulting (Value Engineering)](https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003)
   <sub>Paris, France · score 7 · vue le 2026-09-14</sub>
-- `DVT-c4ccb5b9` **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
-  <sub>London · score 7 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (10)
+## 🔴 Mort (refus, offre fermee) (11)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -169,6 +169,8 @@ _Mis a jour le 2026-09-15_
   <sub>Paris · score 9 · vue le 2026-09-14</sub>
 - `SQU-e7f8f18a` **Squarepoint Capital** — [Junior Discretionary Trader](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
+- `PLA-148c769d` **Planet** — [Revenue Operations Analyst - Working Student](https://job-boards.greenhouse.io/planetlabs/jobs/7992927)
+  <sub>Berlin, Germany · score -2 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 
 ## ⚫ Ignore (16)
 
