@@ -17,6 +17,7 @@ import json
 import os
 import re
 import urllib.request
+import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
 from pathlib import Path
@@ -25,6 +26,7 @@ ICI = Path(__file__).parent
 CONFIG_FILE = ICI / "boards_config.csv"
 STATUS_FILE = ICI / "statuts.csv"
 HIST_FILE = ICI / "historique.json"
+MANUEL_FILE = ICI / "boards_manuels.csv"
 
 # ============================================================================
 # REGLAGES — c'est ici que tu ajustes
@@ -36,6 +38,7 @@ LEVEL = [
     r"\bgraduate\b", r"\bcampus\b", r"new grad", r"\bjunior\b",
     r"\bplacement\b", r"\btrainee\b", r"apprentice", r"\bphd\b",
     r"\bstudent\b", r"\bentry.level\b", r"\bsummer\b", r"\bvie\b",
+    r"alternance", r"apprentissage",
 ]
 
 ROLE = [
@@ -43,8 +46,9 @@ ROLE = [
     r"developer", r"engineer", r"software", r"\bdata\b", r"machine learning",
     r"\bml\b", r"python", r"c\+\+", r"modell?ing", r"algorithm",
     r"analytics", r"analyst", r"forecast", r"optimi[sz]ation",
-    r"structur", r"pricing", r"derivativ", r"risk",
-    r"portfolio", r"execution", r"market mak",
+    # motifs francais (flux RSS Talentsoft) : sans effet sur les titres anglais
+    r"analyste", r"ing[eé]nieur", r"d[eé]veloppeur", r"mod[eé]lisation",
+    r"recherche", r"statistiq", r"math[eé]mati", r"pricing", r"valorisation",
 ]
 
 EXCLUDE = [
@@ -60,6 +64,9 @@ LOCATIONS = [
     r"london", r"paris", r"france", r"united kingdom", r"amsterdam",
     r"geneva", r"zurich", r"dublin", r"berlin", r"netherlands",
     r"germany", r"switzerland", r"ireland", r"grenoble", r"luxembourg",
+    # sieges franciliens : sans ca les offres CACIB/Amundi/SG sont jetees
+    r"montrouge", r"la d[eé]fense", r"courbevoie", r"nanterre", r"puteaux",
+    r"guyancourt", r"saint.quentin", r"issy", r"bagneux", r"charenton",
 ]
 
 # Score de pertinence : (ou chercher, motif, points).
@@ -67,32 +74,24 @@ LOCATIONS = [
 SCORING = [
     # Lieu
     ("l", r"paris|france|grenoble|toulouse|saclay",           5),
+    ("l", r"montrouge|la d[eé]fense|courbevoie|nanterre|"
+          r"guyancourt|saint.quentin|issy|puteaux",            5),
     ("l", r"london|amsterdam|geneva|zurich|dublin|berlin",    2),
 
     # Coeur de cible : recherche quantitative
     ("t", r"quantitative research|quant research",            6),
-    ("t", r"\bquant\b|quantitative",                          4),
+    ("t", r"\bquant\b|quantitative|quantitatif",               4),
     ("t", r"research scientist|applied scientist",            4),
-    ("t", r"\bresearch\b|\bresearcher\b|\bR&D\b",             3),
+    ("t", r"\bresearch\b|\bresearcher\b|\bR&D\b|recherche",   3),
 
     # Competences que tu veux sur le CV
-    ("t", r"\bc\+\+\b",                                       5),
+    ("t", r"\bc\+\+\b",                                       4),
     ("t", r"optimi[sz]ation|operations research|\bOR\b",      3),
-    ("t", r"modell?ing|simulation|numerical",                 3),
+    ("t", r"modell?ing|mod[eé]lisation|simulation|numerical",  3),
     ("t", r"machine learning|deep learning|\bml\b|\bai\b",    2),
-    ("t", r"algorithm|statistic|probabil|stochastic",         3),
+    ("t", r"algorithm|statistiq?u?e?|probabil|stochastic",     3),
     ("t", r"signal|forecast|prediction|time series",          3),
     ("t", r"\bpython\b|\bdata scien",                         1),
-  
-    ("t", r"structur|derivativ|pricing|exotic",               4),
-    ("t", r"\bxva\b|\bcva\b|\bfrtb\b|market risk|counterparty", 4),
-    ("t", r"model validation|model risk",                     3),
-    ("t", r"\bstrat\b|\bstrats\b|front office",               3),
-
-    ("t", r"volatilit|fixed income|\bfx\b|commodit|credit",   2),
-    ("t", r"backtest|calibrat|monte carlo|\bpde\b",           3),
-    ("t", r"low.latency|high.frequency|\bhft\b",              3),
-    ("t", r"\brust\b|\bkdb\b|\bq\b kdb|numerical comput",     2),
 
     # Calendrier et format
     ("t", r"2027",                                            3),
@@ -120,6 +119,7 @@ STATUTS = [
     ("entretien", "\U0001F7E2 Entretien / reponse positive"),
     ("postule",   "\U0001F535 Postule - en attente"),
     ("",          "\u26AA A traiter"),
+    ("cdi-2027",  "\U0001F7E3 CDI / sortie 2027 (hors stage)"),
     ("mort",      "\U0001F534 Mort (refus, offre fermee)"),
     ("ignore",    "\u26AB Ignore"),
 ]
@@ -135,8 +135,8 @@ UA = {"User-Agent": "quant-watch/2.0 (personal job alert)"}
 # ============================================================================
 
 
-def _get_json(url, data=None):
-    req = urllib.request.Request(url, headers=dict(UA))
+def _get_json(url, data=None, extra=None):
+    req = urllib.request.Request(url, headers={**UA, **(extra or {})})
     if data is not None:
         req.add_header("Content-Type", "application/json")
         req.data = json.dumps(data).encode()
@@ -185,21 +185,104 @@ def fetch_workday(company, instance, tenant, site):
     return out
 
 
+def fetch_oracle(company, host, site):
+    """Oracle Recruiting Cloud (JPMorgan). JSON public, sans authentification.
+    host = jpmc.fa.oraclecloud.com, site = CX_1001
+    Le parametre finder ne doit PAS etre encode : Oracle le lit tel quel."""
+    base = f"https://{host}"
+    out, offset = [], 0
+    while offset < 400:
+        url = (
+            f"{base}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+            f"?onlyData=true"
+            f"&expand=requisitionList.secondaryLocations"
+            f"&finder=findReqs;siteNumber={site},"
+            f"limit=100,offset={offset},sortBy=POSTING_DATES_DESC"
+        )
+        payload = _get_json(url, extra={"ora-irc-language": "en"})
+        items = payload.get("items") or []
+        reqs = items[0].get("requisitionList", []) if items else []
+        if not reqs:
+            break
+        for j in reqs:
+            lieux = [j.get("PrimaryLocation") or ""]
+            lieux += [(s2 or {}).get("Name", "")
+                      for s2 in (j.get("secondaryLocations") or [])]
+            out.append(
+                {
+                    "company": company,
+                    "title": (j.get("Title") or "").strip(),
+                    "location": "; ".join(x for x in lieux if x).strip(),
+                    "url": f"{base}/hcmUI/CandidateExperience/en/sites/{site}"
+                           f"/job/{j.get('Id', '')}",
+                }
+            )
+        if len(reqs) < 100:
+            break
+        offset += 100
+    return out
+
+
+def fetch_rss(company, url):
+    """Flux RSS Talentsoft (CACIB, Amundi). Le type de contrat et la ville sont
+    dans les <category> ; on colle le contrat au titre pour que LEVEL le voie."""
+    req = urllib.request.Request(url, headers=dict(UA))
+    with urllib.request.urlopen(req, timeout=30) as r:
+        racine = ET.fromstring(r.read())
+    out = []
+    for item in racine.iter("item"):
+        titre = (item.findtext("title") or "").strip()
+        titre = re.sub(r"^\d{4}\s*-\s*\d+\s*-\s*", "", titre)   # "2026-115299 - "
+        cats = [(c.text or "").strip() for c in item.findall("category")]
+        cats = [c for c in cats if c]
+        lieu = cats[-1] if cats else ""
+        contrat = cats[-2] if len(cats) > 1 else ""
+        out.append(
+            {
+                "company": company,
+                "title": f"{titre} ({contrat})" if contrat else titre,
+                "location": lieu,
+                "url": (item.findtext("link") or "").strip(),
+            }
+        )
+    return out
+
+
 def load_boards():
-    gh, wd = [], []
-    with open(CONFIG_FILE, newline="") as f:
-        for r in csv.DictReader(f):
-            if r["kind"] == "greenhouse":
-                gh.append((r["name"], r["a"]))
-            elif r["kind"] == "workday":
-                wd.append((r["name"], r["a"], r["b"], r["c"]))
-    return gh, wd
+    """boards_config.csv (genere) + boards_manuels.csv (le tien, jamais ecrase).
+    greenhouse -> a = token
+    workday    -> a = instance, b = tenant, c = site
+    oracle     -> a = host, b = siteNumber
+    rss        -> a = URL du flux
+    """
+    gh, wd, orc, rss = [], [], [], []
+    for chemin in (CONFIG_FILE, MANUEL_FILE):
+        if not chemin.exists():
+            continue
+        with open(chemin, newline="") as f:
+            for r in csv.DictReader(f):
+                kind = (r.get("kind") or "").strip()
+                if kind == "greenhouse":
+                    gh.append((r["name"], r["a"]))
+                elif kind == "workday":
+                    wd.append((r["name"], r["a"], r["b"], r["c"]))
+                elif kind == "oracle":
+                    orc.append((r["name"], r["a"], r["b"]))
+                elif kind == "rss":
+                    rss.append((r["name"], r["a"]))
+    return gh, wd, orc, rss
 
 
 def recuperer_tout():
-    gh, wd = load_boards()
-    print(f"{len(gh)} boards Greenhouse + {len(wd)} Workday")
-    taches = [(fetch_greenhouse, a) for a in gh] + [(fetch_workday, a) for a in wd]
+    gh, wd, orc, rss = load_boards()
+    print(f"{len(gh)} Greenhouse + {len(wd)} Workday + "
+          f"{len(orc)} Oracle + {len(rss)} RSS")
+    taches = (
+        [(fetch_greenhouse, a) for a in gh]
+        + [(fetch_workday, a) for a in wd]
+        + [(fetch_oracle, a) for a in orc]
+        + [(fetch_rss, a) for a in rss]
+    )
     jobs, erreurs = [], []
 
     def run(t):
@@ -288,6 +371,20 @@ def load_statuts():
     return out
 
 
+def resoudre_statut(entree, statuts):
+    """Retourne le statut d'une offre.
+    Accepte le code court (JUM-xxxx) ou un ancien id ATS retrouve dans l'URL."""
+    if entree["code"] in statuts:
+        return statuts[entree["code"]]
+    url = entree.get("url", "")
+    for ancien, val in statuts.items():
+        if ancien.startswith(tuple("ABCDEFGHIJKLMNOPQRSTUVWXYZ")) and "-" in ancien[:4]:
+            continue                      # c'est un code court, deja teste
+        if re.search(r"(?:^|[/=_-])" + re.escape(ancien) + r"(?:$|[/?&])", url):
+            return val
+    return {}
+
+
 def jours_depuis(d):
     try:
         return (date.today() - datetime.strptime(d, "%Y-%m-%d").date()).days
@@ -318,9 +415,10 @@ def ligne(entree, st):
 
 
 def construire_rapport(entrees, statuts):
+    resolus = {e["code"]: resoudre_statut(e, statuts) for e in entrees}
     groupes = {c: [] for c, _ in STATUTS}
     for e in entrees:
-        st = statuts.get(e["code"], {}).get("statut", "")
+        st = resolus[e["code"]].get("statut", "")
         if e.get("ferme") and st in ("", "postule"):
             st = "mort"
         groupes[st if st in groupes else ""].append(e)
@@ -337,12 +435,12 @@ def construire_rapport(entrees, statuts):
     # Relances a faire
     relances = [
         e for e in groupes["postule"]
-        if (n := jours_depuis(statuts.get(e["code"], {}).get("date", ""))) is not None
+        if (n := jours_depuis(resolus[e["code"]].get("date", ""))) is not None
         and n >= RELANCE_JOURS
     ]
     if relances:
         out += [f"## \u23F0 A relancer ({len(relances)})", ""]
-        out += [ligne(e, statuts.get(e["code"], {})) for e in relances]
+        out += [ligne(e, resolus[e["code"]]) for e in relances]
         out.append("")
 
     for c, lib in STATUTS:
@@ -356,9 +454,9 @@ def construire_rapport(entrees, statuts):
             masques = total - len(lot)
         titre = f"## {lib} ({len(lot)})"
         if masques:
-            titre += f" — {masques} autres sous le seuil de score {SEUIL_AFFICHAGE}"
+            titre += f" \u2014 {masques} autres sous le seuil de score {SEUIL_AFFICHAGE}"
         out += [titre, ""]
-        out += [ligne(e, statuts.get(e["code"], {})) for e in lot]
+        out += [ligne(e, resolus[e["code"]]) for e in lot]
         out.append("")
 
     out += ["---", "",
@@ -391,6 +489,8 @@ def main():
 
     hist = json.loads(HIST_FILE.read_text()) if HIST_FILE.exists() else {}
     premier_run = not HIST_FILE.exists()
+    if not isinstance(hist, dict):
+        hist, premier_run = {}, True
     nouvelles = []
 
     for k, j in pertinents.items():
