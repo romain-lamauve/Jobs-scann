@@ -105,7 +105,8 @@
   "location": "Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland",
   "url": "https://job-boards.greenhouse.io/awin/jobs/7985465003",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "capgemini|graduateaiandsecuretechnologiesengineer2026start|unitedkingdom": {
   "first_seen": "2026-09-14",
@@ -1041,7 +1042,7 @@
   "location": "Berlin, Germany",
   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7992927",
   "last_seen": "2026-09-14",
-  "absente": 2,
+  "absente": 3,
   "ferme": "2026-09-15"
  },
  "point72|quantitativeresearcherintern|londonparishongkongtokyo": {
@@ -1076,7 +1077,7 @@
   "company": "Private Equity Insights",
   "title": "Student Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530014003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516812003",
   "last_seen": "2026-09-15",
   "absente": 0
  },
@@ -1094,7 +1095,7 @@
   "company": "Private Equity Insights",
   "title": "Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516866003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003",
   "last_seen": "2026-09-15",
   "absente": 0
  },
@@ -1103,7 +1104,7 @@
   "company": "Private Equity Insights",
   "title": "Student Private Equity Editorial Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530016003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516870003",
   "last_seen": "2026-09-15",
   "absente": 0
  },
@@ -1112,7 +1113,7 @@
   "company": "Private Equity Insights",
   "title": "Student Private Equity Media Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530017003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516867003",
   "last_seen": "2026-09-15",
   "absente": 0
  },
@@ -1411,7 +1412,7 @@
   "location": "London",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
   "last_seen": "2026-09-14",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-14"
  },
  "squarepointcapital|juniorquantdeveloper|londonmontrealsingapore": {
@@ -1718,7 +1719,8 @@
   "location": "Amsterdam",
   "url": "https://www.akqa.com/jobs/8007317/?gh_jid=8007317",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "wpp|stageconsultantdatatechfh|parisfrance": {
   "first_seen": "2026-09-14",
@@ -1754,7 +1756,7 @@
   "location": "",
   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 0
  },
  "airliquide|alternancesigesocialcorporateriskmanagerjuniorhf|franceparis": {
   "first_seen": "2026-09-14",
@@ -1979,7 +1981,8 @@
   "location": "LUX, Luxembourg Office",
   "url": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "pimco|2027summerinterncreditresearchanalystemea|londongbr": {
   "first_seen": "2026-09-14",
@@ -2024,7 +2027,8 @@
   "location": "London, GBR",
   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "pimco|2027summerinterntradesupportanalystemea|dublinirl": {
   "first_seen": "2026-09-14",
@@ -2177,7 +2181,8 @@
   "location": "London  United Kingdom",
   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448",
   "last_seen": "2026-09-15",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-15"
  },
  "blackrock|2027quantitativemastersinternshipprogrammeinvestmentsquantitativeinvestinglondon|londongreaterlondon": {
   "first_seen": "2026-09-15",
@@ -2275,6 +2280,15 @@
   "title": "STAGE 2027 - Chef de Projet Data & Innovation (h/f)",
   "location": "Paris Area",
   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Chef-de-Projet-Data---Innovation--h-f-_JR10435374",
+  "last_seen": "2026-09-15",
+  "absente": 0
+ },
+ "citi|bankinginvestmentbankingplacementanalystamsterdamnetherlands2027|amsterdamnetherlands": {
+  "first_seen": "2026-09-15",
+  "company": "Citi",
+  "title": "Banking, Investment Banking, Placement Analyst, Amsterdam – Netherlands 2027",
+  "location": "Amsterdam  Netherlands",
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Investment-Banking--Placement-Analyst--Amsterdam---Netherlands-2027_26993945",
   "last_seen": "2026-09-15",
   "absente": 0
  }

@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-15_
 
-🟢 1 | 🔵 6 | ⚪ 219 | 🔴 11 | ⚫ 16
+🟢 1 | 🔵 6 | ⚪ 215 | 🔴 16 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -24,7 +24,7 @@ _Mis a jour le 2026-09-15_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 159 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 155 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -147,7 +147,7 @@ _Mis a jour le 2026-09-15_
 - `CEL-82da90cc` **Celonis** — [Intern Technology & Management Consulting (Value Engineering)](https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003)
   <sub>Paris, France · score 7 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (11)
+## 🔴 Mort (refus, offre fermee) (16)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -167,8 +167,18 @@ _Mis a jour le 2026-09-15_
   <sub>London · score 9 · vue le 2026-09-14</sub>
 - `EUR-82707ff0` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
   <sub>Paris · score 9 · vue le 2026-09-14</sub>
+- `PIM-2cb3a760` **PIMCO** — [2027 Summer Intern - Alternatives Business Management Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783)
+  <sub>London, GBR · score 7 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `WPP-9cf87d19` **WPP** — [Developer Intern (AI)](https://www.akqa.com/jobs/8007317/?gh_jid=8007317)
+  <sub>Amsterdam · score 6 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `CIT-a51365cb` **Citi** — [Banking, Commercial Banking, Summer Analyst, London - United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448)
+  <sub>London  United Kingdom · score 5 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `NTT-8b2441f0` **NTT DATA** — [AI Engineering Intern – Mistral AI & Forward Deployment](https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688)
+  <sub>LUX, Luxembourg Office · score 4 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `SQU-e7f8f18a` **Squarepoint Capital** — [Junior Discretionary Trader](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
+- `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
+  <sub>Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland · score -1 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `PLA-148c769d` **Planet** — [Revenue Operations Analyst - Working Student](https://job-boards.greenhouse.io/planetlabs/jobs/7992927)
   <sub>Berlin, Germany · score -2 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 
