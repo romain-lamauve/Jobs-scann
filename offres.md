@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-_Mis a jour le 2026-09-14_
+_Mis a jour le 2026-09-15_
 
-🟢 1 | 🔵 6 | ⚪ 208 | 🔴 11 | ⚫ 16
+🟢 1 | 🔵 6 | ⚪ 217 | 🔴 10 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -24,7 +24,7 @@ _Mis a jour le 2026-09-14_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 148 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 157 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -70,6 +70,8 @@ _Mis a jour le 2026-09-14_
   <sub>London · score 14 · vue le 2026-09-14</sub>
 - `JUM-1a03e185` **Jump Trading** — [Campus Quantitative Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050796)
   <sub>London; Amsterdam · score 12 · vue le 2026-09-14</sub>
+- `BLA-7f7634bb` **BlackRock** — [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
+  <sub>London, Greater London · score 11 · vue le 2026-09-15</sub>
 - `OPT-f30ccbb5` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands · score 11 · vue le 2026-09-14</sub>
 - `VIR-fb22d771` **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
@@ -82,6 +84,8 @@ _Mis a jour le 2026-09-14_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 9 · vue le 2026-09-14</sub>
 - `GRE-5d3906d6` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
   <sub>London, UK · score 9 · vue le 2026-09-14</sub>
+- `HOW-e01de68c` **Howden** — [Credit Risk Solutions Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Summer-Internship_R0019279)
+  <sub>London - One Creechurch Place · score 9 · vue le 2026-09-15</sub>
 - `JUM-4a768b71` **Jump Trading** — [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145)
   <sub>London · score 9 · vue le 2026-09-14</sub>
 - `QUB-bccd7807` **Qube Research & Technologies** — [2027 Internship – Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002)
@@ -118,7 +122,7 @@ _Mis a jour le 2026-09-14_
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
 - `SHI-06cd46f9` **Shift Technology** — [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003)
   <sub>France - Remote · score 8 · vue le 2026-09-14</sub>
-- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5365283008)
+- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5178841008)
   <sub>Paris, France · score 8 · vue le 2026-09-14</sub>
 - `WEL-30a1109c` **Welcome to the Jungle** — [Stage Data Analyst - Paris (H/F/X)](https://job-boards.greenhouse.io/artefactjobs/jobs/8795539002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
@@ -142,12 +146,8 @@ _Mis a jour le 2026-09-14_
   <sub>Paris, France · score 7 · vue le 2026-09-14</sub>
 - `DVT-c4ccb5b9` **DV Trading** — [Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005)
   <sub>London · score 7 · vue le 2026-09-14</sub>
-- `DAT-3ae2a45e` **Datadog** — [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  <sub>Paris, France · score 7 · vue le 2026-09-14</sub>
-- `FIG-9e8d3f0b` **Figma** — [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004)
-  <sub>London, England · score 7 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (11)
+## 🔴 Mort (refus, offre fermee) (10)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -167,8 +167,6 @@ _Mis a jour le 2026-09-14_
   <sub>London · score 9 · vue le 2026-09-14</sub>
 - `EUR-82707ff0` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
   <sub>Paris · score 9 · vue le 2026-09-14</sub>
-- `ACC-053f87be` **Accenture** — [Junior Applied AI Engineer (all genders)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665)
-  <sub>lieu non precise · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
 - `SQU-e7f8f18a` **Squarepoint Capital** — [Junior Discretionary Trader](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
 
