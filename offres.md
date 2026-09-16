@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-16_
 
-🟢 1 | 🔵 7 | ⚪ 201 | 🟣 9 | 🔴 28 | ⚫ 16
+🟢 1 | 🔵 7 | ⚪ 205 | 🟣 9 | 🔴 28 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -26,7 +26,7 @@ _Mis a jour le 2026-09-16_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 141 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 145 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -84,6 +84,8 @@ _Mis a jour le 2026-09-16_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 9 · vue le 2026-09-14</sub>
 - `AMU-d527f8b5` **Amundi** — [Stage - DEVELOPPEUR FULL-STACK H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115547&idOrigine=170287&LCID=1036&offerReference=2026-115547)
   <sub>Paris 15ème · score 8 · vue le 2026-09-16</sub>
+- `AMU-a65e30f2` **Amundi** — [Stage - Ingénieur en développement d'outil d'IA appliqués H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115584&idOrigine=170287&LCID=1036&offerReference=2026-115584)
+  <sub>Paris 15ème · score 8 · vue le 2026-09-16</sub>
 - `ART-c489f579` **Artefact** — [Stage Data Analyst - Paris (H/F/X)](https://job-boards.greenhouse.io/artefact/jobs/8795537002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-4de8586c` **Artefact** — [Stage Data Consultant - Paris - H/F/X](https://job-boards.greenhouse.io/artefact/jobs/8785408002)
@@ -112,7 +114,7 @@ _Mis a jour le 2026-09-16_
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
 - `SHI-06cd46f9` **Shift Technology** — [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003)
   <sub>France - Remote · score 8 · vue le 2026-09-14</sub>
-- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5178841008)
+- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5365283008)
   <sub>Paris, France · score 8 · vue le 2026-09-14</sub>
 - `WPP-6ebc7af4` **WPP** — [Stage de fin d’études – Consultant·e Développeur·se MarTech](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8370333002)
   <sub>Paris, France · score 8 · vue le 2026-09-15</sub>
@@ -145,8 +147,6 @@ _Mis a jour le 2026-09-16_
 - `FIN-9ff0d1cc` **Financial Technology Partners** — [2027 January IBD Intern Analyst (London)](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8651938002)
   <sub>London · score 7 · vue le 2026-09-14</sub>
 - `HOW-14d27c18` **Howden** — [Analytics Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272)
-  <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
-- `HOW-ad50e96f` **Howden** — [Investment Banking Summer Analyst Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Investment-Banking-Summer-Analyst-Internship-2027_R0019274)
   <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
