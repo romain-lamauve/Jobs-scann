@@ -5,6 +5,7 @@ Citi,workday,wd5,citi,2
 Deutsche Bank,workday,wd3,db,DBWebsite
 Morgan Stanley,workday,wd5,ms,External
 JPMorgan Chase,oracle,jpmc.fa.oraclecloud.com,CX_1001,
-JPMorgan Chase Consumer,oracle,jpmc.fa.oraclecloud.com,CX_1002,
+JPMorgan Chase quant,oracle,jpmc.fa.oraclecloud.com,CX_1001,quantitative
+JPMorgan Chase intern,oracle,jpmc.fa.oraclecloud.com,CX_1001,internship
 Credit Agricole CIB,rss,https://jobs.ca-cib.com/handlers/offerRss.ashx?LCID=1036,,
 Amundi,rss,https://jobs.amundi.com/handlers/offerRss.ashx?LCID=1036,,
