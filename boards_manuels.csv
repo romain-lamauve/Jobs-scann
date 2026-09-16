@@ -1,0 +1,10 @@
+name,kind,a,b,c
+Bank of America,workday,wd1,ghr,Lateral-US
+Barclays,workday,wd3,barclays,External_Career_Site_Barclays
+Citi,workday,wd5,citi,2
+Deutsche Bank,workday,wd3,db,DBWebsite
+Morgan Stanley,workday,wd5,ms,External
+JPMorgan Chase,oracle,jpmc.fa.oraclecloud.com,CX_1001,
+JPMorgan Chase Consumer,oracle,jpmc.fa.oraclecloud.com,CX_1002,
+Credit Agricole CIB,rss,https://jobs.ca-cib.com/handlers/offerRss.ashx?LCID=1036,,
+Amundi,rss,https://jobs.amundi.com/handlers/offerRss.ashx?LCID=1036,,
