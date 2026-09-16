@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-16_
 
-🟢 1 | 🔵 7 | ⚪ 211 | 🟣 9 | 🔴 31 | ⚫ 16
+🟢 1 | 🔵 7 | ⚪ 207 | 🟣 9 | 🔴 37 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -26,7 +26,7 @@ _Mis a jour le 2026-09-16_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 151 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 147 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -66,6 +66,8 @@ _Mis a jour le 2026-09-16_
   <sub>London, Greater London · score 11 · vue le 2026-09-15</sub>
 - `OPT-f30ccbb5` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
   <sub>Amsterdam, North Holland, Netherlands · score 11 · vue le 2026-09-14</sub>
+- `SCH-bde6655d` **Schonfeld** — [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942)
+  <sub>London, England, United Kingdom · score 11 · vue le 2026-09-16</sub>
 - `VIR-fb22d771` **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
   <sub>Dublin, Ireland · score 11 · vue le 2026-09-14</sub>
 - `CIT-69660d45` **Citi** — [Banking, Corporate Banking, Financial Institutions Group (FIG), Placement Analyst Internship, Paris - France 2027](https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Banking--Corporate-Banking--Financial-Institutions-Group--FIG---Placement-Analyst-Internship--Paris---France-2027_26992453)
@@ -118,7 +120,7 @@ _Mis a jour le 2026-09-16_
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
 - `SHI-06cd46f9` **Shift Technology** — [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003)
   <sub>France - Remote · score 8 · vue le 2026-09-14</sub>
-- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5365283008)
+- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5178841008)
   <sub>Paris, France · score 8 · vue le 2026-09-14</sub>
 - `WPP-6ebc7af4` **WPP** — [Stage de fin d’études – Consultant·e Développeur·se MarTech](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8370333002)
   <sub>Paris, France · score 8 · vue le 2026-09-15</sub>
@@ -133,8 +135,6 @@ _Mis a jour le 2026-09-16_
 - `AIR-c315c9cb` **Air Liquide** — [INTERNSHIP - HEAD OFFICE - Procurement Analyst H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/STAGE---Sige-social---Procurement-Automation-Analyst-H-F_R10087517)
   <sub>France, Paris · score 7 · vue le 2026-09-14</sub>
 - `AND-9a576f47` **Anduril Industries** — [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007)
-  <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14</sub>
-- `AND-6d61eb3f` **Anduril Industries** — [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007)
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14</sub>
 - `BOE-8b84a286` **Boeing** — [Engineering Intern - January 2027](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284)
   <sub>IRL - Dublin, Ireland · score 7 · vue le 2026-09-14</sub>
@@ -170,7 +170,7 @@ _Mis a jour le 2026-09-16_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (31)
+## 🔴 Mort (refus, offre fermee) (37)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -190,6 +190,8 @@ _Mis a jour le 2026-09-16_
   <sub>Paris 15ème · score 8 · vue le 2026-09-16 · **disparue le 2026-09-16**</sub>
 - `AND-d6aad311` **Anduril Industries** — [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007)
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `AND-6d61eb3f` **Anduril Industries** — [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007)
+  <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `DVT-da249e22` **DV Trading** — [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
   <sub>London · score 7 · vue le 2026-09-14</sub>
 - `DVT-c9ee52f3` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
@@ -200,16 +202,24 @@ _Mis a jour le 2026-09-16_
   <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `PIM-2cb3a760` **PIMCO** — [2027 Summer Intern - Alternatives Business Management Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783)
   <sub>London, GBR · score 7 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `PIM-cd8c59fd` **PIMCO** — [2027 Summer Intern - Account Analyst, London (Arabic, French or Italian Speaking)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Account-Analyst--London--Arabic--French-or-Italian-Speaking-_R106802)
+  <sub>London, GBR · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `WPP-9cf87d19` **WPP** — [Developer Intern (AI)](https://www.akqa.com/jobs/8007317/?gh_jid=8007317)
   <sub>Amsterdam · score 6 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `WOR-deb9b8ec` **Workwize** — [Data & AI Intern](https://job-boards.eu.greenhouse.io/workwize/jobs/4905799101)
+  <sub>Amsterdam · score 6 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `AIR-cecaddb9` **Air Liquide** — [ALTERNANCE - Siège social - Corporate Risk Manager Junior H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/ALTERNANCE---Sige-social---Corporate-Risk-Manager-Junior-H-F_R10097308)
   <sub>France, Paris · score 5 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `CIT-a51365cb` **Citi** — [Banking, Commercial Banking, Summer Analyst, London - United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448)
   <sub>London  United Kingdom · score 5 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `EUR-31b79411` **Euronext** — [Risk and Compliance Transformation - intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1)
   <sub>Paris · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `HOW-3161c1ea` **Howden** — [Junior Quantitative Analyst (Credit & Financial Risk)](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956)
+  <sub>Switzerland - Bodmerstrasse 9 · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `NTT-8b2441f0` **NTT DATA** — [AI Engineering Intern – Mistral AI & Forward Deployment](https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688)
   <sub>LUX, Luxembourg Office · score 4 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `ACC-cbc36567` **Accenture** — [Junior AI Native Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Saint-Herblain-Liberty-A/Junior-AI-Native-Engineer_R00346080)
+  <sub>lieu non precise · score 2 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `DEU-6106abca` **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573)
   <sub>Luxembourg 2 Blvd K. Adenauer · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `EUR-486b1617` **Euronext** — [Index Structurer (VIE)](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Index-Structurer--VIE-_R27226)
@@ -224,6 +234,8 @@ _Mis a jour le 2026-09-16_
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
 - `SQU-98a3e9b9` **Squarepoint Capital** — [Junior Risk Manager](https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910)
   <sub>New York, London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `CRI-9412c98f` **Criteo** — [Site Reliability Engineer Apprentice (1+ years)](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Site-Reliability-Engineer-Apprentice_r19786)
+  <sub>Paris · score 1 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `CIT-bac32f11` **Citi** — [Markets Operations Entry-Level Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Entry-Level-Analyst_26987229)
   <sub>Belfast  United Kingdom · score 0 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
