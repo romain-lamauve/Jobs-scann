@@ -185,7 +185,7 @@ def fetch_workday(company, instance, tenant, site):
     return out
 
 
-def fetch_oracle(company, host, site):
+def fetch_oracle(company, host, site, keyword=""):
     """Oracle Recruiting Cloud (JPMorgan). JSON public, sans authentification.
     host = jpmc.fa.oraclecloud.com, site = CX_1001
     Le parametre finder ne doit PAS etre encode : Oracle le lit tel quel."""
@@ -197,6 +197,9 @@ def fetch_oracle(company, host, site):
             f"?onlyData=true"
             f"&expand=requisitionList.secondaryLocations"
             f"&finder=findReqs;siteNumber={site},"
+            f"limit=100,offset={offset},sortBy=POSTING_DATES_DESC"
+            f"&finder=findReqs;siteNumber={site},"
+            f"keyword={keyword},"
             f"limit=100,offset={offset},sortBy=POSTING_DATES_DESC"
         )
         payload = _get_json(url, extra={"ora-irc-language": "en"})
@@ -267,7 +270,7 @@ def load_boards():
                 elif kind == "workday":
                     wd.append((r["name"], r["a"], r["b"], r["c"]))
                 elif kind == "oracle":
-                    orc.append((r["name"], r["a"], r["b"]))
+                    orc.append((r["name"], r["a"], r["b"], r.get("c", "")))
                 elif kind == "rss":
                     rss.append((r["name"], r["a"]))
     return gh, wd, orc, rss
