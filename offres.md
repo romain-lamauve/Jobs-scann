@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-_Mis a jour le 2026-09-15_
+_Mis a jour le 2026-09-16_
 
-🟢 1 | 🔵 7 | ⚪ 210 | 🟣 9 | 🔴 15 | ⚫ 16
+🟢 1 | 🔵 7 | ⚪ 201 | 🟣 9 | 🔴 27 | ⚫ 16
 
 ## 🟢 Entretien / reponse positive (1)
 
@@ -16,7 +16,7 @@ _Mis a jour le 2026-09-15_
 - `HUD-a4fb59f0` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
 - `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · postule il y a 7 j</sub>
+  <sub>Paris · score 23 · vue le 2026-09-14 · postule il y a 8 j</sub>
 - `AQU-757afeac` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
   <sub>Chicago; London · score 20 · vue le 2026-09-14</sub>
 - `JUM-0a9dc47b` **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307)
@@ -26,7 +26,7 @@ _Mis a jour le 2026-09-15_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 150 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 141 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -68,6 +68,8 @@ _Mis a jour le 2026-09-15_
   <sub>Dublin, Ireland · score 11 · vue le 2026-09-14</sub>
 - `CRI-80222dfa` **Criteo** — [Product Data Science & AI Agents Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Science---AI-Agents-Intern_r21132)
   <sub>Paris · score 10 · vue le 2026-09-14</sub>
+- `AMU-93fe45a1` **Amundi** — [Stage Data Science H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115486&idOrigine=170287&LCID=1036&offerReference=2026-115486)
+  <sub>Paris · score 9 · vue le 2026-09-16</sub>
 - `ART-31fde923` **Artefact** — [Stage Data Scientist - Paris (H/F/X)](https://job-boards.greenhouse.io/artefact/jobs/8785269002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 9 · vue le 2026-09-14</sub>
 - `GRE-5d3906d6` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
@@ -86,6 +88,8 @@ _Mis a jour le 2026-09-15_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-4128a11b` **Artefact** — [Stage Software Engineer - Paris - H/F/X](https://job-boards.greenhouse.io/artefact/jobs/8785345002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
+- `CRE-f2e113f9` **Credit Agricole CIB** — [Data & Reporting Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115082&idOrigine=1533&LCID=1036&offerReference=2026-115082)
+  <sub>Montrouge · score 8 · vue le 2026-09-16</sub>
 - `CRI-839ac2b8` **Criteo** — [Product Data Scientist Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Scientist-Intern_r15715-1)
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
 - `DRW-b9ac8f17` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
@@ -142,10 +146,6 @@ _Mis a jour le 2026-09-15_
   <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
 - `HOW-ad50e96f` **Howden** — [Investment Banking Summer Analyst Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Investment-Banking-Summer-Analyst-Internship-2027_R0019274)
   <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
-- `HOW-9f24050d` **Howden** — [Growth Execution Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Growth-Execution-Summer-Internship-2027_R0019282)
-  <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
-- `HOW-e01de68c` **Howden** — [Credit Risk Solutions Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Summer-Internship_R0019279)
-  <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15</sub>
 - `JUM-94858947` **Jump Crypto** — [Campus Intern Crypto Researcher 2026 LDN](https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010)
   <sub>London · score 7 · vue le 2026-09-14</sub>
 
@@ -170,7 +170,7 @@ _Mis a jour le 2026-09-15_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (15)
+## 🔴 Mort (refus, offre fermee) (27)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -190,18 +190,42 @@ _Mis a jour le 2026-09-15_
   <sub>London · score 7 · vue le 2026-09-14</sub>
 - `DVT-c9ee52f3` **DV Trading** — [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
   <sub>London · score 7 · vue le 2026-09-14</sub>
+- `HOW-9f24050d` **Howden** — [Growth Execution Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Growth-Execution-Summer-Internship-2027_R0019282)
+  <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `HOW-e01de68c` **Howden** — [Credit Risk Solutions Summer Internship 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Summer-Internship_R0019279)
+  <sub>London - One Creechurch Place · score 7 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `PIM-2cb3a760` **PIMCO** — [2027 Summer Intern - Alternatives Business Management Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783)
   <sub>London, GBR · score 7 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `WPP-9cf87d19` **WPP** — [Developer Intern (AI)](https://www.akqa.com/jobs/8007317/?gh_jid=8007317)
   <sub>Amsterdam · score 6 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `AIR-cecaddb9` **Air Liquide** — [ALTERNANCE - Siège social - Corporate Risk Manager Junior H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/ALTERNANCE---Sige-social---Corporate-Risk-Manager-Junior-H-F_R10097308)
+  <sub>France, Paris · score 5 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `EUR-31b79411` **Euronext** — [Risk and Compliance Transformation - intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1)
+  <sub>Paris · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `NTT-8b2441f0` **NTT DATA** — [AI Engineering Intern – Mistral AI & Forward Deployment](https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688)
   <sub>LUX, Luxembourg Office · score 4 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `DEU-6106abca` **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573)
+  <sub>Luxembourg 2 Blvd K. Adenauer · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `EUR-486b1617` **Euronext** — [Index Structurer (VIE)](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Index-Structurer--VIE-_R27226)
+  <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `HOW-2990c17f` **Howden** — [Credit & Political Risk Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit---Political-Risk-Graduate-Programme-2027_R0019266)
+  <sub>London - One Creechurch Place · score 2 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `HOW-2bab601e` **Howden** — [Credit Risk Solutions Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Graduate-Programme-2027_R0019260)
+  <sub>London - One Creechurch Place · score 2 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `SAN-34ac330f` **Santander** — [Junior Client Portfolio Manager](https://job-boards.eu.greenhouse.io/ebury/jobs/4974853101)
+  <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `SQU-e7f8f18a` **Squarepoint Capital** — [Junior Discretionary Trader](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-14**</sub>
+- `SQU-98a3e9b9` **Squarepoint Capital** — [Junior Risk Manager](https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910)
+  <sub>New York, London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
   <sub>Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland · score -1 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `HOW-0d5f538f` **Howden** — [Risk and Compliance Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263)
+  <sub>London - One Creechurch Place · score -1 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `PLA-148c769d` **Planet** — [Revenue Operations Analyst - Working Student](https://job-boards.greenhouse.io/planetlabs/jobs/7992927)
   <sub>Berlin, Germany · score -2 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `LGT-549f5e93` **LGT Group** — [Student Support - Private Markets Transaction Tax and Tax Structuring 60 - 80%](https://lgtcp.wd502.myworkdayjobs.com/lgtcpcurrentvacancies/job/Pfffikon-Switzerland/Student-Support---Private-Markets-Transaction-Tax-and-Tax-Structuring-60---80-_JR1979-1)
+  <sub>Pfäffikon, Switzerland · score -4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 
 ## ⚫ Ignore (16)
 
@@ -232,11 +256,11 @@ _Mis a jour le 2026-09-15_
 - `QUB-ee5f15d8` **Qube Research & Technologies** — [2027 – Graduate or Internship, Infrastructure Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002)
   <sub>London, Paris · score 9 · vue le 2026-09-14</sub>
 - `FRE-d137213b` **Freshfields Bruckhaus Deringer** — [Stage - Restructuring & Insolvency F/H](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Paris/Stage---Restructuring---Insolvency-F-H_R-01959)
-  <sub>Paris · score 8 · vue le 2026-09-14</sub>
+  <sub>Paris · score 8 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `FRE-d37e3ab1` **Freshfields Bruckhaus Deringer** — [Advocaat-stage - Restructuring & Insolvency](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Advocaat-stage---Restructuring---Insolvency_R-08034)
-  <sub>Amsterdam · score 5 · vue le 2026-09-14</sub>
+  <sub>Amsterdam · score 5 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `FRE-ac98155d` **Freshfields Bruckhaus Deringer** — [Student-stage - Restructuring & Insolvency](https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Student-stage---Restructuring---Insolvency_R-06996)
-  <sub>Amsterdam · score 5 · vue le 2026-09-14</sub>
+  <sub>Amsterdam · score 5 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 
 ---
 
