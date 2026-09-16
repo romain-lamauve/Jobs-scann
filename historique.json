@@ -42,7 +42,8 @@
   "location": "Dublin, Dublin, Ireland",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
   "last_seen": "2026-09-16",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-16"
  },
  "andurilindustries|2027softwareengineerintern|dublindublinireland": {
   "first_seen": "2026-09-14",
@@ -51,7 +52,7 @@
   "location": "Dublin, Dublin, Ireland",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "aquaticcapitalmanagement|quantitativeresearcherinternsummer2027|chicagolondon": {
   "first_seen": "2026-09-14",
@@ -105,7 +106,7 @@
   "location": "Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland",
   "url": "https://job-boards.greenhouse.io/awin/jobs/7985465003",
   "last_seen": "2026-09-15",
-  "absente": 6,
+  "absente": 7,
   "ferme": "2026-09-15"
  },
  "capgemini|graduateaiandsecuretechnologiesengineer2026start|unitedkingdom": {
@@ -1042,7 +1043,7 @@
   "location": "Berlin, Germany",
   "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7992927",
   "last_seen": "2026-09-14",
-  "absente": 7,
+  "absente": 8,
   "ferme": "2026-09-15"
  },
  "point72|quantitativeresearcherintern|londonparishongkongtokyo": {
@@ -1077,7 +1078,7 @@
   "company": "Private Equity Insights",
   "title": "Student Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516812003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530014003",
   "last_seen": "2026-09-16",
   "absente": 0
  },
@@ -1095,7 +1096,7 @@
   "company": "Private Equity Insights",
   "title": "Student Editorial & Industry Research Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530015003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516866003",
   "last_seen": "2026-09-16",
   "absente": 0
  },
@@ -1104,7 +1105,7 @@
   "company": "Private Equity Insights",
   "title": "Student Private Equity Editorial Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516870003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530016003",
   "last_seen": "2026-09-16",
   "absente": 0
  },
@@ -1113,7 +1114,7 @@
   "company": "Private Equity Insights",
   "title": "Student Private Equity Media Analyst at Private Equity Insights London, United Kingdom",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6516867003",
+  "url": "https://job-boards.greenhouse.io/privateequityinsights/jobs/6530017003",
   "last_seen": "2026-09-16",
   "absente": 0
  },
@@ -1232,7 +1233,7 @@
   "location": "London",
   "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4974853101",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "scaleai|softwareengineeringinternsummer2027|londonuk": {
@@ -1413,7 +1414,7 @@
   "location": "London",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
   "last_seen": "2026-09-14",
-  "absente": 9,
+  "absente": 10,
   "ferme": "2026-09-14"
  },
  "squarepointcapital|juniorquantdeveloper|londonmontrealsingapore": {
@@ -1450,7 +1451,7 @@
   "location": "New York, London",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "squarepointcapital|juniorsoftwaredeveloperc|londonmontrealsingapore": {
@@ -1694,7 +1695,7 @@
   "location": "Amsterdam",
   "url": "https://job-boards.eu.greenhouse.io/workwize/jobs/4905799101",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "workwize|internproductengineer|amsterdam": {
   "first_seen": "2026-09-14",
@@ -1721,7 +1722,7 @@
   "location": "Amsterdam",
   "url": "https://www.akqa.com/jobs/8007317/?gh_jid=8007317",
   "last_seen": "2026-09-15",
-  "absente": 6,
+  "absente": 7,
   "ferme": "2026-09-15"
  },
  "wpp|stageconsultantdatatechfh|parisfrance": {
@@ -1758,7 +1759,7 @@
   "location": "",
   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
   "last_seen": "2026-09-16",
-  "absente": 1
+  "absente": 0
  },
  "airliquide|alternancesigesocialcorporateriskmanagerjuniorhf|franceparis": {
   "first_seen": "2026-09-14",
@@ -1767,7 +1768,7 @@
   "location": "France, Paris",
   "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/ALTERNANCE---Sige-social---Corporate-Risk-Manager-Junior-H-F_R10097308",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "airliquide|internshipheadofficeprocurementanalysthf|franceparis": {
@@ -1822,7 +1823,7 @@
   "location": "Paris",
   "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Site-Reliability-Engineer-Apprentice_r19786",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "criteo|productdatascientistintern|paris": {
   "first_seen": "2026-09-14",
@@ -1840,7 +1841,7 @@
   "location": "Luxembourg 2 Blvd K. Adenauer",
   "url": "https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "euronext|quantintern|paris": {
@@ -1859,7 +1860,7 @@
   "location": "London",
   "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Index-Structurer--VIE-_R27226",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "euronext|aiengineeringintern|paris": {
@@ -1878,7 +1879,7 @@
   "location": "Paris",
   "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "freshfieldsbruckhausderinger|advocaatstagerestructuringinsolvency|amsterdam": {
@@ -1888,7 +1889,7 @@
   "location": "Amsterdam",
   "url": "https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Advocaat-stage---Restructuring---Insolvency_R-08034",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "freshfieldsbruckhausderinger|studentstagerestructuringinsolvency|amsterdam": {
@@ -1898,7 +1899,7 @@
   "location": "Amsterdam",
   "url": "https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Amsterdam/Student-stage---Restructuring---Insolvency_R-06996",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "freshfieldsbruckhausderinger|stagerestructuringinsolvencyfh|paris": {
@@ -1908,7 +1909,7 @@
   "location": "Paris",
   "url": "https://freshfields.wd3.myworkdayjobs.com/FBD_101/job/Paris/Stage---Restructuring---Insolvency-F-H_R-01959",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "gresearch|quantresearchinternship|londonuk": {
@@ -1972,7 +1973,7 @@
   "location": "Switzerland - Bodmerstrasse 9",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "lgtgroup|studentsupportprivatemarketstransactiontaxandtaxstructuring6080|pfffikonswitzerland": {
   "first_seen": "2026-09-14",
@@ -1981,7 +1982,7 @@
   "location": "Pfäffikon, Switzerland",
   "url": "https://lgtcp.wd502.myworkdayjobs.com/lgtcpcurrentvacancies/job/Pfffikon-Switzerland/Student-Support---Private-Markets-Transaction-Tax-and-Tax-Structuring-60---80-_JR1979-1",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "nttdata|aiengineeringinternmistralaiforwarddeployment|luxluxembourgoffice": {
@@ -1991,7 +1992,7 @@
   "location": "LUX, Luxembourg Office",
   "url": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/LUX-Luxembourg-Office/AI-Engineering-Intern---Mistral-AI---Forward-Deployment_R-148688",
   "last_seen": "2026-09-15",
-  "absente": 6,
+  "absente": 7,
   "ferme": "2026-09-15"
  },
  "pimco|2027summerinterncreditresearchanalystemea|londongbr": {
@@ -2037,7 +2038,7 @@
   "location": "London, GBR",
   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Alternatives-Business-Management-Analyst--EMEA_R106783",
   "last_seen": "2026-09-15",
-  "absente": 6,
+  "absente": 7,
   "ferme": "2026-09-15"
  },
  "pimco|2027summerinterntradesupportanalystemea|dublinirl": {
@@ -2083,7 +2084,7 @@
   "location": "London, GBR",
   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Account-Analyst--London--Arabic--French-or-Italian-Speaking-_R106802",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "redhat|softwareengineeringinternopenshiftaidublinofficeireland|dublinmso": {
   "first_seen": "2026-09-14",
@@ -2191,7 +2192,7 @@
   "location": "London  United Kingdom",
   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448",
   "last_seen": "2026-09-15",
-  "absente": 3,
+  "absente": 4,
   "ferme": "2026-09-16"
  },
  "blackrock|2027quantitativemastersinternshipprogrammeinvestmentsquantitativeinvestinglondon|londongreaterlondon": {
@@ -2228,7 +2229,7 @@
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Growth-Execution-Summer-Internship-2027_R0019282",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "howden|creditpoliticalriskgraduateprogramme2027|londononecreechurchplace": {
@@ -2238,7 +2239,7 @@
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit---Political-Risk-Graduate-Programme-2027_R0019266",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "howden|creditrisksolutionsgraduateprogramme2027|londononecreechurchplace": {
@@ -2248,7 +2249,7 @@
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Graduate-Programme-2027_R0019260",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "howden|creditrisksolutionssummerinternship2027|londononecreechurchplace": {
@@ -2258,7 +2259,7 @@
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Summer-Internship_R0019279",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "howden|riskandcompliancegraduateprogramme2027|londononecreechurchplace": {
@@ -2268,7 +2269,7 @@
   "location": "London - One Creechurch Place",
   "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263",
   "last_seen": "2026-09-15",
-  "absente": 4,
+  "absente": 5,
   "ferme": "2026-09-16"
  },
  "helsing|juniorsoftwareengineer|berlinlondonmunich": {
@@ -2287,7 +2288,7 @@
   "location": "",
   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Saint-Herblain-Liberty-A/Junior-AI-Native-Engineer_R00346080",
   "last_seen": "2026-09-16",
-  "absente": 0
+  "absente": 1
  },
  "airbus|stage2027chefdeprojetdatainnovationhf|parisarea": {
   "first_seen": "2026-09-15",
@@ -2332,7 +2333,8 @@
   "location": "Belfast  United Kingdom",
   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Entry-Level-Analyst_26987229",
   "last_seen": "2026-09-16",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-16"
  },
  "swisslife|alternancedveloppeurbusinessintelligencehf|paris": {
   "first_seen": "2026-09-15",
@@ -2377,7 +2379,8 @@
   "location": "Paris 15ème",
   "url": "https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115547&idOrigine=170287&LCID=1036&offerReference=2026-115547",
   "last_seen": "2026-09-16",
-  "absente": 1
+  "absente": 2,
+  "ferme": "2026-09-16"
  },
  "citi|bankingcorporatebankingplacementanalystlondonunitedkingdom2027|londonunitedkingdom": {
   "first_seen": "2026-09-16",
@@ -2412,6 +2415,87 @@
   "title": "Stage - Ingénieur en développement d'outil d'IA appliqués H/F (Stage)",
   "location": "Paris 15ème",
   "url": "https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115584&idOrigine=170287&LCID=1036&offerReference=2026-115584",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "auterion|electronicsengineeringintern|zurichswitzerland": {
+  "first_seen": "2026-09-16",
+  "company": "Auterion",
+  "title": "Electronics Engineering Intern",
+  "location": "Zurich, Switzerland",
+  "url": "https://auterion.com/company/careers-open-position/8813576002?gh_jid=8813576002",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "fospha|graduatedataengineer|london": {
+  "first_seen": "2026-09-16",
+  "company": "Fospha",
+  "title": "Graduate Data Engineer",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8207747",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "fospha|juniorsoftwareengineer|london": {
+  "first_seen": "2026-09-16",
+  "company": "Fospha",
+  "title": "Junior Software Engineer",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8207846",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "airbus|stage2027engineeringprojectmanagerofficerhf|parisarea": {
+  "first_seen": "2026-09-16",
+  "company": "Airbus",
+  "title": "STAGE 2027 - Engineering Project Manager Officer (h/f)",
+  "location": "Paris Area",
+  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Engineering-Project-Manager-Officer--h-f-_JR10432600",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "citi|bankingcorporatebankingfinancialinstitutionsgroupfigplacementanalystinternshipparisfrance2027|parisfrance": {
+  "first_seen": "2026-09-16",
+  "company": "Citi",
+  "title": "Banking, Corporate Banking, Financial Institutions Group (FIG), Placement Analyst Internship, Paris - France 2027",
+  "location": "Paris  France",
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Banking--Corporate-Banking--Financial-Institutions-Group--FIG---Placement-Analyst-Internship--Paris---France-2027_26992453",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "hitachi|traineeengineeringwmd|badhonnefnorthrhinewestphaliagermany": {
+  "first_seen": "2026-09-16",
+  "company": "Hitachi",
+  "title": "Trainee Engineering (w/m/d)",
+  "location": "Bad Honnef, North Rhine-Westphalia, Germany",
+  "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bad-Honnef-North-Rhine-Westphalia-Germany/Trainee-Engineering--w-m-d-_R0138614",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "pimco|2027summerinternaccountanalystlondonarabicorfrenchspeaking|londongbr": {
+  "first_seen": "2026-09-16",
+  "company": "PIMCO",
+  "title": "2027 Summer Intern - Account Analyst, London (Arabic or French Speaking)",
+  "location": "London, GBR",
+  "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Account-Analyst--London--Arabic--French-or-Italian-Speaking-_R106802",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "creditagricolecib|businessanalystenintelligenceartificiellehfstage|montrouge": {
+  "first_seen": "2026-09-16",
+  "company": "Credit Agricole CIB",
+  "title": "Business Analyst en Intelligence Artificielle H/F (Stage)",
+  "location": "Montrouge",
+  "url": "https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115600&idOrigine=1533&LCID=1036&offerReference=2026-115600",
+  "last_seen": "2026-09-16",
+  "absente": 0
+ },
+ "creditagricolecib|developpeureusewebgmdpricingservicesnonlinearithfstage|montrouge": {
+  "first_seen": "2026-09-16",
+  "company": "Credit Agricole CIB",
+  "title": "Developpeur(euse) Web - GMD Pricing Services - Non Linear IT H/F (Stage)",
+  "location": "Montrouge",
+  "url": "https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115096&idOrigine=1533&LCID=1036&offerReference=2026-115096",
   "last_seen": "2026-09-16",
   "absente": 0
  }
