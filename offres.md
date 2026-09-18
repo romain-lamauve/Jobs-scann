@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-18_
 
-🟢 1 | 🔵 7 | ⚪ 199 | 🟣 9 | 🔴 62 | ⚫ 16
+🟢 1 | 🔵 7 | ⚪ 190 | 🟣 9 | 🔴 71 | ⚫ 16
 
 ## ⏰ A relancer (1)
 
@@ -31,7 +31,7 @@ _Mis a jour le 2026-09-18_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 139 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 130 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -175,7 +175,7 @@ _Mis a jour le 2026-09-18_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (62)
+## 🔴 Mort (refus, offre fermee) (71)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -259,8 +259,16 @@ _Mis a jour le 2026-09-18_
   <sub>Amsterdam  Netherlands · score 5 · vue le 2026-09-15 · **disparue le 2026-09-17**</sub>
 - `CIT-b0b1e664` **Citi** — [Banking, Corporate Banking, Placement Analyst, London - United Kingdom, 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Corporate-Banking--Placement-Analyst--London---United-Kingdom--2027_26991692)
   <sub>London  United Kingdom · score 5 · vue le 2026-09-16 · **disparue le 2026-09-17**</sub>
+- `CIT-bfa6b4d9` **Citi** — [Services - Summer Analyst, UK - London, 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475)
+  <sub>London  United Kingdom · score 5 · vue le 2026-09-17 · **disparue le 2026-09-18**</sub>
+- `SPE-b945bb76` **Spektrum** — [Junior Biometrics Analyst](https://spektrum-group.com/jobs?gh_jid=4116115101)
+  <sub>Strasbourg, France · score 5 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
+- `SPE-3a7d9144` **Spektrum** — [Junior Test Engineer](https://spektrum-group.com/jobs?gh_jid=4116043101)
+  <sub>Strasbourg, France · score 5 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `CIT-ccfe7e1b` **Citi** — [Services - Full-Time Analyst, UK - London, 2027 (2026 Summer Intern Converts Only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Full-Time-Analyst--UK---London--2027--2026-Summer-Intern-Converts-Only-_26995669)
   <sub>London  United Kingdom · score 4 · vue le 2026-09-17 · **disparue le 2026-09-18**</sub>
+- `CIT-ab6e851d` **Citi** — [Services - Full-Time Analyst, Ireland - Dublin, 2027 (2026 Summer Intern Converts Only)](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Services---Full-Time-Analyst--Ireland---Dublin--2027--2026-Summer-Intern-Converts-Only-_26995666)
+  <sub>Dublin  Ireland · score 4 · vue le 2026-09-17 · **disparue le 2026-09-18**</sub>
 - `EUR-31b79411` **Euronext** — [Risk and Compliance Transformation - intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1)
   <sub>Paris · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `HOW-3161c1ea` **Howden** — [Junior Quantitative Analyst (Credit & Financial Risk)](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956)
@@ -293,10 +301,20 @@ _Mis a jour le 2026-09-18_
   <sub>lieu non precise · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `CIT-bac32f11` **Citi** — [Markets Operations Entry-Level Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Entry-Level-Analyst_26987229)
   <sub>Belfast  United Kingdom · score 0 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `HIT-0b165a36` **Hitachi** — [Trainee Engineering (w/m/d)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bad-Honnef-North-Rhine-Westphalia-Germany/Trainee-Engineering--w-m-d-_R0138614)
+  <sub>Bad Honnef, North Rhine-Westphalia, Germany · score 0 · vue le 2026-09-16 · **disparue le 2026-09-18**</sub>
+- `SPE-73f569c5` **Spektrum** — [Junior .NET Developer](https://spektrum-group.com/jobs?gh_jid=4362654101)
+  <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
+- `SPE-0153da99` **Spektrum** — [Junior .Net Developer (ASP .Net Core background)](https://spektrum-group.com/jobs?gh_jid=4234798101)
+  <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
+- `SPE-85486600` **Spektrum** — [Junior .Net Developer (WinForms .Net Core background)](https://spektrum-group.com/jobs?gh_jid=4234805101)
+  <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
   <sub>Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland · score -1 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `HOW-0d5f538f` **Howden** — [Risk and Compliance Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263)
   <sub>London - One Creechurch Place · score -1 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `SAM-b6fcada3` **Samsara** — [Software Engineer I (New Grad)](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345)
+  <sub>London - UK2 · score -1 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `PLA-148c769d` **Planet** — [Revenue Operations Analyst - Working Student](https://job-boards.greenhouse.io/planetlabs/jobs/7992927)
   <sub>Berlin, Germany · score -2 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `LGT-549f5e93` **LGT Group** — [Student Support - Private Markets Transaction Tax and Tax Structuring 60 - 80%](https://lgtcp.wd502.myworkdayjobs.com/lgtcpcurrentvacancies/job/Pfffikon-Switzerland/Student-Support---Private-Markets-Transaction-Tax-and-Tax-Structuring-60---80-_JR1979-1)
