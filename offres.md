@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-21_
 
-🟢 0 | 🔵 7 | ⚪ 189 | 🟣 9 | 🔴 82 | ⚫ 16
+🟢 0 | 🔵 7 | ⚪ 188 | 🟣 9 | 🔴 83 | ⚫ 16
 
 ## ⏰ A relancer (1)
 
@@ -26,7 +26,7 @@ _Mis a jour le 2026-09-21_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 129 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 128 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -170,7 +170,7 @@ _Mis a jour le 2026-09-21_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (82)
+## 🔴 Mort (refus, offre fermee) (83)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -270,6 +270,8 @@ _Mis a jour le 2026-09-21_
   <sub>London  United Kingdom · score 5 · vue le 2026-09-16 · **disparue le 2026-09-17**</sub>
 - `CIT-bfa6b4d9` **Citi** — [Services - Summer Analyst, UK - London, 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475)
   <sub>London  United Kingdom · score 5 · vue le 2026-09-17 · **disparue le 2026-09-18**</sub>
+- `CRE-a5f89da0` **Credit Agricole CIB** — [Assistant analyste rémunération H/F (Alternance / Apprentissage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110519&idOrigine=1533&LCID=1036&offerReference=2026-110519)
+  <sub>Montrouge · score 5 · vue le 2026-09-21 · **disparue le 2026-09-21**</sub>
 - `SPE-b945bb76` **Spektrum** — [Junior Biometrics Analyst](https://spektrum-group.com/jobs?gh_jid=4116115101)
   <sub>Strasbourg, France · score 5 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `SPE-3a7d9144` **Spektrum** — [Junior Test Engineer](https://spektrum-group.com/jobs?gh_jid=4116043101)
