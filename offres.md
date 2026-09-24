@@ -2,21 +2,14 @@
 
 _Mis a jour le 2026-09-24_
 
-🟢 0 | 🔵 7 | ⚪ 205 | 🟣 9 | 🔴 111 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 203 | 🟣 9 | 🔴 114 | ⚫ 16
 
-## ⏰ A relancer (1)
-
-- `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 16 j**</sub>
-
-## 🔵 Postule - en attente (7)
+## 🔵 Postule - en attente (6)
 
 - `JUM-025cd239` **Jump Trading** — [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384)
   <sub>London; Paris · score 25 · vue le 2026-09-14</sub>
 - `HUD-a4fb59f0` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
-- `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 16 j**</sub>
 - `AQU-757afeac` **Aquatic Capital Management** — [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
   <sub>Chicago; London · score 20 · vue le 2026-09-14</sub>
 - `JUM-0a9dc47b` **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307)
@@ -26,7 +19,7 @@ _Mis a jour le 2026-09-24_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 145 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 143 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -170,10 +163,12 @@ _Mis a jour le 2026-09-24_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (111)
+## 🔴 Mort (refus, offre fermee) (114)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
+- `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
+  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 16 j** · **disparue le 2026-09-24**</sub>
 - `JPM-00890b2f` **JPMorgan Chase** — [2027 Quantitative Research – Asset Management - Summer Analyst Internship - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010)
   <sub>LONDON, LONDON, United Kingdom · score 20 · vue le 2026-09-22 · **disparue le 2026-09-23**</sub>
 - `JPM-5d63acdd` **JPMorgan Chase intern** — [2027 Quantitative Research – Asset Management - Summer Analyst Internship - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010)
@@ -354,6 +349,8 @@ _Mis a jour le 2026-09-24_
   <sub>London - One Creechurch Place · score 2 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
 - `HOW-2bab601e` **Howden** — [Credit Risk Solutions Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Credit-Risk-Solutions-Graduate-Programme-2027_R0019260)
   <sub>London - One Creechurch Place · score 2 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `IMC-c7241195` **IMC** — [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101)
+  <sub>Amsterdam, Netherlands · score 2 · vue le 2026-09-14 · **disparue le 2026-09-24**</sub>
 - `JOH-0c3f69f6` **Johnson Controls** — [Junior AI Engineer](https://jci.wd5.myworkdayjobs.com/jci/job/Cork-County-Cork-Ireland/Junior-AI-Engineer_WD30279251-1)
   <sub>Cork-County Cork-Ireland · score 2 · vue le 2026-09-16 · **disparue le 2026-09-17**</sub>
 - `LIF-ccbd79da` **Life Trading** — [Junior Futures Trader](https://job-boards.greenhouse.io/lifetrading/jobs/4704562005)
@@ -386,6 +383,8 @@ _Mis a jour le 2026-09-24_
   <sub>London, England, United Kingdom · score -1 · vue le 2026-09-14 · **disparue le 2026-09-21**</sub>
 - `HOW-0d5f538f` **Howden** — [Risk and Compliance Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263)
   <sub>London - One Creechurch Place · score -1 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `IMC-409e56f6` **IMC** — [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101)
+  <sub>Amsterdam, Netherlands · score -1 · vue le 2026-09-14 · **disparue le 2026-09-24**</sub>
 - `SAM-b6fcada3` **Samsara** — [Software Engineer I (New Grad)](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345)
   <sub>London - UK2 · score -1 · vue le 2026-09-14 · **disparue le 2026-09-22**</sub>
 - `AMU-34f7d1fc` **Amundi** — [Junior Application Support Analyst (Trading) VIE M/F (VIE)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115467&idOrigine=170287&LCID=1036&offerReference=2026-115467)
