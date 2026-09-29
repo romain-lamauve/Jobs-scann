@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-09-29_
 
-🟢 0 | 🔵 6 | ⚪ 208 | 🟣 9 | 🔴 139 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 206 | 🟣 9 | 🔴 141 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-09-29_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 148 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 146 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -105,8 +105,6 @@ _Mis a jour le 2026-09-29_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
 - `CRE-34351375` **Credit Agricole CIB** — [Analyste Coverage - Large French Corporates H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115325&idOrigine=1533&LCID=1036&offerReference=2026-115325)
   <sub>Montrouge · score 8 · vue le 2026-09-18</sub>
-- `CRE-fb92a5a8` **Credit Agricole CIB** — [Analyste - Environmental Transition Group H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115681&idOrigine=1533&LCID=1036&offerReference=2026-115681)
-  <sub>Montrouge · score 8 · vue le 2026-09-18</sub>
 - `CRE-f30bccd1` **Credit Agricole CIB** — [Private Equity Funds Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115928&idOrigine=1533&LCID=1036&offerReference=2026-115928)
   <sub>Montrouge · score 8 · vue le 2026-09-29</sub>
 - `CRE-60d7f42c` **Credit Agricole CIB** — [Analyste Financement de Projet (Energie et Infrastructure) – Portefeuille H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115927&idOrigine=1533&LCID=1036&offerReference=2026-115927)
@@ -141,6 +139,8 @@ _Mis a jour le 2026-09-29_
   <sub>Paris, France · score 8 · vue le 2026-09-14</sub>
 - `WPP-6ebc7af4` **WPP** — [Stage de fin d’études – Consultant·e Développeur·se MarTech](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8370333002)
   <sub>Paris, France · score 8 · vue le 2026-09-15</sub>
+- `WEL-e2c74669` **Welcome to the Jungle** — [Stage Data Consultant - Paris - H/F/X](https://job-boards.greenhouse.io/artefactjobs/jobs/8785410002)
+  <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-09-29_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (139)
+## 🔴 Mort (refus, offre fermee) (141)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
@@ -243,6 +243,8 @@ _Mis a jour le 2026-09-29_
   <sub>Montrouge · score 8 · vue le 2026-09-18 · **disparue le 2026-09-21**</sub>
 - `CRE-874064da` **Credit Agricole CIB** — [Data analyst Cash Management H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110866&idOrigine=1533&LCID=1036&offerReference=2026-110866)
   <sub>Saint-Quentin en Yvelines · score 8 · vue le 2026-09-18 · **disparue le 2026-09-21**</sub>
+- `CRE-fb92a5a8` **Credit Agricole CIB** — [Analyste - Environmental Transition Group H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115681&idOrigine=1533&LCID=1036&offerReference=2026-115681)
+  <sub>Montrouge · score 8 · vue le 2026-09-18 · **disparue le 2026-09-29**</sub>
 - `CRE-23442dd7` **Credit Agricole CIB** — [Analyste Data & Risques IT (Power BI) H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115708&idOrigine=1533&LCID=1036&offerReference=2026-115708)
   <sub>Montrouge · score 8 · vue le 2026-09-21 · **disparue le 2026-09-22**</sub>
 - `CRE-21a1720d` **Credit Agricole CIB** — [Analyste - Monitoring Portefeuille ESG H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115179&idOrigine=1533&LCID=1036&offerReference=2026-115179)
@@ -423,6 +425,8 @@ _Mis a jour le 2026-09-29_
   <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
   <sub>Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland · score -1 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
+- `CAP-078e42ad` **Capgemini** — [Graduate AI and Secure Technologies Engineer (2026 start)](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4889141101)
+  <sub>United Kingdom · score -1 · vue le 2026-09-14 · **disparue le 2026-09-29**</sub>
 - `CLE-946af9ff` **ClearScore Technology Limited** — [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4974869101)
   <sub>London, England, United Kingdom · score -1 · vue le 2026-09-14 · **disparue le 2026-09-21**</sub>
 - `HOW-0d5f538f` **Howden** — [Risk and Compliance Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263)
