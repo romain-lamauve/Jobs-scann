@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-_Mis a jour le 2026-10-02_
+_Mis a jour le 2026-10-05_
 
-🟢 0 | 🔵 6 | ⚪ 246 | 🟣 9 | 🔴 165 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 253 | 🟣 9 | 🔴 168 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-02_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 186 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 193 autres sous le seuil de score 5
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14</sub>
@@ -49,8 +49,8 @@ _Mis a jour le 2026-10-02_
   <sub>Montrouge · score 12 · vue le 2026-10-02</sub>
 - `FLO-de06d62b` **Flow Traders** — [PhD Graduate Quantitative Researcher](https://job-boards.greenhouse.io/flowtraders/jobs/6492219)
   <sub>Amsterdam · score 12 · vue le 2026-09-21</sub>
-- `AIR-11540e21` **Airbus** — [STAGE 2027 - Data Analyste en qualité logistique (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tremblay-en-France/STAGE-2027---Data-Analyste-en-qualit-logistique--h-f-_JR10443345)
-  <sub>Tremblay-en-France · score 11 · vue le 2026-10-01</sub>
+- `AIR-389d0f60` **Airbus** — [STAGE 2027- Ingenieur en developpement logiciel embarque (H/F)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027--Ingenieur-en-developpement-logiciel-embarque--H-F-_JR10445543)
+  <sub>Paris Area · score 11 · vue le 2026-10-05</sub>
 - `BLA-7f7634bb` **BlackRock** — [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
   <sub>London, Greater London · score 11 · vue le 2026-09-15</sub>
 - `OPT-f30ccbb5` **Optiver** — [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002)
@@ -63,6 +63,8 @@ _Mis a jour le 2026-10-02_
   <sub>France - Paris · score 11 · vue le 2026-09-28</sub>
 - `VIR-fb22d771` **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002)
   <sub>Dublin, Ireland · score 11 · vue le 2026-09-14</sub>
+- `CRE-f5997c69` **Credit Agricole CIB** — [Assistant Projets IA & Machine Learning H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=111255&idOrigine=1533&LCID=1036&offerReference=2026-111255)
+  <sub>Montrouge · score 10 · vue le 2026-10-05</sub>
 - `CRI-80222dfa` **Criteo** — [Product Data Science & AI Agents Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Science---AI-Agents-Intern_r21132)
   <sub>Paris · score 10 · vue le 2026-09-14</sub>
 - `PIM-ac424bc7` **PIMCO** — [2027 MBA Summer Intern - Credit Research Analyst, EMEA](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Credit-Research-Analyst--EMEA_R106805)
@@ -139,8 +141,6 @@ _Mis a jour le 2026-10-02_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `WEL-eda53e3a` **Welcome to the Jungle** — [Data Scientist Intern - Paris](https://job-boards.greenhouse.io/artefactjobs/jobs/8785637002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
-- `XAN-e3dad830` **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009)
-  <sub>London, England, New York, New York · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,12 +163,12 @@ _Mis a jour le 2026-10-02_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (165)
+## 🔴 Mort (refus, offre fermee) (168)
 
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
 - `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 24 j** · **disparue le 2026-09-24**</sub>
+  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 27 j** · **disparue le 2026-09-24**</sub>
 - `ENG-8a72be13` **Engelhart** — [Weather Quantitative Research Internship Programme](https://job-boards.greenhouse.io/engelhart/jobs/8191899)
   <sub>Grenoble, France · score 20 · vue le 2026-09-14 · **disparue le 2026-09-28**</sub>
 - `JPM-00890b2f` **JPMorgan Chase** — [2027 Quantitative Research – Asset Management - Summer Analyst Internship - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010)
@@ -205,6 +205,8 @@ _Mis a jour le 2026-10-02_
   <sub>Paris Area · score 11 · vue le 2026-09-29 · **disparue le 2026-10-01**</sub>
 - `AIR-092ea5cb` **Airbus** — [STAGE 2027 - Quantification d’incertitudes appliquée aux modèles d’apprentissage scientifique (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Quantification-d-incertitudes-applique-aux-modles-d-apprentissage-scientifique--F-H-_JR10444322)
   <sub>Paris Area · score 11 · vue le 2026-09-30 · **disparue le 2026-10-02**</sub>
+- `AIR-11540e21` **Airbus** — [STAGE 2027 - Data Analyste en qualité logistique (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tremblay-en-France/STAGE-2027---Data-Analyste-en-qualit-logistique--h-f-_JR10443345)
+  <sub>Tremblay-en-France · score 11 · vue le 2026-10-01 · **disparue le 2026-10-05**</sub>
 - `AMU-9a671dce` **Amundi** — [Stage - ESG Analyst Intern H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=114687&idOrigine=170287&LCID=1036&offerReference=2026-114687)
   <sub>Paris 75015 · score 10 · vue le 2026-09-23 · **disparue le 2026-09-25**</sub>
 - `AMU-c6f8acf8` **Amundi** — [Stagiaire Analyste – Strategy & Corporate development H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115446&idOrigine=170287&LCID=1036&offerReference=2026-115446)
@@ -361,6 +363,10 @@ _Mis a jour le 2026-10-02_
   <sub>London  United Kingdom · score 5 · vue le 2026-09-24 · **disparue le 2026-09-25**</sub>
 - `CIT-e0fb79ba` **Citi** — [Banking, Commercial Banking, Summer Analyst, Amsterdam - The Netherlands 2027](https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Commercial-Banking--Summer-Analyst--Amsterdam---The-Netherlands-2027_26993571)
   <sub>Amsterdam  Netherlands · score 5 · vue le 2026-09-28 · **disparue le 2026-09-29**</sub>
+- `CIT-a853080c` **Citi** — [Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422)
+  <sub>London  United Kingdom · score 5 · vue le 2026-10-01 · **disparue le 2026-10-05**</sub>
+- `CIT-15374fd6` **Citi** — [Banking, Investment Banking - Financial Institution Group (FIG), Summer Analyst, London, United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking---Financial-Institution-Group--FIG---Summer-Analyst--London--United-Kingdom-2027_26998415)
+  <sub>London  United Kingdom · score 5 · vue le 2026-10-01 · **disparue le 2026-10-05**</sub>
 - `CRE-c9be1586` **Credit Agricole CIB** — [Ingénieur Data H/F (Alternance / Apprentissage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110677&idOrigine=1533&LCID=1036&offerReference=2026-110677)
   <sub>Saint-Quentin en Yvelines · score 5 · vue le 2026-09-21 · **disparue le 2026-09-22**</sub>
 - `CRE-a5f89da0` **Credit Agricole CIB** — [Assistant analyste rémunération H/F (Alternance / Apprentissage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110519&idOrigine=1533&LCID=1036&offerReference=2026-110519)
@@ -401,20 +407,20 @@ _Mis a jour le 2026-10-02_
   <sub>LUX, Luxembourg Office · score 4 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `SAM-d8201c1a` **Samsara** — [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093)
   <sub>London - UK2 · score 4 · vue le 2026-09-14 · **disparue le 2026-09-22**</sub>
+- `SQU-8ebd843a` **Squarepoint Capital** — [Equities Analyst Summer Internship Program](https://www.squarepoint-capital.com/open-opportunities?id=8174630&gh_jid=8174630)
+  <sub>New York, London · score 4 · vue le 2026-10-02 · **disparue le 2026-10-05**</sub>
+- `TOA-ccc24a14` **Toast** — [Software Engineering Intern](https://careers.toasttab.com/jobs?gh_jid=8187654)
+  <sub>Dublin, Ireland · score 4 · vue le 2026-09-14 · **disparue le 2026-10-05**</sub>
 - `AND-f09e1f40` **Anduril Industries** — [2027 Hardware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007)
   <sub>Dublin, Dublin, Ireland · score 3 · vue le 2026-09-14 · **disparue le 2026-09-23**</sub>
 - `CIT-64c43c1c` **Citi** — [Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027](https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961)
   <sub>Bertrange  Luxembourg · score 3 · vue le 2026-09-24 · **disparue le 2026-09-25**</sub>
-- `ACC-053f87be` **Accenture** — [Junior Applied AI Engineer (all genders)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665)
-  <sub>lieu non precise · score 2 · vue le 2026-09-14 · **disparue le 2026-10-02**</sub>
 - `ACC-63fdd5a0` **Accenture** — [Junior AI Native Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paris/Junior-AI-Native-Engineer_R00358987)
   <sub>lieu non precise · score 2 · vue le 2026-09-24 · **disparue le 2026-09-25**</sub>
-- `ACC-f6f755af` **Accenture** — [(Junior) AI Native Software Engineer  (all genders)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1)
-  <sub>lieu non precise · score 2 · vue le 2026-09-25 · **disparue le 2026-10-02**</sub>
+- `ACC-a21cfc36` **Accenture** — [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1)
+  <sub>lieu non precise · score 2 · vue le 2026-09-30 · **disparue le 2026-10-05**</sub>
 - `BDO-6b7ba954` **BDO** — [Junior Insolvency Analyst](https://bdo.wd3.myworkdayjobs.com/BDO/job/London/Junior-Insolvency-Analyst_JR6962)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-23**</sub>
-- `CIT-69648746` **Citi** — [Banking, Investment Banking, Full Time Analyst, London – United Kingdom 2027 - (Applicable for 2026 Citi Summer interns only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Analyst--London---United-Kingdom-2027----Applicable-for-2026-Citi-Summer-interns-only-_26992159)
-  <sub>London  United Kingdom · score 2 · vue le 2026-09-30 · **disparue le 2026-10-01**</sub>
 - `CIT-5f745e6a` **Citi** — [Banking, Financing, Full Time Analyst, London - United Kingdom 2027 (Applicable for 2026 Citi Summer interns only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344)
   <sub>London  United Kingdom · score 2 · vue le 2026-09-30 · **disparue le 2026-10-01**</sub>
 - `DEU-6106abca` **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573)
