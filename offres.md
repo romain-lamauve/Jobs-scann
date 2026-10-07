@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-10-07_
 
-🟢 0 | 🔵 6 | ⚪ 263 | 🟣 9 | 🔴 194 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 271 | 🟣 9 | 🔴 195 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-07_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 203 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 211 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
@@ -91,6 +91,8 @@ _Mis a jour le 2026-10-07_
   <sub>San Francisco, Amsterdam · score 10 · vue le 2026-09-18</sub>
 - `TOG-18bf9afe` **Together AI** — [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007)
   <sub>San Francisco, Amsterdam · score 10 · vue le 2026-09-18</sub>
+- `AIR-ca6d0d0f` **Airbus** — [STAGE 2027 Recherches documentaires sur le web (h/f) »](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027-Recherches-documentaires-sur-le-web--h-f---_JR10445233)
+  <sub>Paris Area · score 9 · vue le 2026-10-07</sub>
 - `GRE-5d3906d6` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
   <sub>London, UK · score 9 · vue le 2026-09-14</sub>
 - `JUM-4a768b71` **Jump Trading** — [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145)
@@ -111,14 +113,14 @@ _Mis a jour le 2026-10-07_
   <sub>France, Paris · score 8 · vue le 2026-10-06</sub>
 - `AMU-0f92b706` **Amundi** — [Stage - Analyste Transition Energétique H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=116199&idOrigine=170287&LCID=1036&offerReference=2026-116199)
   <sub>Paris 75015 · score 8 · vue le 2026-10-06</sub>
+- `AMU-e8a7ca3d` **Amundi** — [Stage - ANALYSTE PROPOSITION CLIENT H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=116250&idOrigine=170287&LCID=1036&offerReference=2026-116250)
+  <sub>Paris · score 8 · vue le 2026-10-07</sub>
 - `ART-4de8586c` **Artefact** — [Stage Data Consultant - Paris - H/F/X](https://job-boards.greenhouse.io/artefact/jobs/8785408002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-4128a11b` **Artefact** — [Stage Software Engineer - Paris - H/F/X](https://job-boards.greenhouse.io/artefact/jobs/8785345002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-818e2317` **Artefact** — [Data Scientist Intern - Paris](https://job-boards.greenhouse.io/artefact/jobs/8785269002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
-- `CRE-f2e113f9` **Credit Agricole CIB** — [Data & Reporting Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115082&idOrigine=1533&LCID=1036&offerReference=2026-115082)
-  <sub>Montrouge · score 8 · vue le 2026-09-16</sub>
 - `CRE-b16cb814` **Credit Agricole CIB** — [Business Analyst en Intelligence Artificielle H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115600&idOrigine=1533&LCID=1036&offerReference=2026-115600)
   <sub>Montrouge · score 8 · vue le 2026-09-16</sub>
 - `CRE-23442dd7` **Credit Agricole CIB** — [Analyste Data & Risques IT (Power BI) H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115708&idOrigine=1533&LCID=1036&offerReference=2026-115708)
@@ -139,8 +141,6 @@ _Mis a jour le 2026-10-07_
   <sub>Amsterdam, Netherlands · score 8 · vue le 2026-09-14</sub>
 - `IVA-b1558001` **Ivalua** — [Stage de fin d'études - Ingénieur Cybersécurité (F/H)](https://boards.greenhouse.io/ivalua/jobs/8000081?gh_jid=8000081)
   <sub>Massy - France · score 8 · vue le 2026-09-22</sub>
-- `JUM-06a9eb81` **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772)
-  <sub>London; Amsterdam · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-10-07_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (194)
+## 🔴 Mort (refus, offre fermee) (195)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -259,6 +259,8 @@ _Mis a jour le 2026-10-07_
   <sub>Paris · score 8 · vue le 2026-09-25 · **disparue le 2026-09-29**</sub>
 - `ART-c489f579` **Artefact** — [Stage Data Analyst - Paris (H/F/X)](https://job-boards.greenhouse.io/artefact/jobs/8795537002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14 · **disparue le 2026-09-28**</sub>
+- `CRE-f2e113f9` **Credit Agricole CIB** — [Data & Reporting Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115082&idOrigine=1533&LCID=1036&offerReference=2026-115082)
+  <sub>Montrouge · score 8 · vue le 2026-09-16 · **disparue le 2026-10-07**</sub>
 - `CRE-43df1470` **Credit Agricole CIB** — [Analyste crédit H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115627&idOrigine=1533&LCID=1036&offerReference=2026-115627)
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-09-29**</sub>
 - `CRE-53ce9635` **Credit Agricole CIB** — [Analyste Risque de Crédit - Financement de Projets Renouvelables & Infrastructures H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115622&idOrigine=1533&LCID=1036&offerReference=2026-115622)
@@ -457,6 +459,8 @@ _Mis a jour le 2026-10-07_
   <sub>lieu non precise · score 2 · vue le 2026-09-24 · **disparue le 2026-09-25**</sub>
 - `ACC-a21cfc36` **Accenture** — [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1)
   <sub>lieu non precise · score 2 · vue le 2026-09-30 · **disparue le 2026-10-05**</sub>
+- `ACC-d2fc560d` **Accenture** — [Data and AI Engineer - Junior](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Data-and-AI-Engineer---Junior_R00332685)
+  <sub>lieu non precise · score 2 · vue le 2026-10-02 · **disparue le 2026-10-07**</sub>
 - `ADY-be53e853` **Adyen** — [Junior Data Analyst- Finance and Commercial](https://job-boards.greenhouse.io/adyen/jobs/8226017)
   <sub>Amsterdam · score 2 · vue le 2026-10-02 · **disparue le 2026-10-05**</sub>
 - `BDO-6b7ba954` **BDO** — [Junior Insolvency Analyst](https://bdo.wd3.myworkdayjobs.com/BDO/job/London/Junior-Insolvency-Analyst_JR6962)
@@ -485,8 +489,6 @@ _Mis a jour le 2026-10-07_
   <sub>Dublin, Ireland · score 2 · vue le 2026-10-05 · **disparue le 2026-10-06**</sub>
 - `IMC-c7241195` **IMC** — [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101)
   <sub>Amsterdam, Netherlands · score 2 · vue le 2026-09-14 · **disparue le 2026-09-24**</sub>
-- `IMC-aead7d99` **IMC** — [Trader Assistant (Working Student)](https://job-boards.eu.greenhouse.io/imc/jobs/4753890101)
-  <sub>Amsterdam, Netherlands · score 2 · vue le 2026-09-14 · **disparue le 2026-09-30**</sub>
 - `JOH-0c3f69f6` **Johnson Controls** — [Junior AI Engineer](https://jci.wd5.myworkdayjobs.com/jci/job/Cork-County-Cork-Ireland/Junior-AI-Engineer_WD30279251-1)
   <sub>Cork-County Cork-Ireland · score 2 · vue le 2026-09-16 · **disparue le 2026-09-17**</sub>
 - `LIF-ccbd79da` **Life Trading** — [Junior Futures Trader](https://job-boards.greenhouse.io/lifetrading/jobs/4704562005)
