@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-10-12_
 
-🟢 0 | 🔵 6 | ⚪ 274 | 🟣 9 | 🔴 227 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 275 | 🟣 9 | 🔴 227 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-12_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 214 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 215 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
