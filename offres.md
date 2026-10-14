@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-_Mis a jour le 2026-10-13_
+_Mis a jour le 2026-10-14_
 
-🟢 0 | 🔵 6 | ⚪ 282 | 🟣 9 | 🔴 237 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 282 | 🟣 9 | 🔴 241 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -57,12 +57,6 @@ _Mis a jour le 2026-10-13_
   <sub>Amsterdam, Netherlands · score 12 · vue le 2026-10-06</sub>
 - `SHI-8eddba9c` **Shift Technology** — [Data & AI Engineer Intern (6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003)
   <sub>France - Paris · score 12 · vue le 2026-10-07</sub>
-- `AIR-2ce87633` **Airbus** — [STAGE 2027 - Ingénieur·e IA/DevTools - Environnement de développement automatisé (agentique)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Ingnieure-IA-DevTools---Environnement-de-dveloppement-automatis--agentique-_JR10445844)
-  <sub>Paris Area · score 11 · vue le 2026-10-12</sub>
-- `AIR-e83a2373` **Airbus** — [STAGE 2027- Stage Développeur Logiciel & IA (H/F)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027--Stage-Dveloppeur-Logiciel---IA--H-F-_JR10441881)
-  <sub>Paris Area · score 11 · vue le 2026-10-12</sub>
-- `AMU-94111964` **Amundi** — [Stagiaire - Data Science & IA H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=113923&idOrigine=170287&LCID=1036&offerReference=2026-113923)
-  <sub>Paris 15 éme · score 11 · vue le 2026-10-06</sub>
 - `BLA-7f7634bb` **BlackRock** — [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
   <sub>London, Greater London · score 11 · vue le 2026-09-15</sub>
 - `ISS-9148b980` **ISS STOXX** — [Stage - Analyste Junior - Recherche Gouvernance d'Entreprise Marchés MENA (Trilingue : Arabe, Anglais, Français)](https://issgovernance.wd1.myworkdayjobs.com/ISScareers/job/Paris-France/Stage---Analyste-Junior---Recherche-Gouvernance-d-Entreprise-Marchs-MENA--Trilingue---Arabe--Anglais--Franais-_JR_10452)
@@ -91,10 +85,10 @@ _Mis a jour le 2026-10-13_
   <sub>San Francisco, Amsterdam · score 10 · vue le 2026-09-18</sub>
 - `TOG-18bf9afe` **Together AI** — [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007)
   <sub>San Francisco, Amsterdam · score 10 · vue le 2026-09-18</sub>
+- `AIR-3ed72c2e` **Air Liquide** — [INTERNSHIP - HEAD OFFICE - DATA & AI SPECIALIST IN PROCUREMENT M/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/INTERNSHIP---HEAD-OFFICE---DATA---AI-SPECIALIST-IN-PROCUREMENT-M-F_R10102436)
+  <sub>France, Paris · score 9 · vue le 2026-10-14</sub>
 - `ALI-b600690a` **AlixPartners** — [AI & Data – Intern](https://www.alixpartners.com/careers/7537505003?gh_jid=7537505003)
   <sub>Paris · score 9 · vue le 2026-10-08</sub>
-- `CRE-e3725b5f` **Credit Agricole CIB** — [Data scientist H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116122&idOrigine=1533&LCID=1036&offerReference=2026-116122)
-  <sub>Montrouge · score 9 · vue le 2026-10-02</sub>
 - `GRE-5d3906d6` **G-Research** — [Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
   <sub>London, UK · score 9 · vue le 2026-09-14</sub>
 - `JUM-4a768b71` **Jump Trading** — [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145)
@@ -123,10 +117,14 @@ _Mis a jour le 2026-10-13_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-818e2317` **Artefact** — [Data Scientist Intern - Paris](https://job-boards.greenhouse.io/artefact/jobs/8785269002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
+- `CRE-a6803d7c` **Credit Agricole CIB** — [Développeur(euse) C# H/F – FO Booking  Risk - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=108774&idOrigine=1533&LCID=1036&offerReference=2026-108774)
+  <sub>Montrouge · score 8 · vue le 2026-09-17</sub>
 - `CRE-21a1720d` **Credit Agricole CIB** — [Analyste - Monitoring Portefeuille ESG H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115179&idOrigine=1533&LCID=1036&offerReference=2026-115179)
   <sub>Montrouge · score 8 · vue le 2026-09-22</sub>
-- `CRE-6276e039` **Credit Agricole CIB** — [Analyste Coverage - Fonds d'infrastructure H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116035&idOrigine=1533&LCID=1036&offerReference=2026-116035)
-  <sub>Montrouge · score 8 · vue le 2026-10-08</sub>
+- `CRE-1b66225e` **Credit Agricole CIB** — [Analyste Sustainable Investment Banking H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=114887&idOrigine=1533&LCID=1036&offerReference=2026-114887)
+  <sub>Montrouge · score 8 · vue le 2026-09-24</sub>
+- `CRE-60d7f42c` **Credit Agricole CIB** — [Analyste Financement de Projet (Energie et Infrastructure) – Portefeuille H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115927&idOrigine=1533&LCID=1036&offerReference=2026-115927)
+  <sub>Montrouge · score 8 · vue le 2026-09-29</sub>
 - `CRE-b1b342ac` **Credit Agricole CIB** — [Analyste ECA & Multilateral Financing Solutions H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116461&idOrigine=1533&LCID=1036&offerReference=2026-116461)
   <sub>Montrouge · score 8 · vue le 2026-10-13</sub>
 - `CRE-7898de75` **Credit Agricole CIB** — [Data Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116482&idOrigine=1533&LCID=1036&offerReference=2026-116482)
@@ -141,6 +139,8 @@ _Mis a jour le 2026-10-13_
   <sub>Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore · score 8 · vue le 2026-09-14</sub>
 - `HUD-f0bb1874` **Hudson River Trading** — [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369)
   <sub>London, United Kingdom; New York, NY, United States · score 8 · vue le 2026-10-06</sub>
+- `IMC-0432d562` **IMC** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
+  <sub>Amsterdam, Netherlands · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,14 +163,14 @@ _Mis a jour le 2026-10-13_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (237)
+## 🔴 Mort (refus, offre fermee) (241)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
 - `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 35 j** · **disparue le 2026-09-24**</sub>
+  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 36 j** · **disparue le 2026-09-24**</sub>
 - `ENG-8a72be13` **Engelhart** — [Weather Quantitative Research Internship Programme](https://job-boards.greenhouse.io/engelhart/jobs/8191899)
   <sub>Grenoble, France · score 20 · vue le 2026-09-14 · **disparue le 2026-09-28**</sub>
 - `JPM-00890b2f` **JPMorgan Chase** — [2027 Quantitative Research – Asset Management - Summer Analyst Internship - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010)
@@ -229,8 +229,14 @@ _Mis a jour le 2026-10-13_
   <sub>Paris Area · score 11 · vue le 2026-10-06 · **disparue le 2026-10-08**</sub>
 - `AIR-69a177ef` **Airbus** — [STAGE 2027 - Ingénieur Matériaux & Procédés Composite (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Ingnieur-Matriaux---Procds-Composite--h-f-_JR10444599)
   <sub>Paris Area · score 11 · vue le 2026-10-09 · **disparue le 2026-10-13**</sub>
+- `AIR-2ce87633` **Airbus** — [STAGE 2027 - Ingénieur·e IA/DevTools - Environnement de développement automatisé (agentique)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Ingnieure-IA-DevTools---Environnement-de-dveloppement-automatis--agentique-_JR10445844)
+  <sub>Paris Area · score 11 · vue le 2026-10-12 · **disparue le 2026-10-14**</sub>
+- `AIR-e83a2373` **Airbus** — [STAGE 2027- Stage Développeur Logiciel & IA (H/F)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027--Stage-Dveloppeur-Logiciel---IA--H-F-_JR10441881)
+  <sub>Paris Area · score 11 · vue le 2026-10-12 · **disparue le 2026-10-14**</sub>
 - `AMU-54291bb2` **Amundi** — [Stage - Analyste Recherche Business Intelligence H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=116190&idOrigine=170287&LCID=1036&offerReference=2026-116190)
   <sub>Paris 75015 · score 11 · vue le 2026-10-06 · **disparue le 2026-10-13**</sub>
+- `AMU-94111964` **Amundi** — [Stagiaire - Data Science & IA H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=113923&idOrigine=170287&LCID=1036&offerReference=2026-113923)
+  <sub>Paris 15 éme · score 11 · vue le 2026-10-06 · **disparue le 2026-10-14**</sub>
 - `AMU-9a671dce` **Amundi** — [Stage - ESG Analyst Intern H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=114687&idOrigine=170287&LCID=1036&offerReference=2026-114687)
   <sub>Paris 75015 · score 10 · vue le 2026-09-23 · **disparue le 2026-09-25**</sub>
 - `AMU-c6f8acf8` **Amundi** — [Stagiaire Analyste – Strategy & Corporate development H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115446&idOrigine=170287&LCID=1036&offerReference=2026-115446)
@@ -255,6 +261,8 @@ _Mis a jour le 2026-10-13_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 9 · vue le 2026-09-14 · **disparue le 2026-09-22**</sub>
 - `CRE-2f92c022` **Credit Agricole CIB** — [Développeur(euse) Python Outils FO H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115707&idOrigine=1533&LCID=1036&offerReference=2026-115707)
   <sub>Montrouge · score 9 · vue le 2026-09-21 · **disparue le 2026-10-12**</sub>
+- `CRE-e3725b5f` **Credit Agricole CIB** — [Data scientist H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116122&idOrigine=1533&LCID=1036&offerReference=2026-116122)
+  <sub>Montrouge · score 9 · vue le 2026-10-02 · **disparue le 2026-10-14**</sub>
 - `ENG-180712a4` **Engelhart** — [Power Trading & Renewables Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8195178)
   <sub>Berlin, Germany; Grenoble, France · score 9 · vue le 2026-09-14 · **disparue le 2026-09-21**</sub>
 - `EUR-82707ff0` **Euronext** — [AI Engineering Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219)
@@ -295,8 +303,6 @@ _Mis a jour le 2026-10-13_
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-09-29**</sub>
 - `CRE-a36594fa` **Credit Agricole CIB** — [Développeur C# H/F – FO Booking  Risk - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=109924&idOrigine=1533&LCID=1036&offerReference=2026-109924)
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-09-17**</sub>
-- `CRE-a6803d7c` **Credit Agricole CIB** — [Développeur(euse) C# H/F – FO Booking  Risk - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=108774&idOrigine=1533&LCID=1036&offerReference=2026-108774)
-  <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-09-17**</sub>
 - `CRE-53c49a6c` **Credit Agricole CIB** — [Analyste Risques ESG - Capital Naturel H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115643&idOrigine=1533&LCID=1036&offerReference=2026-115643)
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-10-09**</sub>
 - `CRE-18aa5955` **Credit Agricole CIB** — [Analyste ESG Advisory - Sustainable Banking H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115632&idOrigine=1533&LCID=1036&offerReference=2026-115632)
@@ -327,11 +333,7 @@ _Mis a jour le 2026-10-13_
   <sub>Saint-Quentin-en-Yvelines · score 8 · vue le 2026-09-23 · **disparue le 2026-09-24**</sub>
 - `CRE-a8a39c1f` **Credit Agricole CIB** — [Analyste - Financements Structurés TMT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115822&idOrigine=1533&LCID=1036&offerReference=2026-115822)
   <sub>Montrouge · score 8 · vue le 2026-09-24 · **disparue le 2026-09-28**</sub>
-- `CRE-1b66225e` **Credit Agricole CIB** — [Analyste Sustainable Investment Banking H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=114887&idOrigine=1533&LCID=1036&offerReference=2026-114887)
-  <sub>Montrouge · score 8 · vue le 2026-09-24 · **disparue le 2026-09-25**</sub>
 - `CRE-f30bccd1` **Credit Agricole CIB** — [Private Equity Funds Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115928&idOrigine=1533&LCID=1036&offerReference=2026-115928)
-  <sub>Montrouge · score 8 · vue le 2026-09-29 · **disparue le 2026-09-30**</sub>
-- `CRE-60d7f42c` **Credit Agricole CIB** — [Analyste Financement de Projet (Energie et Infrastructure) – Portefeuille H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115927&idOrigine=1533&LCID=1036&offerReference=2026-115927)
   <sub>Montrouge · score 8 · vue le 2026-09-29 · **disparue le 2026-09-30**</sub>
 - `CRE-58bf43d4` **Credit Agricole CIB** — [Analyste Chargé d'affaires - Financements Structurés Immobiliers H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115924&idOrigine=1533&LCID=1036&offerReference=2026-115924)
   <sub>Montrouge · score 8 · vue le 2026-09-29 · **disparue le 2026-09-30**</sub>
@@ -345,6 +347,8 @@ _Mis a jour le 2026-10-13_
   <sub>Montrouge · score 8 · vue le 2026-10-06 · **disparue le 2026-10-13**</sub>
 - `CRE-3df5a60c` **Credit Agricole CIB** — [Analyste Crédit – Financements structurés LBO & TMT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=112179&idOrigine=1533&LCID=1036&offerReference=2026-112179)
   <sub>Montrouge · score 8 · vue le 2026-10-06 · **disparue le 2026-10-12**</sub>
+- `CRE-6276e039` **Credit Agricole CIB** — [Analyste Coverage - Fonds d'infrastructure H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116035&idOrigine=1533&LCID=1036&offerReference=2026-116035)
+  <sub>Montrouge · score 8 · vue le 2026-10-08 · **disparue le 2026-10-14**</sub>
 - `CRE-b9b0b93a` **Credit Agricole CIB** — [Analyste Placements Privés H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116353&idOrigine=1533&LCID=1036&offerReference=2026-116353)
   <sub>Montrouge · score 8 · vue le 2026-10-09 · **disparue le 2026-10-09**</sub>
 - `HUD-e53dd1cb` **Hudson River Trading** — [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413)
@@ -465,6 +469,8 @@ _Mis a jour le 2026-10-13_
   <sub>Paris, France · score 5 · vue le 2026-10-01 · **disparue le 2026-10-02**</sub>
 - `MIR-64453c63` **Mirakl - Labs** — [Software Engineer Apprentice - Connect](https://job-boards.greenhouse.io/mirakllabs/jobs/6212831004)
   <sub>Paris, France · score 5 · vue le 2026-10-02 · **disparue le 2026-10-12**</sub>
+- `SHI-0af30158` **Shift Technology** — [Junior Backend Developer, C# .Net - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003)
+  <sub>France - Paris · score 5 · vue le 2026-10-01 · **disparue le 2026-10-14**</sub>
 - `SPE-b945bb76` **Spektrum** — [Junior Biometrics Analyst](https://spektrum-group.com/jobs?gh_jid=4116115101)
   <sub>Strasbourg, France · score 5 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `SPE-3a7d9144` **Spektrum** — [Junior Test Engineer](https://spektrum-group.com/jobs?gh_jid=4116043101)
@@ -487,8 +493,6 @@ _Mis a jour le 2026-10-13_
   <sub>Berlin, Germany · score 4 · vue le 2026-09-14 · **disparue le 2026-09-21**</sub>
 - `EUR-31b79411` **Euronext** — [Risk and Compliance Transformation - intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1)
   <sub>Paris · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
-- `FLO-1d14d2b5` **Flow Traders** — [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920)
-  <sub>Amsterdam · score 4 · vue le 2026-10-07 · **disparue le 2026-10-09**</sub>
 - `GRE-75d74306` **G-Research** — [Software Engineering Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746)
   <sub>London, UK · score 4 · vue le 2026-09-21 · **disparue le 2026-09-22**</sub>
 - `HOW-3161c1ea` **Howden** — [Junior Quantitative Analyst (Credit & Financial Risk)](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956)
@@ -603,6 +607,8 @@ _Mis a jour le 2026-10-13_
   <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
 - `SPE-85486600` **Spektrum** — [Junior .Net Developer (WinForms .Net Core background)](https://spektrum-group.com/jobs?gh_jid=4234805101)
   <sub>Capellen, Luxembourg · score 0 · vue le 2026-09-14 · **disparue le 2026-09-18**</sub>
+- `TUL-fb2bb258` **Tulip Interfaces** — [Ecosystem Engineer Working Student](https://tulip.co/careers/job-posting/?gh_jid=7763832003)
+  <sub>Munich, Germany · score 0 · vue le 2026-09-14 · **disparue le 2026-10-14**</sub>
 - `AWI-59edce1d` **Awin** — [Junior Information Security GRC Analyst - fixed-term (f/m/d)](https://job-boards.greenhouse.io/awin/jobs/7985465003)
   <sub>Berlin, Berlin, Germany; Warsaw, Masovian Voivodeship, Poland · score -1 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `CLE-946af9ff` **ClearScore Technology Limited** — [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4974869101)
@@ -625,6 +631,8 @@ _Mis a jour le 2026-10-13_
   <sub>Dublin · score -2 · vue le 2026-09-16 · **disparue le 2026-09-21**</sub>
 - `HER-98d84071` **HERE** — [Junior Operations Analyst - London](https://job-boards.greenhouse.io/hereio/jobs/8172393)
   <sub>London, UK · score -2 · vue le 2026-09-14 · **disparue le 2026-10-09**</sub>
+- `HUD-f19d3f6b` **Hudson River Trading** — [Junior Trading Systems Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074)
+  <sub>Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States · score -2 · vue le 2026-09-14 · **disparue le 2026-10-14**</sub>
 - `OPT-9de8f399` **Optiver** — [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/8713898002/?gh_jid=8713898002)
   <sub>Amsterdam, North Holland, Netherlands · score -2 · vue le 2026-09-14 · **disparue le 2026-10-13**</sub>
 - `PLA-148c769d` **Planet** — [Revenue Operations Analyst - Working Student](https://job-boards.greenhouse.io/planetlabs/jobs/7992927)
