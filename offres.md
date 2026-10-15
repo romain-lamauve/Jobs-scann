@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-10-15_
 
-🟢 0 | 🔵 6 | ⚪ 278 | 🟣 9 | 🔴 263 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 275 | 🟣 9 | 🔴 266 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-15_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 218 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 215 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
@@ -113,8 +113,6 @@ _Mis a jour le 2026-10-15_
   <sub>London, Paris, New York · score 9 · vue le 2026-10-02</sub>
 - `TOW-7ac2ad05` **Tower Research Capital** — [Quantitative Trader/Researcher Graduate Programme 2027](https://www.tower-research.com/open-positions/?gh_jid=8037824)
   <sub>London · score 9 · vue le 2026-09-14</sub>
-- `AIR-e18bc24b` **Air Liquide** — [Stage - Siège social  - Real Estate Project and Data Manager H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-Project-and-Data-Manager-H-F_R10102488)
-  <sub>France, Paris · score 8 · vue le 2026-10-06</sub>
 - `AIR-ef2e33e9` **Air Liquide** — [Stage - Ingénieurs Procédés Liquéfacteurs CO2  F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Sassenage/Stage---Ingnieurs-Procds-Liqufacteurs-CO2--F-H_R10102508)
   <sub>France, Sassenage · score 8 · vue le 2026-10-08</sub>
 - `AIR-ebf2de6b` **Air Liquide** — [Stage - Ingénieur Procédés pour des réfrigérateurs hélium F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Sassenage/Stage---Ingnieur-Procds-pour-des-rfrigrateurs-hlium-F-H_R10102204)
@@ -141,6 +139,8 @@ _Mis a jour le 2026-10-15_
   <sub>Montrouge · score 8 · vue le 2026-10-15</sub>
 - `CRE-09bba282` **Credit Agricole CIB** — [Développeur(euse) Full-Stack H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116538&idOrigine=1533&LCID=1036&offerReference=2026-116538)
   <sub>Montrouge · score 8 · vue le 2026-10-15</sub>
+- `CRI-839ac2b8` **Criteo** — [Product Data Scientist Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Scientist-Intern_r15715-1)
+  <sub>Paris · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-10-15_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (263)
+## 🔴 Mort (refus, offre fermee) (266)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -285,6 +285,8 @@ _Mis a jour le 2026-10-15_
   <sub>France, Paris · score 8 · vue le 2026-09-28 · **disparue le 2026-10-09**</sub>
 - `AIR-d595454f` **Air Liquide** — [Stage - Siège Social - Data Analyst Sustainability H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-Social---Data-Analyst-Sustainability-H-F_R10101695)
   <sub>France, Paris · score 8 · vue le 2026-10-05 · **disparue le 2026-10-15**</sub>
+- `AIR-e18bc24b` **Air Liquide** — [Stage - Siège social  - Real Estate Project and Data Manager H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-Project-and-Data-Manager-H-F_R10102488)
+  <sub>France, Paris · score 8 · vue le 2026-10-06 · **disparue le 2026-10-15**</sub>
 - `AIR-145362a8` **Airbus** — [STAGE 2026/7 - Data Engineer en analyse et exploitation de données sources ouvertes (ALL GENDER)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2026-7---Data-Engineer-en-analyse-et-exploitation-de-donnes-sources-ouvertes--ALL-GENDER-_JR10439257)
   <sub>Paris Area · score 8 · vue le 2026-09-21 · **disparue le 2026-09-22**</sub>
 - `AMU-d527f8b5` **Amundi** — [Stage - DEVELOPPEUR FULL-STACK H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=115547&idOrigine=170287&LCID=1036&offerReference=2026-115547)
@@ -485,6 +487,8 @@ _Mis a jour le 2026-10-15_
   <sub>Baden-Daettwil, Aargau, Switzerland · score 5 · vue le 2026-09-23 · **disparue le 2026-09-29**</sub>
 - `HIT-74cef2a0` **Hitachi** — [Ingénieur Cybersécurité IT/OT Junior H/F](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vlizy-Villacoublay-le-de-France-France/Ingnieur-Cyberscurit-IT-OT-Junior-H-F_R0146610)
   <sub>Vélizy-Villacoublay, Île-de-France, France · score 5 · vue le 2026-10-07 · **disparue le 2026-10-12**</sub>
+- `HIT-d3ca89ba` **Hitachi** — [VIE - Quality Engineer - Italy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Massy-le-de-France-France/VIE---Quality-Engineer---Italy_R0148354)
+  <sub>Massy, Île-de-France, France · score 5 · vue le 2026-10-13 · **disparue le 2026-10-15**</sub>
 - `MIR-73a13f3b` **Mirakl - Labs** — [Software Engineer Apprentice](https://job-boards.greenhouse.io/mirakllabs/jobs/6212831004)
   <sub>Paris, France · score 5 · vue le 2026-10-01 · **disparue le 2026-10-02**</sub>
 - `SHI-0af30158` **Shift Technology** — [Junior Backend Developer, C# .Net - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003)
@@ -515,6 +519,8 @@ _Mis a jour le 2026-10-15_
   <sub>Berlin, Germany · score 4 · vue le 2026-09-14 · **disparue le 2026-09-21**</sub>
 - `EUR-31b79411` **Euronext** — [Risk and Compliance Transformation - intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Risk-and-Compliance-Transformation---intern_R28132-1)
   <sub>Paris · score 4 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `FLO-1d14d2b5` **Flow Traders** — [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920)
+  <sub>Amsterdam · score 4 · vue le 2026-10-07 · **disparue le 2026-10-15**</sub>
 - `GRE-75d74306` **G-Research** — [Software Engineering Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746)
   <sub>London, UK · score 4 · vue le 2026-09-21 · **disparue le 2026-09-22**</sub>
 - `HOW-3161c1ea` **Howden** — [Junior Quantitative Analyst (Credit & Financial Risk)](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Switzerland---Bodmerstrasse-9/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956)
