@@ -1,8 +1,8 @@
 # Offres pertinentes
 
-_Mis a jour le 2026-10-16_
+_Mis a jour le 2026-10-19_
 
-🟢 0 | 🔵 6 | ⚪ 265 | 🟣 9 | 🔴 281 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 259 | 🟣 9 | 🔴 288 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-16_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 205 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 199 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
@@ -53,12 +53,6 @@ _Mis a jour le 2026-10-16_
   <sub>Amsterdam, Netherlands · score 12 · vue le 2026-10-05</sub>
 - `IMC-a4dcf366` **IMC** — [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
   <sub>Amsterdam, Netherlands · score 12 · vue le 2026-10-06</sub>
-- `JPM-6c771906` **JPMorgan Chase** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
-  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15</sub>
-- `JPM-057a8634` **JPMorgan Chase intern** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
-  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15</sub>
-- `JPM-4f27aa6b` **JPMorgan Chase quant** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
-  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15</sub>
 - `SHI-8eddba9c` **Shift Technology** — [Data & AI Engineer Intern (6 months)](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003)
   <sub>France - Paris · score 12 · vue le 2026-10-07</sub>
 - `ISS-9148b980` **ISS STOXX** — [Stage - Analyste Junior - Recherche Gouvernance d'Entreprise Marchés MENA (Trilingue : Arabe, Anglais, Français)](https://issgovernance.wd1.myworkdayjobs.com/ISScareers/job/Paris-France/Stage---Analyste-Junior---Recherche-Gouvernance-d-Entreprise-Marchs-MENA--Trilingue---Arabe--Anglais--Franais-_JR_10452)
@@ -141,6 +135,12 @@ _Mis a jour le 2026-10-16_
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
 - `ROT-784c5ab4` **Rothschild & Co** — [Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488)
   <sub>Paris · score 8 · vue le 2026-09-14</sub>
+- `SHI-06cd46f9` **Shift Technology** — [Data Science internship - Spanish speaker (6months)](https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003)
+  <sub>France - Remote · score 8 · vue le 2026-09-14</sub>
+- `SWI-c4228c88` **Swiss Life** — [Stage - Analyste Immobilier Durable ESG H/F](https://swisslife.wd3.myworkdayjobs.com/Swiss_Life_Asset_Managers_Career_Site/job/Paris/Stage---Analyste-Immobilier-Durable-ESG-H-F_R13549)
+  <sub>Paris · score 8 · vue le 2026-10-07</sub>
+- `WPP-2f6cfa20` **WPP** — [Stage Consultant Data & Tech F/H](https://job-boards.greenhouse.io/wppmedia/jobs/5365283008)
+  <sub>Paris, France · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,14 +163,14 @@ _Mis a jour le 2026-10-16_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (281)
+## 🔴 Mort (refus, offre fermee) (288)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
 - `HUD-93ff605a` **Hudson River Trading** — [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837)
   <sub>London, United Kingdom; New York, NY, United States; Singapore · score 23 · vue le 2026-09-14</sub>
 - `WOR-e4daaf3d` **WorldQuant** — [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006)
-  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 38 j** · **disparue le 2026-09-24**</sub>
+  <sub>Paris · score 23 · vue le 2026-09-14 · **postule il y a 41 j** · **disparue le 2026-09-24**</sub>
 - `ENG-8a72be13` **Engelhart** — [Weather Quantitative Research Internship Programme](https://job-boards.greenhouse.io/engelhart/jobs/8191899)
   <sub>Grenoble, France · score 20 · vue le 2026-09-14 · **disparue le 2026-09-28**</sub>
 - `JPM-00890b2f` **JPMorgan Chase** — [2027 Quantitative Research – Asset Management - Summer Analyst Internship - London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010)
@@ -211,6 +211,12 @@ _Mis a jour le 2026-10-16_
   <sub>Paris Area · score 12 · vue le 2026-10-15 · **disparue le 2026-10-16**</sub>
 - `CRE-bc06fbd8` **Credit Agricole CIB** — [Analyste Quantitatif - Deal Flow H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116128&idOrigine=1533&LCID=1036&offerReference=2026-116128)
   <sub>Montrouge · score 12 · vue le 2026-10-02 · **disparue le 2026-10-14**</sub>
+- `JPM-6c771906` **JPMorgan Chase** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
+  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15 · **disparue le 2026-10-19**</sub>
+- `JPM-057a8634` **JPMorgan Chase intern** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
+  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15 · **disparue le 2026-10-19**</sub>
+- `JPM-4f27aa6b` **JPMorgan Chase quant** — [2027 AI Research Associate Program - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615)
+  <sub>LONDON, United Kingdom · score 12 · vue le 2026-10-15 · **disparue le 2026-10-19**</sub>
 - `NVI-242a9796` **NVIDIA** — [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1)
   <sub>Switzerland, Zurich · score 12 · vue le 2026-09-28 · **disparue le 2026-10-01**</sub>
 - `AIR-387fc6f7` **Airbus** — [STAGE 2027 - Chef de Projet Data & Innovation (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Chef-de-Projet-Data---Innovation--h-f-_JR10435374)
@@ -513,6 +519,8 @@ _Mis a jour le 2026-10-16_
   <sub>Vélizy-Villacoublay, Île-de-France, France · score 5 · vue le 2026-10-07 · **disparue le 2026-10-12**</sub>
 - `HIT-d3ca89ba` **Hitachi** — [VIE - Quality Engineer - Italy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Massy-le-de-France-France/VIE---Quality-Engineer---Italy_R0148354)
   <sub>Massy, Île-de-France, France · score 5 · vue le 2026-10-13 · **disparue le 2026-10-15**</sub>
+- `HIT-e9114674` **Hitachi** — [VIE - Site Quality Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Massy-le-de-France-France/VIE---Site-Mechanical-Completion-Specialist_R0148378)
+  <sub>Massy, Île-de-France, France · score 5 · vue le 2026-10-14 · **disparue le 2026-10-19**</sub>
 - `MIR-73a13f3b` **Mirakl - Labs** — [Software Engineer Apprentice](https://job-boards.greenhouse.io/mirakllabs/jobs/6212831004)
   <sub>Paris, France · score 5 · vue le 2026-10-01 · **disparue le 2026-10-02**</sub>
 - `SHI-0af30158` **Shift Technology** — [Junior Backend Developer, C# .Net - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003)
@@ -533,6 +541,8 @@ _Mis a jour le 2026-10-16_
   <sub>Dublin  Ireland · score 4 · vue le 2026-09-17 · **disparue le 2026-09-18**</sub>
 - `CIT-7b0eb784` **Citi** — [Junior Software Engineer – Generative AI Platforms](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233)
   <sub>London  United Kingdom · score 4 · vue le 2026-10-08 · **disparue le 2026-10-09**</sub>
+- `CRE-733e87ee` **Credit Agricole CIB** — [Développeur DevOps H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116007&idOrigine=1533&LCID=1036&offerReference=2026-116007)
+  <sub>Montrouge · score 4 · vue le 2026-09-23 · **disparue le 2026-10-19**</sub>
 - `DIA-29161074` **Dialectic** — [Data / ML / AI Intern](https://job-boards.eu.greenhouse.io/dialecticch/jobs/4672644101)
   <sub>Zug, Switzerland · score 4 · vue le 2026-09-14 · **disparue le 2026-09-23**</sub>
 - `ENG-62befd2c` **Engelhart** — [Renewables Origination Analytics Internship Program](https://job-boards.greenhouse.io/engelhart/jobs/8195174)
@@ -597,6 +607,8 @@ _Mis a jour le 2026-10-16_
   <sub>Dublin · score 2 · vue le 2026-09-25 · **disparue le 2026-10-16**</sub>
 - `CIT-69648746` **Citi** — [Banking, Investment Banking, Full Time Analyst, London – United Kingdom 2027 - (Applicable for 2026 Citi Summer interns only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Analyst--London---United-Kingdom-2027----Applicable-for-2026-Citi-Summer-interns-only-_26992159)
   <sub>London  United Kingdom · score 2 · vue le 2026-09-30 · **disparue le 2026-10-06**</sub>
+- `CIT-5f745e6a` **Citi** — [Banking, Financing, Full Time Analyst, London - United Kingdom 2027 (Applicable for 2026 Citi Summer interns only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344)
+  <sub>London  United Kingdom · score 2 · vue le 2026-09-30 · **disparue le 2026-10-19**</sub>
 - `DEU-6106abca` **Deutsche Bank** — [DWS Liquidity Risk Intern](https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Luxembourg-2-Blvd-K-Adenauer/DWS-Liquidity-Risk-Intern_R0446573)
   <sub>Luxembourg 2 Blvd K. Adenauer · score 2 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `EUR-486b1617` **Euronext** — [Index Structurer (VIE)](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Index-Structurer--VIE-_R27226)
@@ -669,6 +681,8 @@ _Mis a jour le 2026-10-16_
   <sub>Remote - United Kingdom · score 0 · vue le 2026-10-05 · **disparue le 2026-10-06**</sub>
 - `HUB-a66e0078` **HubSpot** — [Hubspot Software Engineer Co-op Placement Program (Ireland)](https://www.hubspot.com/careers/jobs/8176430?gh_jid=8176430)
   <sub>Remote - Ireland · score 0 · vue le 2026-10-05 · **disparue le 2026-10-06**</sub>
+- `IMC-0b1b73b0` **IMC** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
+  <sub>Amsterdam, Netherlands · score 0 · vue le 2026-09-14 · **disparue le 2026-10-19**</sub>
 - `JUM-3e315cc7` **Jump Trading** — [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974391)
   <sub>London · score 0 · vue le 2026-09-14 · **disparue le 2026-10-14**</sub>
 - `QUB-d66bf2d4` **Qube Research & Technologies** — [2027 – Internship or Graduate, FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002)
