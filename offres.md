@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-10-23_
 
-🟢 0 | 🔵 6 | ⚪ 266 | 🟣 9 | 🔴 320 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 258 | 🟣 9 | 🔴 328 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-10-23_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 206 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 198 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
@@ -119,12 +119,8 @@ _Mis a jour le 2026-10-23_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
 - `CRE-f30bccd1` **Credit Agricole CIB** — [Private Equity Funds Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115928&idOrigine=1533&LCID=1036&offerReference=2026-115928)
   <sub>Montrouge · score 8 · vue le 2026-09-29</sub>
-- `CRE-60d7f42c` **Credit Agricole CIB** — [Analyste Financement de Projet (Energie et Infrastructure) – Portefeuille H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115927&idOrigine=1533&LCID=1036&offerReference=2026-115927)
-  <sub>Montrouge · score 8 · vue le 2026-09-29</sub>
 - `CRE-5c37da71` **Credit Agricole CIB** — [Analyst - Private Equity H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116469&idOrigine=1533&LCID=1036&offerReference=2026-116469)
   <sub>Montrouge · score 8 · vue le 2026-10-13</sub>
-- `CRE-42d9748f` **Credit Agricole CIB** — [Assistant Développeur C# - GMD Pricing Services - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116799&idOrigine=1533&LCID=1036&offerReference=2026-116799)
-  <sub>Montrouge · score 8 · vue le 2026-10-22</sub>
 - `CRE-162b42f0` **Credit Agricole CIB** — [Analyste Décarbonation H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116826&idOrigine=1533&LCID=1036&offerReference=2026-116826)
   <sub>Montrouge · score 8 · vue le 2026-10-23</sub>
 - `CRI-839ac2b8` **Criteo** — [Product Data Scientist Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Scientist-Intern_r15715-1)
@@ -141,6 +137,10 @@ _Mis a jour le 2026-10-23_
   <sub>London; Amsterdam · score 8 · vue le 2026-09-14</sub>
 - `MIR-f2800aa0` **Mirakl - Labs** — [Data Scientist - Intern](https://job-boards.greenhouse.io/mirakllabs/jobs/6210559004)
   <sub>Paris, France · score 8 · vue le 2026-10-06</sub>
+- `ROT-a2ce9e12` **Rothschild & Co** — [Stage Analyste Banquier Conseil - Equipe Corporate Banking Paris – Juillet 2026](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Equipe-Corporate-Banking-Paris---Juillet-2026_JR014867)
+  <sub>Paris · score 8 · vue le 2026-09-14</sub>
+- `ROT-784c5ab4` **Rothschild & Co** — [Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488)
+  <sub>Paris · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-10-23_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (320)
+## 🔴 Mort (refus, offre fermee) (328)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -379,6 +379,8 @@ _Mis a jour le 2026-10-23_
   <sub>Montrouge · score 8 · vue le 2026-09-24 · **disparue le 2026-09-28**</sub>
 - `CRE-1b66225e` **Credit Agricole CIB** — [Analyste Sustainable Investment Banking H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=114887&idOrigine=1533&LCID=1036&offerReference=2026-114887)
   <sub>Montrouge · score 8 · vue le 2026-09-24 · **disparue le 2026-10-15**</sub>
+- `CRE-60d7f42c` **Credit Agricole CIB** — [Analyste Financement de Projet (Energie et Infrastructure) – Portefeuille H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115927&idOrigine=1533&LCID=1036&offerReference=2026-115927)
+  <sub>Montrouge · score 8 · vue le 2026-09-29 · **disparue le 2026-10-23**</sub>
 - `CRE-58bf43d4` **Credit Agricole CIB** — [Analyste Chargé d'affaires - Financements Structurés Immobiliers H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115924&idOrigine=1533&LCID=1036&offerReference=2026-115924)
   <sub>Montrouge · score 8 · vue le 2026-09-29 · **disparue le 2026-09-30**</sub>
 - `CRE-f1a7375f` **Credit Agricole CIB** — [Analyste Data Risques Environnementaux et Sociaux H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116028&idOrigine=1533&LCID=1036&offerReference=2026-116028)
@@ -417,6 +419,8 @@ _Mis a jour le 2026-10-23_
   <sub>Montrouge · score 8 · vue le 2026-10-20 · **disparue le 2026-10-21**</sub>
 - `CRE-2a25447b` **Credit Agricole CIB** — [Sectors & Advisory Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116735&idOrigine=1533&LCID=1036&offerReference=2026-116735)
   <sub>Montrouge · score 8 · vue le 2026-10-21 · **disparue le 2026-10-22**</sub>
+- `CRE-42d9748f` **Credit Agricole CIB** — [Assistant Développeur C# - GMD Pricing Services - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116799&idOrigine=1533&LCID=1036&offerReference=2026-116799)
+  <sub>Montrouge · score 8 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
 - `HUD-e53dd1cb` **Hudson River Trading** — [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413)
   <sub>London, United Kingdom · score 8 · vue le 2026-09-23 · **disparue le 2026-10-06**</sub>
 - `IVA-b1558001` **Ivalua** — [Stage de fin d'études - Ingénieur Cybersécurité (F/H)](https://boards.greenhouse.io/ivalua/jobs/8000081?gh_jid=8000081)
@@ -539,8 +543,14 @@ _Mis a jour le 2026-10-23_
   <sub>Amsterdam  Netherlands · score 5 · vue le 2026-09-28 · **disparue le 2026-10-16**</sub>
 - `CIT-42927542` **Citi** — [Banking, Investment Banking, Placement Analyst, Zurich, Switzerland 2027 - January Intake](https://citi.wd5.myworkdayjobs.com/2/job/Zurich--Switzerland/Banking--Investment-Banking--Placement-Analyst--Zurich--Switzerland-2027---January-Intake_26997502)
   <sub>Zurich  Switzerland · score 5 · vue le 2026-10-01 · **disparue le 2026-10-05**</sub>
+- `CIT-a853080c` **Citi** — [Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422)
+  <sub>London  United Kingdom · score 5 · vue le 2026-10-01 · **disparue le 2026-10-23**</sub>
+- `CIT-15374fd6` **Citi** — [Banking, Investment Banking - Financial Institution Group (FIG), Summer Analyst, London, United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking---Financial-Institution-Group--FIG---Summer-Analyst--London--United-Kingdom-2027_26998415)
+  <sub>London  United Kingdom · score 5 · vue le 2026-10-01 · **disparue le 2026-10-23**</sub>
 - `CIT-88e78d4c` **Citi** — [Banking, Investment Banking, CEE, Greece & Cyprus, Summer Analyst, London, United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--CEE--Greece---Cyprus--Summer-Analyst--London--United-Kingdom-2027_261002673)
   <sub>London  United Kingdom · score 5 · vue le 2026-10-19 · **disparue le 2026-10-21**</sub>
+- `CIT-cfba8ee8` **Citi** — [Banking, Corporate Banking, Summer Analyst, Dublin - Ireland, 2027](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Banking--Corporate-Banking--Summer-Analyst--Dublin---Ireland--2027_26994909)
+  <sub>Dublin  Ireland · score 5 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
 - `CLE-1d8fc3ec` **ClearView Healthcare Partners** — [Life Sciences Strategy Analyst (Summer 2027 Start Dates)](https://job-boards.greenhouse.io/clearviewhealthcarepartners/jobs/5424509008)
   <sub>London, England, United Kingdom · score 5 · vue le 2026-09-30 · **disparue le 2026-10-06**</sub>
 - `CRE-c9be1586` **Credit Agricole CIB** — [Ingénieur Data H/F (Alternance / Apprentissage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110677&idOrigine=1533&LCID=1036&offerReference=2026-110677)
@@ -641,6 +651,12 @@ _Mis a jour le 2026-10-23_
   <sub>lieu non precise · score 2 · vue le 2026-10-02 · **disparue le 2026-10-09**</sub>
 - `ADY-be53e853` **Adyen** — [Junior Data Analyst- Finance and Commercial](https://job-boards.greenhouse.io/adyen/jobs/8226017)
   <sub>Amsterdam · score 2 · vue le 2026-10-02 · **disparue le 2026-10-05**</sub>
+- `AND-c1730954` **Anduril Industries** — [2027 New Grad Software Development in Test](https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007)
+  <sub>Dublin, Dublin, Ireland · score 2 · vue le 2026-10-21 · **disparue le 2026-10-23**</sub>
+- `AND-b0920148` **Anduril Industries** — [2027 New Graduate Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007)
+  <sub>Dublin, Dublin, Ireland · score 2 · vue le 2026-10-21 · **disparue le 2026-10-23**</sub>
+- `AND-cc4a11e8` **Anduril Industries** — [2027 New Graduate Test & Quality Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266291007?gh_jid=5266291007)
+  <sub>Dublin, Dublin, Ireland · score 2 · vue le 2026-10-21 · **disparue le 2026-10-23**</sub>
 - `BDO-6b7ba954` **BDO** — [Junior Insolvency Analyst](https://bdo.wd3.myworkdayjobs.com/BDO/job/London/Junior-Insolvency-Analyst_JR6962)
   <sub>London · score 2 · vue le 2026-09-14 · **disparue le 2026-09-23**</sub>
 - `BEA-198302ec` **BearingPoint** — [Junior .NET Developer](https://job-boards.eu.greenhouse.io/bearingpoint/jobs/4987343101)
