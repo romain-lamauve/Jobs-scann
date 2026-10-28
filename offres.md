@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-10-28_
 
-🟢 0 | 🔵 6 | ⚪ 258 | 🟣 9 | 🔴 348 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 258 | 🟣 9 | 🔴 349 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-10-28_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (348)
+## 🔴 Mort (refus, offre fermee) (349)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -465,6 +465,8 @@ _Mis a jour le 2026-10-28_
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `AND-6d61eb3f` **Anduril Industries** — [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007)
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `AND-8f24e0bf` **Anduril Industries** — [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007)
+  <sub>London, England, United Kingdom · score 7 · vue le 2026-10-07 · **disparue le 2026-10-28**</sub>
 - `BOE-8b84a286` **Boeing** — [Engineering Intern - January 2027](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284)
   <sub>IRL - Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-17**</sub>
 - `CRE-5a26547f` **Credit Agricole CIB** — [12 Month Internship - eSales Analyst (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115645&idOrigine=1533&LCID=1036&offerReference=2026-115645)
@@ -575,6 +577,8 @@ _Mis a jour le 2026-10-28_
   <sub>London  United Kingdom · score 5 · vue le 2026-10-19 · **disparue le 2026-10-21**</sub>
 - `CIT-cfba8ee8` **Citi** — [Banking, Corporate Banking, Summer Analyst, Dublin - Ireland, 2027](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Banking--Corporate-Banking--Summer-Analyst--Dublin---Ireland--2027_26994909)
   <sub>Dublin  Ireland · score 5 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
+- `CIT-d6f9d9ef` **Citi** — [Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080)
+  <sub>London  United Kingdom · score 5 · vue le 2026-10-27 · **disparue le 2026-10-28**</sub>
 - `CLE-1d8fc3ec` **ClearView Healthcare Partners** — [Life Sciences Strategy Analyst (Summer 2027 Start Dates)](https://job-boards.greenhouse.io/clearviewhealthcarepartners/jobs/5424509008)
   <sub>London, England, United Kingdom · score 5 · vue le 2026-09-30 · **disparue le 2026-10-06**</sub>
 - `CRE-c9be1586` **Credit Agricole CIB** — [Ingénieur Data H/F (Alternance / Apprentissage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110677&idOrigine=1533&LCID=1036&offerReference=2026-110677)
@@ -593,6 +597,8 @@ _Mis a jour le 2026-10-28_
   <sub>Massy, Île-de-France, France · score 5 · vue le 2026-10-14 · **disparue le 2026-10-19**</sub>
 - `MIR-73a13f3b` **Mirakl - Labs** — [Software Engineer Apprentice](https://job-boards.greenhouse.io/mirakllabs/jobs/6212831004)
   <sub>Paris, France · score 5 · vue le 2026-10-01 · **disparue le 2026-10-02**</sub>
+- `MIR-64453c63` **Mirakl - Labs** — [Software Engineer Apprentice - Connect](https://job-boards.greenhouse.io/mirakllabs/jobs/6212831004)
+  <sub>Paris, France · score 5 · vue le 2026-10-02 · **disparue le 2026-10-28**</sub>
 - `SHI-0af30158` **Shift Technology** — [Junior Backend Developer, C# .Net - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003)
   <sub>France - Paris · score 5 · vue le 2026-10-01 · **disparue le 2026-10-14**</sub>
 - `SPE-b945bb76` **Spektrum** — [Junior Biometrics Analyst](https://spektrum-group.com/jobs?gh_jid=4116115101)
@@ -639,8 +645,6 @@ _Mis a jour le 2026-10-28_
   <sub>LUX, Luxembourg Office · score 4 · vue le 2026-09-14 · **disparue le 2026-09-15**</sub>
 - `RED-e6afde8b` **Red Hat** — [Software Engineering Internship - Agent Operations (Dublin, Ireland)](https://redhat.wd5.myworkdayjobs.com/jobs/job/Dublin---MSO/Software-Engineering-Internship---Agent-Operations--Dublin--Ireland-_R-059196)
   <sub>Dublin - MSO · score 4 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
-- `SAM-d8201c1a` **Samsara** — [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093)
-  <sub>London - UK2 · score 4 · vue le 2026-09-14 · **disparue le 2026-09-22**</sub>
 - `SQU-8ebd843a` **Squarepoint Capital** — [Equities Analyst Summer Internship Program](https://www.squarepoint-capital.com/open-opportunities?id=8174630&gh_jid=8174630)
   <sub>New York, London · score 4 · vue le 2026-10-02 · **disparue le 2026-10-05**</sub>
 - `TOA-ccc24a14` **Toast** — [Software Engineering Intern](https://careers.toasttab.com/jobs?gh_jid=8187654)
@@ -829,8 +833,6 @@ _Mis a jour le 2026-10-28_
   <sub>Amsterdam, North Holland, Netherlands · score -1 · vue le 2026-09-14 · **disparue le 2026-10-20**</sub>
 - `OPT-c77c0e83` **Optiver** — [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002)
   <sub>London, England, United Kingdom · score -1 · vue le 2026-09-14 · **disparue le 2026-10-20**</sub>
-- `SAM-b6fcada3` **Samsara** — [Software Engineer I (New Grad)](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345)
-  <sub>London - UK2 · score -1 · vue le 2026-09-14 · **disparue le 2026-09-22**</sub>
 - `SQU-9e8e619b` **Squarepoint Capital** — [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910)
   <sub>London, Montreal, Singapore · score -1 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
 - `SQU-e7274b29` **Squarepoint Capital** — [Trading Infrastructure Specialist – Graduate Programme](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021)
