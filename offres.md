@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-11-06_
 
-🟢 0 | 🔵 6 | ⚪ 260 | 🟣 9 | 🔴 401 | ⚫ 16
+🟢 0 | 🔵 6 | ⚪ 251 | 🟣 9 | 🔴 411 | ⚫ 16
 
 ## 🔵 Postule - en attente (6)
 
@@ -19,7 +19,7 @@ _Mis a jour le 2026-11-06_
 - `TOW-6c25a5bc` **Tower Research Capital** — [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493)
   <sub>Paris · score 11 · vue le 2026-09-14</sub>
 
-## ⚪ A traiter (60) — 200 autres sous le seuil de score 5
+## ⚪ A traiter (60) — 191 autres sous le seuil de score 5
 
 - `QUB-06dc3f4a` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, London, Paris, Zurich · score 25 · vue le 2026-10-05</sub>
@@ -125,22 +125,22 @@ _Mis a jour le 2026-11-06_
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-14</sub>
 - `ART-818e2317` **Artefact** — [Data Scientist Intern - Paris](https://job-boards.greenhouse.io/artefact/jobs/8785269002)
   <sub>9th arrondissement of Paris, 75009, Paris, France · score 8 · vue le 2026-09-22</sub>
-- `BOE-e2f9b9ee` **Boeing** — [Mandatory Internship - Future Flight Operations Research m/f/d](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026527825-1)
+- `BOE-e2f9b9ee` **Boeing** — [Mandatory Internship - Future Flight Operations Research m/f/d](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026527825)
   <sub>DEU - Neu-Isenburg, Germany · score 8 · vue le 2026-11-04</sub>
-- `CRE-4b822573` **Credit Agricole CIB** — [Analyste - Intelligence Artificielle H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=111833&idOrigine=1533&LCID=1036&offerReference=2026-111833)
-  <sub>Saint-Quentin en Yvelines · score 8 · vue le 2026-09-18</sub>
 - `CRE-3077e18e` **Credit Agricole CIB** — [Business Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116157&idOrigine=1533&LCID=1036&offerReference=2026-116157)
   <sub>Saint-Quentin-en-Yvelines · score 8 · vue le 2026-10-05</sub>
-- `CRE-9d9239ae` **Credit Agricole CIB** — [Analyste Crédit Early Detection H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=113297&idOrigine=1533&LCID=1036&offerReference=2026-113297)
-  <sub>Montrouge · score 8 · vue le 2026-10-06</sub>
 - `CRE-7898de75` **Credit Agricole CIB** — [Data Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116482&idOrigine=1533&LCID=1036&offerReference=2026-116482)
   <sub>Montrouge · score 8 · vue le 2026-10-13</sub>
-- `CRE-c1dee3c5` **Credit Agricole CIB** — [Data Manager Trade Finance H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116669&idOrigine=1533&LCID=1036&offerReference=2026-116669)
-  <sub>Saint-Quentin-en-Yvelines · score 8 · vue le 2026-10-20</sub>
-- `CRE-6b4b7246` **Credit Agricole CIB** — [Analyste Onboarding - Front office H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117009&idOrigine=1533&LCID=1036&offerReference=2026-117009)
-  <sub>Montrouge · score 8 · vue le 2026-10-30</sub>
 - `CRE-76d6bd90` **Credit Agricole CIB** — [Analyste M&A Midcap - Stage H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117024&idOrigine=1533&LCID=1036&offerReference=2026-117024)
   <sub>Montrouge · score 8 · vue le 2026-11-02</sub>
+- `CRE-1e792d97` **Credit Agricole CIB** — [Assistant analyste stratégie crédit H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117210&idOrigine=1533&LCID=1036&offerReference=2026-117210)
+  <sub>Montrouge · score 8 · vue le 2026-11-05</sub>
+- `CRI-839ac2b8` **Criteo** — [Product Data Scientist Intern](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Product-Data-Scientist-Intern_r15715-1)
+  <sub>Paris · score 8 · vue le 2026-09-14</sub>
+- `DRW-b9ac8f17` **DRW** — [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243)
+  <sub>London · score 8 · vue le 2026-09-14</sub>
+- `HUD-cf624c85` **Hudson River Trading** — [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083)
+  <sub>Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore · score 8 · vue le 2026-09-14</sub>
 
 ## 🟣 CDI / sortie 2027 (hors stage) (9)
 
@@ -163,7 +163,7 @@ _Mis a jour le 2026-11-06_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (401)
+## 🔴 Mort (refus, offre fermee) (411)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -397,6 +397,8 @@ _Mis a jour le 2026-11-06_
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-10-09**</sub>
 - `CRE-18aa5955` **Credit Agricole CIB** — [Analyste ESG Advisory - Sustainable Banking H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115632&idOrigine=1533&LCID=1036&offerReference=2026-115632)
   <sub>Montrouge · score 8 · vue le 2026-09-17 · **disparue le 2026-11-02**</sub>
+- `CRE-4b822573` **Credit Agricole CIB** — [Analyste - Intelligence Artificielle H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=111833&idOrigine=1533&LCID=1036&offerReference=2026-111833)
+  <sub>Saint-Quentin en Yvelines · score 8 · vue le 2026-09-18 · **disparue le 2026-11-06**</sub>
 - `CRE-c4aad913` **Credit Agricole CIB** — [Analyste Financier IT (FinOps) H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=111295&idOrigine=1533&LCID=1036&offerReference=2026-111295)
   <sub>Montrouge · score 8 · vue le 2026-09-18 · **disparue le 2026-09-21**</sub>
 - `CRE-874064da` **Credit Agricole CIB** — [Data analyst Cash Management H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=110866&idOrigine=1533&LCID=1036&offerReference=2026-110866)
@@ -435,6 +437,8 @@ _Mis a jour le 2026-11-06_
   <sub>Montrouge · score 8 · vue le 2026-09-30 · **disparue le 2026-10-21**</sub>
 - `CRE-cf069ee8` **Credit Agricole CIB** — [Ingénieur IA Junior H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116170&idOrigine=1533&LCID=1036&offerReference=2026-116170)
   <sub>Saint-Quentin-en-Yvelines · score 8 · vue le 2026-10-05 · **disparue le 2026-10-21**</sub>
+- `CRE-9d9239ae` **Credit Agricole CIB** — [Analyste Crédit Early Detection H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=113297&idOrigine=1533&LCID=1036&offerReference=2026-113297)
+  <sub>Montrouge · score 8 · vue le 2026-10-06 · **disparue le 2026-11-06**</sub>
 - `CRE-3df5a60c` **Credit Agricole CIB** — [Analyste Crédit – Financements structurés LBO & TMT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=112179&idOrigine=1533&LCID=1036&offerReference=2026-112179)
   <sub>Montrouge · score 8 · vue le 2026-10-06 · **disparue le 2026-10-20**</sub>
 - `CRE-6276e039` **Credit Agricole CIB** — [Analyste Coverage - Fonds d'infrastructure H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116035&idOrigine=1533&LCID=1036&offerReference=2026-116035)
@@ -457,6 +461,8 @@ _Mis a jour le 2026-11-06_
   <sub>Montrouge · score 8 · vue le 2026-10-19 · **disparue le 2026-11-02**</sub>
 - `CRE-3269480e` **Credit Agricole CIB** — [Développeur Full-Stack Observabilité & Debugging H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116644&idOrigine=1533&LCID=1036&offerReference=2026-116644)
   <sub>Montrouge · score 8 · vue le 2026-10-19 · **disparue le 2026-11-06**</sub>
+- `CRE-c1dee3c5` **Credit Agricole CIB** — [Data Manager Trade Finance H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116669&idOrigine=1533&LCID=1036&offerReference=2026-116669)
+  <sub>Saint-Quentin-en-Yvelines · score 8 · vue le 2026-10-20 · **disparue le 2026-11-06**</sub>
 - `CRE-12a71237` **Credit Agricole CIB** — [Analyste Résultat, Risques de Marché et Liquidité périmètre Trésorerie H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116667&idOrigine=1533&LCID=1036&offerReference=2026-116667)
   <sub>Montrouge · score 8 · vue le 2026-10-20 · **disparue le 2026-10-21**</sub>
 - `CRE-2a25447b` **Credit Agricole CIB** — [Sectors & Advisory Analyst H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116735&idOrigine=1533&LCID=1036&offerReference=2026-116735)
@@ -465,6 +471,8 @@ _Mis a jour le 2026-11-06_
   <sub>Montrouge · score 8 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
 - `CRE-162b42f0` **Credit Agricole CIB** — [Analyste Décarbonation H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116826&idOrigine=1533&LCID=1036&offerReference=2026-116826)
   <sub>Montrouge · score 8 · vue le 2026-10-23 · **disparue le 2026-11-04**</sub>
+- `CRE-6b4b7246` **Credit Agricole CIB** — [Analyste Onboarding - Front office H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117009&idOrigine=1533&LCID=1036&offerReference=2026-117009)
+  <sub>Montrouge · score 8 · vue le 2026-10-30 · **disparue le 2026-11-06**</sub>
 - `CRE-349a8b7d` **Credit Agricole CIB** — [Analyste M&A Large Cap - Stage H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117025&idOrigine=1533&LCID=1036&offerReference=2026-117025)
   <sub>Montrouge · score 8 · vue le 2026-11-02 · **disparue le 2026-11-04**</sub>
 - `HUD-e53dd1cb` **Hudson River Trading** — [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413)
@@ -499,6 +507,8 @@ _Mis a jour le 2026-11-06_
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
 - `AND-6d61eb3f` **Anduril Industries** — [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007)
   <sub>Dublin, Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-09-16**</sub>
+- `BOE-8b84a286` **Boeing** — [Engineering Intern - January 2027](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284)
+  <sub>IRL - Dublin, Ireland · score 7 · vue le 2026-09-14 · **disparue le 2026-11-06**</sub>
 - `CLE-626e1659` **ClearView Healthcare Partners** — [Life Sciences Summer Analyst Intern (Summer 2027)](https://job-boards.greenhouse.io/clearviewhealthcarepartners/jobs/5430533008)
   <sub>London, England, United Kingdom · score 7 · vue le 2026-09-30 · **disparue le 2026-11-02**</sub>
 - `CRE-5a26547f` **Credit Agricole CIB** — [12 Month Internship - eSales Analyst (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=115645&idOrigine=1533&LCID=1036&offerReference=2026-115645)
@@ -653,6 +663,8 @@ _Mis a jour le 2026-11-06_
   <sub>Paris, France · score 5 · vue le 2026-10-02 · **disparue le 2026-10-28**</sub>
 - `MON-cc7e5ab7` **Monzo** — [Associate Data Scientist - Intern](https://job-boards.greenhouse.io/monzo/jobs/8232726)
   <sub>London · score 5 · vue le 2026-09-28 · **disparue le 2026-11-02**</sub>
+- `QUB-3bbdec52` **Qube Research & Technologies** — [VIE in Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002)
+  <sub>London · score 5 · vue le 2026-09-14 · **disparue le 2026-11-06**</sub>
 - `SHI-0af30158` **Shift Technology** — [Junior Backend Developer, C# .Net - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003)
   <sub>France - Paris · score 5 · vue le 2026-10-01 · **disparue le 2026-10-14**</sub>
 - `SPE-b945bb76` **Spektrum** — [Junior Biometrics Analyst](https://spektrum-group.com/jobs?gh_jid=4116115101)
@@ -663,6 +675,10 @@ _Mis a jour le 2026-11-06_
   <sub>Berlin · score 4 · vue le 2026-09-14 · **disparue le 2026-09-24**</sub>
 - `AMU-139fb1ab` **Amundi** — [Stage –  Développeur RPA UI Path  H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=116491&idOrigine=170287&LCID=1036&offerReference=2026-116491)
   <sub>Paris · score 4 · vue le 2026-10-14 · **disparue le 2026-10-19**</sub>
+- `CEL-6efa6710` **Celonis** — [Intern Deployment Engineer - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003)
+  <sub>Munich, Germany · score 4 · vue le 2026-09-14 · **disparue le 2026-11-06**</sub>
+- `CEL-4ae23d23` **Celonis** — [Intern Technology Consultant - Data & AI](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003)
+  <sub>Munich, Germany · score 4 · vue le 2026-09-14 · **disparue le 2026-11-06**</sub>
 - `CEL-993c6ae1` **Celonis** — [Technology & Management Consulting Intern (Value Engineering - UKI Market)](https://job-boards.greenhouse.io/celonis/jobs/8002255003?gh_jid=8002255003)
   <sub>London, United Kingdom · score 4 · vue le 2026-09-22 · **disparue le 2026-11-03**</sub>
 - `CIT-ccfe7e1b` **Citi** — [Services - Full-Time Analyst, UK - London, 2027 (2026 Summer Intern Converts Only)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Full-Time-Analyst--UK---London--2027--2026-Summer-Intern-Converts-Only-_26995669)
@@ -893,6 +909,8 @@ _Mis a jour le 2026-11-06_
   <sub>Amersfoort, Netherlands · score 0 · vue le 2026-10-16 · **disparue le 2026-10-19**</sub>
 - `QUB-d66bf2d4` **Qube Research & Technologies** — [2027 – Internship or Graduate, FPGA Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002)
   <sub>London · score 0 · vue le 2026-09-14 · **disparue le 2026-10-02**</sub>
+- `SAM-9aec94f4` **Samsung** — [Working Student, Project Management / Automotive SoC Software](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Project-Management---Automotive-SoC-Software_R120004-1)
+  <sub>Bavaria Towers, Munich, Germany · score 0 · vue le 2026-09-22 · **disparue le 2026-11-06**</sub>
 - `SHI-1506c439` **Shift Technology** — [Graduate Data Scientist](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003)
   <sub>United Kingdom - London · score 0 · vue le 2026-09-14 · **disparue le 2026-10-19**</sub>
 - `SPE-73f569c5` **Spektrum** — [Junior .NET Developer](https://spektrum-group.com/jobs?gh_jid=4362654101)
@@ -917,6 +935,8 @@ _Mis a jour le 2026-11-06_
   <sub>Geneva · score -1 · vue le 2026-09-14 · **disparue le 2026-10-12**</sub>
 - `HOW-0d5f538f` **Howden** — [Risk and Compliance Graduate Programme 2027](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Risk-and-Compliance-Graduate-Programme-2027_R0019263)
   <sub>London - One Creechurch Place · score -1 · vue le 2026-09-15 · **disparue le 2026-09-16**</sub>
+- `HOW-689d5fa3` **Howden** — [Graduate Analyst – Credit & Financial Risk Reinsurance](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Zurich---64-Stockerstrasse/Junior-Quantitative-Analyst--Credit---Financial-Risk-_R0018956)
+  <sub>Zurich - 64 Stockerstrasse · score -1 · vue le 2026-11-02 · **disparue le 2026-11-06**</sub>
 - `IMC-409e56f6` **IMC** — [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101)
   <sub>Amsterdam, Netherlands · score -1 · vue le 2026-09-14 · **disparue le 2026-09-24**</sub>
 - `IMC-e1ebee40` **IMC** — [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4667815101)
