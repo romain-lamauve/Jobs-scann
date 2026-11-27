@@ -2,7 +2,7 @@
 
 _Mis a jour le 2026-11-27_
 
-🟢 0 | 🔵 4 | ⚪ 174 | 🟣 9 | 🔴 591 | ⚫ 16
+🟢 0 | 🔵 4 | ⚪ 174 | 🟣 9 | 🔴 592 | ⚫ 16
 
 ## 🔵 Postule - en attente (4)
 
@@ -49,6 +49,8 @@ _Mis a jour le 2026-11-27_
   <sub>Tremblay-en-France · score 11 · vue le 2026-10-01</sub>
 - `AIR-69a177ef` **Airbus** — [STAGE 2027 - Ingénieur Matériaux & Procédés Composite (h/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Ingnieur-Matriaux---Procds-Composite--h-f-_JR10444599)
   <sub>Paris Area · score 11 · vue le 2026-10-09</sub>
+- `AIR-339b0fc7` **Airbus** — [STAGE 2027 - Ingénieur Réseau & Développement Open-Source / SD-WAN (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027--Dveloppement-Rseau---Supervision-et-Traffic-Engineering-sur-FRR--h-f-_JR10445333)
+  <sub>Paris Area · score 11 · vue le 2026-10-29</sub>
 - `EUR-c4da209c` **Euronext** — [Quant Analyst Intern](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Quant-Analyst-Intern_R29496)
   <sub>Paris · score 11 · vue le 2026-11-17</sub>
 - `HIT-901fb477` **Hitachi** — [STAGE – Ingénieur Data Scientist Agentic AI H/F](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vlizy-Villacoublay-le-de-France-France/STAGE---Ingnieur-Data-Scientist-Agentic-AI-H-F_R0153232)
@@ -89,8 +91,6 @@ _Mis a jour le 2026-11-27_
   <sub>France, Sassenage · score 8 · vue le 2026-11-26</sub>
 - `CRE-4b822573` **Credit Agricole CIB** — [Analyste - Intelligence Artificielle H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=111833&idOrigine=1533&LCID=1036&offerReference=2026-111833)
   <sub>Saint-Quentin en Yvelines · score 8 · vue le 2026-09-18</sub>
-- `CRE-162b42f0` **Credit Agricole CIB** — [Analyste Décarbonation H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116826&idOrigine=1533&LCID=1036&offerReference=2026-116826)
-  <sub>Montrouge · score 8 · vue le 2026-10-23</sub>
 - `CRE-76d6bd90` **Credit Agricole CIB** — [Analyste M&A Midcap - Stage H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117024&idOrigine=1533&LCID=1036&offerReference=2026-117024)
   <sub>Montrouge · score 8 · vue le 2026-11-02</sub>
 - `CRE-6d67e521` **Credit Agricole CIB** — [Assistant Trader H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117265&idOrigine=1533&LCID=1036&offerReference=2026-117265)
@@ -159,7 +159,7 @@ _Mis a jour le 2026-11-27_
 - `GEN-28b06312` **Geneva Trading** — [Graduate Junior Discretionary Trader - Dublin](https://job-boards.greenhouse.io/genevatrading/jobs/5235738007)
   <sub>Dublin Ireland Office · score -1 · vue le 2026-09-14</sub>
 
-## 🔴 Mort (refus, offre fermee) (591)
+## 🔴 Mort (refus, offre fermee) (592)
 
 - `QUB-55413fa5` **Qube Research & Technologies** — [2027 - Internship, Quantitative Research and Trading](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002)
   <sub>Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich · score 25 · vue le 2026-09-14 · **disparue le 2026-10-06**</sub>
@@ -303,8 +303,6 @@ _Mis a jour le 2026-11-27_
   <sub>Paris Area · score 11 · vue le 2026-10-28 · **disparue le 2026-10-29**</sub>
 - `AIR-bfe75fa1` **Airbus** — [STAGE 2027 Archtecte Data en intelligence Multi sources (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027-Archtecte-Data-en-intelligence-Multi-sources--F-H-_JR10440064)
   <sub>Paris Area · score 11 · vue le 2026-10-28 · **disparue le 2026-10-30**</sub>
-- `AIR-339b0fc7` **Airbus** — [STAGE 2027 - Ingénieur Réseau & Développement Open-Source / SD-WAN (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027--Dveloppement-Rseau---Supervision-et-Traffic-Engineering-sur-FRR--h-f-_JR10445333)
-  <sub>Paris Area · score 11 · vue le 2026-10-29 · **disparue le 2026-11-20**</sub>
 - `AMU-54291bb2` **Amundi** — [Stage - Analyste Recherche Business Intelligence H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=116190&idOrigine=170287&LCID=1036&offerReference=2026-116190)
   <sub>Paris 75015 · score 11 · vue le 2026-10-06 · **disparue le 2026-10-13**</sub>
 - `AMU-94111964` **Amundi** — [Stagiaire - Data Science & IA H/F (Stage)](https://jobs.amundi.com/Pages/Offre/detailoffre.aspx?idOffre=113923&idOrigine=170287&LCID=1036&offerReference=2026-113923)
@@ -587,6 +585,8 @@ _Mis a jour le 2026-11-27_
   <sub>Montrouge · score 8 · vue le 2026-10-21 · **disparue le 2026-11-12**</sub>
 - `CRE-42d9748f` **Credit Agricole CIB** — [Assistant Développeur C# - GMD Pricing Services - Non Linear IT H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116799&idOrigine=1533&LCID=1036&offerReference=2026-116799)
   <sub>Montrouge · score 8 · vue le 2026-10-22 · **disparue le 2026-10-23**</sub>
+- `CRE-162b42f0` **Credit Agricole CIB** — [Analyste Décarbonation H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=116826&idOrigine=1533&LCID=1036&offerReference=2026-116826)
+  <sub>Montrouge · score 8 · vue le 2026-10-23 · **disparue le 2026-11-27**</sub>
 - `CRE-6b4b7246` **Credit Agricole CIB** — [Analyste Onboarding - Front office H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117009&idOrigine=1533&LCID=1036&offerReference=2026-117009)
   <sub>Montrouge · score 8 · vue le 2026-10-30 · **disparue le 2026-11-17**</sub>
 - `CRE-349a8b7d` **Credit Agricole CIB** — [Analyste M&A Large Cap - Stage H/F (Stage)](https://jobs.ca-cib.com/Pages/Offre/detailoffre.aspx?idOffre=117025&idOrigine=1533&LCID=1036&offerReference=2026-117025)
@@ -1275,6 +1275,8 @@ _Mis a jour le 2026-11-27_
   <sub>Aarhus, Central Denmark Region, Denmark; Amsterdam, Netherlands · score -1 · vue le 2026-09-24 · **disparue le 2026-10-30**</sub>
 - `JEN-babfbd84` **Jensen Hughes** — [Graduate Fire Engineer 2026 Start - Dublin](https://job-boards.greenhouse.io/jensenhughes/jobs/4913510008)
   <sub>Dublin, Dublin, Ireland · score -1 · vue le 2026-09-14 · **disparue le 2026-10-09**</sub>
+- `MAN-5737a0e0` **Man Group** — [Solutions Graduate Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101)
+  <sub>London · score -1 · vue le 2026-11-20 · **disparue le 2026-11-27**</sub>
 - `MAV-d4efffa6` **Maven** — [Graduate Infrastructure Engineer Programme](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020)
   <sub>London · score -1 · vue le 2026-09-14 · **disparue le 2026-10-20**</sub>
 - `MON-1a8606b1` **Monzo** — [Graduate Credit Analyst](https://job-boards.greenhouse.io/monzo/jobs/8173733)
